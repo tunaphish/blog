@@ -319,6 +319,11 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+.tag {
+  display: inline-block;
+  margin: -80px 5px 40px 5px;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
