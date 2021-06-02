@@ -7,6 +7,8 @@
   Starter for the official Gatsby blog theme
 </h1>
 
+[GH Pages Link](https://tunaphish.github.io/blog)
+
 Quickly get started using the Gatsby blog theme! This starter creates a new Gatsby site that is preconfigured to work with the [official Gatsby blog theme](https://www.npmjs.com/package/gatsby-theme-blog).
 
 ## 🚀 Quick start
