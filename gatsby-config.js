@@ -8,7 +8,6 @@ module.exports = {
     description: `tuna's blog`,
     siteUrl: `https://tunaphish.github.io/blog/`,
   },
-  pathPrefix: "/blog",
   plugins: [
     `gatsby-plugin-image`,
     {
