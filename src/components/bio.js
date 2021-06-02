@@ -8,6 +8,25 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import styled from 'styled-components'
+
+const BioStyle = styled.div`
+  display: flex;
+  margin-bottom: var(--spacing-16);
+`
+
+const BioCaption = styled.p`
+  margin-bottom: var(--spacing-0);
+`
+
+const BioAvatarWrapper = styled.div`
+  img {
+    margin-right: var(--spacing-4);
+    margin-bottom: var(--spacing-0);
+    min-width: 50px;
+    border-radius: 100%;
+  }
+`
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -29,23 +48,25 @@ const Bio = () => {
   const author = data.site.siteMetadata?.author
 
   return (
-    <div className="bio">
-      <StaticImage
-        className="bio-avatar"
-        layout="fixed"
-        formats={["AUTO", "WEBP", "AVIF"]}
-        src="../images/profile-pic.jpg"
-        width={50}
-        height={50}
-        quality={95}
-        alt="Profile picture"
-      />
+    <BioStyle>
+      <BioAvatarWrapper>
+        <StaticImage
+          layout="fixed"
+          formats={["AUTO", "WEBP", "AVIF"]}
+          src="../images/profile-pic.jpg"
+          width={50}
+          height={50}
+          quality={95}
+          alt="Profile picture"
+        />
+      </BioAvatarWrapper>
+
       {author?.name && (
-        <p>
+        <BioCaption>
           Written by <strong>{author.name}</strong> {author?.summary || null}
-        </p>
+        </BioCaption>
       )}
-    </div>
+    </BioStyle>
   )
 }
 
