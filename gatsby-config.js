@@ -122,14 +122,5 @@ module.exports = {
     `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
-    {
-      resolve: 'gatsby-plugin-eslint',
-      options: {
-        stages: ['develop'],
-        extensions: ['js', 'jsx'],
-        exclude: ['node_modules', '.cache', 'public'],
-        // Any eslint-webpack-plugin options below
-      }
-    }
   ],
 }
