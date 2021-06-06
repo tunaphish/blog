@@ -1,18 +1,18 @@
-import * as React from "react"
-import { Link, graphql } from "gatsby"
+import * as React from 'react';
+import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
 
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Layout from '../components/layout';
+import Seo from '../components/seo';
 
 const BlogTitle = styled.h1`
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
-`
+`;
 
 const Date = styled.p`
   font-size: var(--fontSize-2);
   font-family: var(--font-heading);
-`
+`;
 
 const BlogPostNav = styled.ul`
   margin: var(--spacing-0);
@@ -21,18 +21,16 @@ const BlogPostNav = styled.ul`
   justify-content: space-between;
   list-style: none;
   padding: 0;
-`
+`;
 
-const BlogPostTemplate = ({ data, location }) => {
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const { previous, next } = data
-  
-  const Tags = post.frontmatter.tags?.map(tag => {
-    return (
-      <Link to={`/tags/${tag}`} className="tag" key={tag}>{tag}</Link>
-    )
-  });
+const BlogPostTemplate = ({ data, location }: any) => {
+  const post = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata?.title || 'Title';
+  const { previous, next } = data;
+
+  const Tags = post.frontmatter.tags?.map((tag) => (
+    <Link to={`/tags/${tag}`} className="tag" key={tag}>{tag}</Link>
+  ));
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -55,7 +53,7 @@ const BlogPostTemplate = ({ data, location }) => {
           itemProp="articleBody"
         />
         <hr />
-        <footer/>
+        <footer />
       </article>
       <nav className="blog-post-nav">
         <BlogPostNav
@@ -65,24 +63,28 @@ const BlogPostTemplate = ({ data, location }) => {
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+                ←
+                {' '}
+                {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
               <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
+                {next.frontmatter.title}
+                {' '}
+                →
               </Link>
             )}
           </li>
         </BlogPostNav>
       </nav>
     </Layout>
-  )
-}
+  );
+};
 
-export default BlogPostTemplate
+export default BlogPostTemplate;
 
 export const pageQuery = graphql`
   query BlogPostBySlug(
@@ -123,4 +125,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

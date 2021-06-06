@@ -1,41 +1,40 @@
-import * as React from "react"
-import { Link, graphql } from "gatsby"
+import * as React from 'react';
+import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
 
-
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Layout from '../components/layout';
+import Seo from '../components/seo';
 
 const PostListItem = styled.article`
   margin-bottom: var(--spacing-8);
   margin-top: var(--spacing-8);
-`
+`;
 
 const Container = styled.header`
   margin-bottom: var(--spacing-4);
-`
+`;
 
 const Description = styled.p`
   margin-bottom: var(--spacing-0);
-`
+`;
 
 const Title = styled.h2`
   font-size: var(--fontSize-4);
   color: var(--color-primary);
   margin-bottom: var(--spacing-2);
   margin-top: var(--spacing-0);
-`
+`;
 
-const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
+const BlogIndex = ({ data, location }: any) => {
+  const siteTitle = data.site.siteMetadata?.title || 'Title';
+  const posts = data.allMarkdownRemark.nodes;
 
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="All posts" />
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
+      <ol style={{ listStyle: 'none' }}>
+        {posts.map((post) => {
+          const title = post.frontmatter.title || post.fields.slug;
 
           return (
             <li key={post.fields.slug}>
@@ -61,14 +60,14 @@ const BlogIndex = ({ data, location }) => {
                 </section>
               </PostListItem>
             </li>
-          )
+          );
         })}
       </ol>
     </Layout>
-  )
-}
+  );
+};
 
-export default BlogIndex
+export default BlogIndex;
 
 export const pageQuery = graphql`
   query {
@@ -91,4 +90,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
