@@ -11,6 +11,21 @@ module.exports = {
   plugins: [
     `gatsby-plugin-image`,
     {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`, `.md`],
+        gatsbyRemarkPlugins: [
+          {
+            resolve: "gatsby-remark-double-brackets-link",
+            options: {
+              titleToURLPath: `${__dirname}/resolve-url.js`,
+              stripBrackets: true,
+            },
+          },
+        ]
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
@@ -63,7 +78,7 @@ module.exports = {
     {
       resolve: `gatsby-transformer-markdown-references`,
       options: {
-        types: ["MarkdownRemark"],
+        types: ["MarkdownRemark", "Mdx"],
       },
     },
     `gatsby-transformer-sharp`,

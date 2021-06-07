@@ -57,15 +57,13 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const notesTemplate = require.resolve(`./src/templates/note-template.js`)
   const noteResult = await graphql(`
     {
-      allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: ASC }
-        limit: 1000
-        filter: {fileAbsolutePath: {regex: "\/content\/notes\/"}}
-      ) {
-        nodes {
-          id
-          fields {
-            slug
+      allFile(filter: {absolutePath: {regex: "/content\/notes\/.*md/"}}) {
+        edges {
+          node {
+            childMdx {
+              slug
+            }
+            absolutePath
           }
         }
       }
@@ -77,12 +75,13 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return
   }
   
-  noteResult.data.allMarkdownRemark.nodes.forEach(({ node, fields, id }) => {
+  noteResult.data.allFile.edges.forEach(({ node }) => {
     createPage({
-      path: `garden${fields.slug}`,
+      path: `garden/${node.childMdx.slug}`,
       component: notesTemplate,
       context: {
-        id: id,
+        // additional data can be passed via context
+        slug: node.childMdx.slug,
       },
     })
   })
