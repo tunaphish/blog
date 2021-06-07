@@ -58,7 +58,7 @@ const BlogIndex = ({ data, location }) => {
               >
                 <Container>
                   <Title>
-                    <Link to={`blog${post.fields.slug}`} itemProp="url">
+                    <Link to={`note${post.fields.slug}`} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </Title>
