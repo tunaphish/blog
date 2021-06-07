@@ -79,7 +79,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   
   noteResult.data.allMarkdownRemark.nodes.forEach(({ node, fields, id }) => {
     createPage({
-      path: `note${fields.slug}`,
+      path: `garden${fields.slug}`,
       component: notesTemplate,
       context: {
         id: id,
