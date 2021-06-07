@@ -29,11 +29,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   
-  const Tags = post.frontmatter.tags?.map(tag => {
-    return (
-      <Link to={`/tags/${tag}`} className="tag" key={tag}>{tag}</Link>
-    )
-  });
+
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -49,7 +45,6 @@ const BlogPostTemplate = ({ data, location }) => {
         <header>
           <BlogTitle itemProp="headline">{post.frontmatter.title}</BlogTitle>
           <Date>{post.frontmatter.date}</Date>
-          {Tags}
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
