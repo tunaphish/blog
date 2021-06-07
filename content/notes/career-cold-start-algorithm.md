@@ -1,4 +1,6 @@
-# Career Cold Start Algorithm
+---
+title: Career Cold Start Algorithm
+---
 joining a new job is difficult. you have a massive knowledge defecit and no preexisting relationships. you want to want maximize your initial impact while minimizing collateral damage. 
 
 # process

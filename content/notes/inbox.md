@@ -1,4 +1,7 @@
-# Inbox
+---
+title: Inbox
+---
+
 1. [[metacognition]] requires cleanup
 2. the most interesting media explores questions that don't have a defined answer and the author doesn't necessarily attempt to impose one. thought explorations
 3. Planned spontaneity (concept I think about a lot)

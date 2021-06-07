@@ -1,4 +1,7 @@
-# Participate in Online Communities
+---
+title: Participate in Online Communities
+---
+
 don't be a lurker!
 show up the same place everyday and you make friends. this supports [[favor-depth-of-experience-over-breadth]]
 

@@ -15,14 +15,16 @@ const NoteTemplate = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-
-    
+      <Seo
+        title={post.frontmatter.title}
+        description={post.excerpt}
+      />
       <article
         itemScope
         itemType="http://schema.org/Article"
       >
         <header>
-          <NoteTitle itemProp="headline">{/*post.frontmatter.title*/ "tempo"}</NoteTitle>
+          <NoteTitle itemProp="headline">{post.frontmatter.title}</NoteTitle>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -30,7 +32,7 @@ const NoteTemplate = ({ data, location }) => {
         />
         <hr />
         <footer>
-            temp footer
+          {/*Insert a bio or something here later*/}
         </footer>
       </article>
     </Layout>
@@ -51,7 +53,11 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
-      html 
+      html
+      frontmatter {
+        title
+        tags
+      } 
     }
   }
 `

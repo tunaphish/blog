@@ -1,4 +1,6 @@
-# Code Reviews
+---
+title: Code Reviews
+---
 reviews protect against the natural state of entropy that code tends to fall into. 
 use this guide to refactor and to review other's code
 

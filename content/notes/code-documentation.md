@@ -1,4 +1,6 @@
-# code documentation
+---
+title: Code Documentation
+---
 documentation is the act of sharing knowledge
 
 # tenets

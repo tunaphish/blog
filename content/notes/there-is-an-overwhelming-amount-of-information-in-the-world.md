@@ -1,4 +1,7 @@
-# There is an Overwhelming Amount of Information in the World
+---
+title: There is an Overwhelming Amount of Information in the World
+---
+
 Print → Persistent
 Phone → Instant
 Internet → Persistent and Instant

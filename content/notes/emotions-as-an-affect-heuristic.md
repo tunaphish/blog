@@ -1,4 +1,6 @@
-# emotions-as-an-affect-heuristic
+---
+title: Emotions as an Affect Heurstic
+---
 Remember that [[decision-making-length-should-be-proportional-to-importance]]
 emotions support this principal by helping you quickly make decisions. Does this person piss you off? Don't hire them. A situation feels scary? Get out of there. Intuitives hone this ability and are able to progress far in life with "gut feeling" decision making. 
 

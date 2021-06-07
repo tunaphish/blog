@@ -1,4 +1,6 @@
-# software engineer interview questions
+---
+title: Software Engineer Interview Questions
+---
 ## interviewer
 name, role, time w/ company
 

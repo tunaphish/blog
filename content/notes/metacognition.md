@@ -1,5 +1,6 @@
-# metacognition
-
+---
+title: Metacognition
+---
 ## tenets for operating your exocortex
 notes should be fairly conceptual and general in nature. this helps relate ideas 
 notes should be declarative. they should assert an opinion. 

@@ -1,4 +1,6 @@
-# Research [[habit-chain]]
+---
+title: Research Habit Chain
+---
 1. read chapter
 2. summarize chapter
 3. summarize book

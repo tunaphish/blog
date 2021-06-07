@@ -1,4 +1,6 @@
-# interview loop
+---
+title: Interview Loop Habit Chain
+---
 [[habit-chain]]
 Brute force first
 1. data structures?

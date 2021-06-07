@@ -1,4 +1,6 @@
-# Sprint Habit Chain
+---
+title: Sprint Habit Chain
+---
 generic workflow for how I approach projects
 
 # levels

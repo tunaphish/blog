@@ -1,4 +1,6 @@
-# Five Love Languages
+---
+title: Five Love Languages
+---
 people express and receive love differently. identify how your loved ones communicate their love languages
 
 1. acts of service

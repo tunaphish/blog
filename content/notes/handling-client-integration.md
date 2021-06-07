@@ -1,5 +1,6 @@
-# handling-client-integration
-
+---
+title: Handling Client Integration
+---
 ![](content/images/client-integration-flow.png)
 
 # timeouts

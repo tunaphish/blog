@@ -1,4 +1,7 @@
-# Design Habit Chain
+---
+title: Design Habit Chain
+---
+
 ## [[habit-chain]]
 1. define problem and time to research
 2. gather artifacts

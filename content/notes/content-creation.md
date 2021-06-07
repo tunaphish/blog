@@ -1,4 +1,7 @@
-# Content Creation
+---
+title: Content Creation
+---
+
 # goals
  you are filming and documenting your interesting life and then crafting a narrative around it. 
 - look back on my life

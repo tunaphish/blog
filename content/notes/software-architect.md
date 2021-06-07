@@ -1,4 +1,6 @@
-# Software Architect
+---
+title: Software Architect
+---
 # considerations when designing
 industry standard unless you have a reason not to
 

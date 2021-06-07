@@ -1,4 +1,6 @@
-# Concept Artist [[habit-chain]]
+---
+title: Concept Artist Habit Chain
+---
 
 # design guide
 from designs, identify areas of things you don't know how to draw!

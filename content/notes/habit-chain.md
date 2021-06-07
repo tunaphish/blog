@@ -1,4 +1,6 @@
-# Habit Chain
+---
+title: Habit Chain
+---
 ![](../images/habit-loop.png)
 
 # Daily Habit Chain

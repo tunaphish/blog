@@ -1,4 +1,6 @@
-# Decision Making
+---
+title: Decision Making
+---
 # frameworks for guiding decision making
 1. [[minimize-regret]] 
 2. tenets

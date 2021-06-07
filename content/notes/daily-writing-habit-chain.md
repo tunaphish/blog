@@ -1,4 +1,7 @@
-# daily writing habit chain
+---
+title: Daily Writing Habit Chain
+---
+
 [[habit-chain]]
 1. mind dump
    1. morning papers -> stream of consciousness writing for a while. 

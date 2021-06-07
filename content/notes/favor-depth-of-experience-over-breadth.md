@@ -1,4 +1,6 @@
-# Favor Depth of Experience of Breadth
+---
+title: Favor Depth of Experience over Breadth
+---
 TODO
 
 There's a common line of thought that you should favor experiences over material possessions. This comes from a rejection of consumerism and the belief that a life rich in experiences is one way to [[minimize-regret]]. However, there are several flaws with this line of thinking. 

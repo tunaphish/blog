@@ -1,5 +1,6 @@
-
-# Weekend Habit Chain
+---
+title: Weekend Habit Chain
+---
 # friday spa night [[habit-chain]]
 1. bath
     1. candles

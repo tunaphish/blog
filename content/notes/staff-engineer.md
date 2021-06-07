@@ -1,4 +1,6 @@
-# Staff Engineer
+---
+title: Staff Engineer
+---
 Encompasses the highest levels of the individual contributor track for an engineer's career. Has a noticeable jump in ambiguity between staff and senior. Not in the level of ambiguity in the problems you face, although it does increase but the level of ambiguity in job responsibilities as well. The breadth of responsibilities is wide enough that individuals tend to find themselves falling into pretty common archetypes of staff engineer. 
 1. tech lead
 2. architect

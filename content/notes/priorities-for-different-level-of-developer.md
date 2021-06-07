@@ -1,4 +1,6 @@
-# priorities for level of developers
+---
+title: Priorities for Different Level of Software Developer
+---
 SDE III Should have project level visibility
 - roles
 - guiding devs

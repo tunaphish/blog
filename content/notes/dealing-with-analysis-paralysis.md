@@ -1,4 +1,6 @@
-# dealing with analysis paralysis
+---
+title: Dealing with Analysis Paralysis
+---
 Something I struggle with a lot. I constantly find new ways to do this. From infinite research to my latest way of creating 'mood boards'. Just put something out there. You will know if it doesn't fit. 
 
 ## remember, it is an arbitrary world

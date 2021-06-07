@@ -1,5 +1,6 @@
-# The Importance of Breaks for Knowledge Work
-
+---
+title: Breaks are Important for Knowledge Work
+---
 ## Diffused vs Focused Learning
 diffused learning vs focused learning is the concept that you are also learning when you aren't actively learning and that it is a necessary part of the process. 
 

@@ -1,4 +1,6 @@
-# Keystone Habits
+---
+title: Keystone Habits
+---
 the first additive habits or focus areas you should focus on when attempting to change your life.
 don't forget to take your MEDS
 1. Meditation

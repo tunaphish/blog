@@ -1,4 +1,6 @@
-# How do you Live a Life with no Regrets
+---
+title: How do you live a life with no regrets
+---
 reaper explores the question how do you live a life without regrets... how do you [[minimize-regret]]
 
 each day explores a different facet of that question

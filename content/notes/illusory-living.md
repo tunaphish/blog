@@ -1,4 +1,6 @@
-# illusory living
+---
+title: Illusory Living
+---
 Humans live their life through an illusion. This is due to evolutionary biology shaping our minds not to see reality as it is but as a means to propogate our genes to the next generation. This means you cannot always trust things as you see them. 
 
 ## An Everyday Example
