@@ -8,7 +8,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
 
   // Get all markdown blog posts sorted by date
-  const result = await graphql(
+  const blogResult = await graphql(
     `
       {
         allMarkdownRemark(
@@ -27,38 +27,65 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
   )
 
-  if (result.errors) {
+  if (blogResult.errors) {
     reporter.panicOnBuild(
       `There was an error loading your blog posts`,
-      result.errors
+      blogResult.errors
     )
     return
   }
 
-  const posts = result.data.allMarkdownRemark.nodes
+  const posts = blogResult.data.allMarkdownRemark.nodes
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
   // `context` is available in the template as a prop and as a variable in GraphQL
-
-  if (posts.length > 0) {
-    posts.forEach((post, index) => {
-      const previousPostId = index === 0 ? null : posts[index - 1].id
-      const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
-
-      createPage({
-        path: `blog${post.fields.slug}`,
-        component: blogPost,
-        context: {
-          id: post.id,
-          previousPostId,
-          nextPostId,
-        },
-      })
+  posts.forEach((post, index) => {
+    const previousPostId = index === 0 ? null : posts[index - 1].id
+    const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
+    createPage({
+      path: `blog${post.fields.slug}`,
+      component: blogPost,
+      context: {
+        id: post.id,
+        previousPostId,
+        nextPostId,
+      },
     })
+  })
+  
+  const notesTemplate = require.resolve(`./src/templates/note-template.js`)
+  const noteResult = await graphql(`
+    {
+      allMarkdownRemark(
+        sort: { fields: [frontmatter___date], order: ASC }
+        limit: 1000
+        filter: {fileAbsolutePath: {regex: "\/content\/notes\/"}}
+      ) {
+        nodes {
+          id
+          fields {
+            slug
+          }
+        }
+      }
+    }
+  `)
+
+  if (noteResult.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
   }
-
-
+  
+  noteResult.data.allMarkdownRemark.nodes.forEach(({ node, fields, id }) => {
+    createPage({
+      path: `note${fields.slug}`,
+      component: notesTemplate,
+      context: {
+        id: id,
+      },
+    })
+  })
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
