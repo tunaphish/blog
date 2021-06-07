@@ -1,6 +1,6 @@
 # handling-client-integration
 
-![](attachments/client-integration-flow.png)
+![](content/images/client-integration-flow.png)
 
 # timeouts
 1. where is it used (client or server)
