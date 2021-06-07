@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `tunaphishy's blog`,
+    title: `tunaphishy's garden`,
     author: {
       name: `Tuan Pham`,
       summary: `the protagonist`,
     },
-    description: `tuna's blog`,
-    siteUrl: `https://tunaphish.github.io/blog/`,
+    description: `tuna's garden`,
+    siteUrl: `https://tunaphish.me`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -109,8 +109,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `tunaphish's blog`,
-        short_name: `tunaphish's blog`,
+        name: `tunaphish`,
+        short_name: `tunaphish`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
