@@ -23,6 +23,12 @@ why reddit is oftentimes pretty shitty and I've blocked it on every single
 4. bias towards low effort, low substance material (man I'm talking about this a lot)
 5. there is a huge bias against self promotion which stands in contrast with tiktok where it's celebrated. I can see both sides of this argument because it's fairly annoying to wade through a bunch of people trying to sell you something but I like the way that tiktok celebrates putting yourself out there and to [[allow-yourself-to-be-vulnerable]]
 
+## rss feeds
+there are some misc articles I get sent, blogs I want to keep track of that exist in different spheres and just newsletters I want to keep up with like the latest Gatsby news.
+for this I'll use a simple RSS feed. it's the ultimate in curation since you have to actively add things to your feed instead of an algorithm feeding it to you. 
+
+one big issue is dealing with major news sites where the rate of articles they send out make it fairly difficult to filter the ones you actually care about. sadly, just get rid of them. the noise to signal ratio isn't there. a big loss for things like japanese media (siliconera comes to mind) that you don't have other organic sources of information for (actually tiktok is filling this void quite nicely) but that's okay. 
+
 
 ---
 # References

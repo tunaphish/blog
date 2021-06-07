@@ -1,5 +1,6 @@
 ---
 title: Allow yourself to be Vulnerable
+tags: ["example]
 ---
 ## fear of failure
 the antithesis to what I believe to be my biggest issue in life. I'm afraid of expressing my authentic self because I believe I won't be accepted. I cover it up with analysis paralysis to delay putting my work out there. Sarcasm to avoid expressing my true beliefs. Weasel words to avoid having an opinion. 

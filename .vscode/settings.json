@@ -25,5 +25,5 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
-  "foam.files.ignore": ["content/blog/*"]
+  "foam.files.ignore": ["content/blog/*", "**/node_modules"]
 }
