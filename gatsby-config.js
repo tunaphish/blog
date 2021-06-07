@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `tunaphishy's blog`,
+    title: `tunaphishy's garden`,
     author: {
       name: `Tuan Pham`,
       summary: `the protagonist`,
     },
-    description: `tuna's blog`,
-    siteUrl: `https://tunaphish.github.io/blog/`,
+    description: `tunaphishy's garden`,
+    siteUrl: `https://tunaphish.me`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -15,6 +15,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/notes`,
+        name: `notes`,
       },
     },
     {
@@ -43,7 +50,20 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          {
+            resolve: "gatsby-remark-double-brackets-link",
+            options: {
+              titleToURLPath: `${__dirname}/resolve-url.js`,
+              stripBrackets: true,
+            },
+          }
         ],
+      },
+    },
+    {
+      resolve: `gatsby-transformer-markdown-references`,
+      options: {
+        types: ["MarkdownRemark"],
       },
     },
     `gatsby-transformer-sharp`,
@@ -109,8 +129,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `tunaphish's blog`,
-        short_name: `tunaphish's blog`,
+        name: `tunaphish`,
+        short_name: `tunaphish`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
@@ -122,14 +142,5 @@ module.exports = {
     `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
-    {
-      resolve: 'gatsby-plugin-eslint',
-      options: {
-        stages: ['develop'],
-        extensions: ['js', 'jsx'],
-        exclude: ['node_modules', '.cache', 'public'],
-        // Any eslint-webpack-plugin options below
-      }
-    }
   ],
 }
