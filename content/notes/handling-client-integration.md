@@ -1,7 +1,7 @@
 ---
 title: Handling Client Integration
 ---
-![](content/images/client-integration-flow.png)
+![](./images/client-integration-flow.png)
 
 # timeouts
 1. where is it used (client or server)

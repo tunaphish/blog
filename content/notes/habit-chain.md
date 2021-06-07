@@ -1,7 +1,7 @@
 ---
 title: Habit Chain
 ---
-![](../images/habit-loop.png)
+![](./images/habit-loop.png)
 
 # Daily Habit Chain
 ## 08:00AM - morning routine
