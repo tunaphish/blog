@@ -52,6 +52,9 @@ bauhaus philosophy dictates that form should follow function
 4. hifi page
 
 # developer [[habit-chain]]
+## web [[tenets]]
+favor HTML\CSS over Javascript solutions
+## design flow
 1. define the problem as specifically as possible
 2. identify volatility 
 3. identify generality
@@ -68,23 +71,7 @@ styled-systems
 
 [100 underline/overlay animations | The ultimate CSS collection 🥇 - DEV Community](https://www.notion.so/100-underline-overlay-animations-The-ultimate-CSS-collection-DEV-Community-9dd863b6d9124a679aeae346318890b3)
 
-[https://w.amazon.com/bin/view/React/](https://w.amazon.com/bin/view/React/)
-
-[https://polaris.a2z.com/fundamentals/foundation/key_concepts/](https://polaris.a2z.com/fundamentals/foundation/key_concepts/)
-
 [I made 100 CSS loaders for your next project - DEV Community](https://www.notion.so/I-made-100-CSS-loaders-for-your-next-project-DEV-Community-f9fbf46144a64701bbcd1bd007f9d480)
-
-- timbo
-
-    [@cloonan](https://amzn-media.slack.com/team/W017MHBFX6H) - is my old manager. He is Australian too. Nice guy. He used to run Broadcast, Wiki, Sage, Drive, etc. Not sure if he still manages them, but worthwhile pinging him to chat about frontend either way.
-
-    [4:16](https://amzn-media.slack.com/archives/D018JBG81N2/p1620947788001800)
-
-    [@voolexa](https://amzn-media.slack.com/team/W0170UKQLR1) - is a lead engineer in Bauhaus
-
-    [4:16](https://amzn-media.slack.com/archives/D018JBG81N2/p1620947809002300)
-
-    I can provide an introduction if you ever need it. Just let me know
 
 # marketing
 [previewed.app](http://previewed.app) → mocks a UI for you

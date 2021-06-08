@@ -63,8 +63,9 @@ title: Habit Chain
         3. Project Notes (Wikis)
     4. Content Creation
 3. research
-    1. targeted research and inspo
-    2. read
+    1. feedly articles
+    2. targeted research and inspo
+    3. read
 
 # 11:00PM - night routine
 1. Set Workout Clothes
