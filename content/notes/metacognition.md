@@ -1,11 +1,7 @@
 ---
 title: Metacognition
 ---
-## tenets for operating your exocortex
-notes should be fairly conceptual and general in nature. this helps relate ideas 
-notes should be declarative. they should assert an opinion. 
-notes should be atomic. use a wet and dry method. if you find yourself writing about a concept twice then extract into a common note. 
-notes should be accompanied with a visual. aids in synthesis of ideas and leverages other cognitive models for learning
+
 
 # ways an exocortex aligns with how people learn 
 1. synthesis and deriving new ideas
@@ -20,9 +16,6 @@ notes should be accompanied with a visual. aids in synthesis of ideas and levera
 5. it is beautiful...
 6. interconnected information 
 Huge advantage of Notion over other potential note taking apps is linked pages and intra relational databases. I love being able to link things like an interconnected web vs a hierarchy. This fits together with my own thoughts about how one of the best ways to learn things is to connect it with other information within your mind. The stronger connections you create, the better your recall will be when it comes time to needing that information.
-
-## operating my exocortex
-Split into new notes when there's duplication between notes (atomic)
 
 ### recall training
 Recall is one of the best ways of learning. Use every opportunity you can in order to train this

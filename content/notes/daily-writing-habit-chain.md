@@ -8,5 +8,5 @@ title: Daily Writing Habit Chain
    2. thoughts from last nights media intake. 
 2. pick a topic to write about or revise in inbox. it's a cornocopia of ideas. 
    1. if it's empty that means I'm in some kind of rut and should be mixing up my life or input streams somehow. 
-3. find notes without images and draw for them or add some kind of interactive material in there 
+3. create new notes for your [[digital-garden]]
 

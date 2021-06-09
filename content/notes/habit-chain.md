@@ -9,7 +9,7 @@ title: Habit Chain
     1. Potty
     2. Feed and Water
     3. Fetch
-2. Hygeine
+2. Hygiene [[skincare-is-selfcare]]
 3. Coffee and Water
 4. Synthesize Notes (Main, Pocket, Photos)
 
