@@ -151,3 +151,42 @@ one big reason I am drawn so much to this aesthetic is because a lot of it runs 
 3. RBG (saturated colors and lights)
 
 there's [[inherent-value-in-diversity]] and introducing other aesthetics to the scene creates diversity for others but also makes you stand out. 
+
+
+# morning pages - june 8th
+I've been really looking forward to this. Wonder why it's so much easier to express myself in this way. Ah zen mode looking extra crisp. got a nice simple iced coffee to keep me company. life is good! today's a good day. today's going to be a good day. I've been thinking a lot about friendship. especially last night while I was watching those elliot choy videos. I remember growing up I always wanted that core group of friends. The people who always have a standing date to hang out. I actually had that for a bit in Florida til I moved to Seattle. I wonder if I would enjoy that kind of thing elsewhere. I keep thinking about the concept of showing up somewhere everyday. That tiktok and what austin kleon said in his book about participating in online communities. the other guy on tiktok said just live an interesting life and invite people to do those interesting things. I really want to ride the van moof bike. Okay this is fucking laggy lol.
+
+
+do notes get laggy after a while? this spell check is kind of annoying. I am going to disable it.
+
+ah I think foam was trying to do something in the background. I need to watch out for that. 
+
+so yeah I really just want to make some cool friends out here lol. I am afraid of rejection. Afraid to [[allow-yourself-to-be-vulnerable]]. Really keeps coming back to that doesn't it. Forgot about the daily dispatch. The narrative. that I need to weave everyday lol. The past two projects to keep myself doing stuff hasn't worked out has it. Or maybe it has. Rena and I still need to workout. Well she has the mentality. But I haven't been posting on social media like I need to. 
+
+going back to friendship. I guess a lot of it involves going to the same places a lot. finding a community for the things I want to share in... like art I guess? I keep saying I need to actually have some base level competency to put myself out there in those spaces. but I guess that's what austin was talking about when he said [[be-an-amateur]]
+
+I like the idea of an ebike. especially with all the hills around here. but I also want to push myself more towards tackling simplicity? idk a fixed gear is so simple. I already know how to reason myself about everything involved there. 
+
+let things happen organically. life doesn't really work like that does it. show up somewhere everyday. invite people to do cool stuff. live a life where you do cool stuff. friendship. going out. deep work. balancing the both. limiting yourself. deep design work in the morning. mechanical grunt work in the afternoons. (looking up and coding stuff is mechanical). strive for good enough. not perfect. and socialization, input streams, anything in the afternoon.
+
+
+cool stuff I want to try around here
+- vanmoof
+- SBP
+
+guess that's it so far lmao. being human. connecting with others. but also fueling rich and exciting work. maybe you can do both at the same time? discord communities are a lot better for these kinds of things. I can join my family discord. go in there during break times. during lunch time... maybe I'll start doing that. connect with kevin.. vinhcent. maybe even my brother lol. is there a cap on this stream of consciousness writing. I'll cap it here and take a look online. 
+
+
+750 words are the average for 3 pages. I guess that's fairly easy for me to hit in half a minute
+
+write everything. revise later. you operate on one mode at a time. its like the [[two-hat-theory]] from refactoring. just focus on one thing a time. exeriment with new processes. see what works for you. shake things up dramatically. this week's focus was on getting the zettlekesten going. and it's been a raging success. what was next week again?
+need to find time when I have energy to revise these notes haha. I'll just do it during the review time period I already have scheduled for myself at the end of each day. 
+
+is there a wework area in day 1?
+
+is there a wework area in general nearby actually? so I'm not just hanging out with other amazonians? spend mornings in wework area. and then spend afternoons with coworkers. 
+
+that way I can also focus on passion projects as well. I also need to find the proper divide for these things. because morning papers take up a lot of time. it predicates that I need to do some work in the afternoon as well.
+
+ween yourself out of as much glue work as possible, including logistical meetings.  
+focus on deep work if you can. this is selfish yes.
