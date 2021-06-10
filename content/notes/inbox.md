@@ -58,16 +58,24 @@ defines what a staff engineer is, their responsibilities, the archetypes and why
 3. possibility for interactivity... 
 
 has interactivity really been something that I care about? well I do consider it a major benefit for video games. the issue with a blog though is does it break focus? maybe not... you have to interact with something in order to understand that. I know that to be true. so the breaks in your reading aren't necessarily bad. but you do risk losing the built up mental model within your mind. from there I think that means Ideas should only be nested one. maybe two times. otherwise you risk having the context be too large. this is another thing that supports atomicity of notes. that you can't carry too much contextual information at once. 
+
 to go back onto the topic of if I care about interactivity in blogs. I'm not sure. it's certainly cool... I want to do it. but why. what am I trying to do with it. how does it help what I am trying to do. what am I trying to do with a blog in the first place?
 
 
 I'm not doing morning papers as they were intended. I want to go over these notes eventually and refine them whereas I think the original point was to just dump anything on your mind and just get a fresh start on the day. Empty your mind. There's that bruce lee idea. I should look it up. 
 about taking what is useful. discarding what's not. and then adding those ideas to your repetoire. 
 
+# how to read books
+> Absorb what is useful, reject what is useless, add what is essentially your own. 
+> -- Bruce Lee
 
-# work and personal digital garden...
-anything project specific can live in project wikis. although the benefits from being a part of my exocortex are gone. but really I should be taking general conceptual ideas from my projects and cross pollinating them with my other ideas. that means it doesn't really matter if specifics to my job aren't in my garden. that's fine 
+After thinking a lot about [[metacognition]] I've been obsessed with actually absorbing the material that I am consuming. But is all the material really useful? 
+I've seen the idea about focusing on what resonates with you. 
 
+I read an anecdote about someone who rereads The Alchemist after life events and how each time they read it they connect with a different character. People tend to only remember the peaks and ending of a film. 
+
+If everything is meaningful then nothing is. This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. 
+Somethings are meant to build anticipation. Building anticipation. And then paying off that antcipation. 
 
 # About me
 Hi, I'm Tuan, a software engineer at Amazon Music. 
@@ -118,3 +126,32 @@ I spent a lot of time on tiktok yesterday as well. wasn't particularly inspired 
 I should figure out what's we should do for non high spa nights... haha
 
 
+
+# morning papers - jun 10th
+## this weekend with lana
+hello again me! nice to see you. Today's my last working day and I am not looking forward to this weekend. Lana's going to be staying at my place for the weekend. I kind of just need to force muyself to do things though because I never look forward to anything but when I look back or even when it's happening I always think, I'm glad I did it. We're supposed to be doing ranier saturday. Will have a nice picnic at the bottom or something. Probably run some errands or something. 
+
+## yesterday's suntime funtime.
+Yesterday was a blast though. A bunch of people came to the office and had an amazing time. In the morning we played with the dogs, got poke and took a long lunch by the spheres and then just relaxed in the afternoon. Feeling pretty recharged honestly. **I really enjoy eating outside by the spheres.** I think that's one takeaway is that I'm going to consistently head out there for some suntime. Maybe I'll take bear with me as well. Hope Rena can eventually compound her breaks and she can come meet me by the spheres to grab something to eating
+
+jas, krushi and tadeo should be coming around today so that'll be fun.
+
+## constellations
+I eventually decided on a theme for my project. Constellations. I love Maggie's garden allegory. However, her focus is on the idea of growing your ideas over time (which is something I still want to implement) but I'm putting a lot more emphasis on the interconnectivity of ideas. In the DAG they straight up look like stars in the sky. There's no way I couldn't call it a constellation. The second runner up was how they kind of looked like neurons firing in a brain. In the end I'm a sucker for the stars though. Somebody should take that idea though because there's a lot more obvious parallels with creating an exocortex. 
+
+### tackiness
+there was that tiktok that discussed how you actually brand something. I need to come back to that because I might be slipping too far into tackiness. Like I was thinking about converting my phish logo into a zodiac sign looking thing haha. whereas you should be trying to emphasize
+
+### my new attempt at an about me
+Hi, I am Tuan!
+
+Welcome to the constellation of my thoughts. 
+
+The stars are notes I've written to myself attached to eachother through hyperlinks. 
+Click on one and see where the connections take you.
+
+Or connect with me here!
+
+
+### warmth in space
+space has a strong association with cold tones for good reason. deep, nebulous vacuum void of space. However, the way I wanted to trend my life. the colors I've been attaching myself to have been warm. I think there's a real void in my life for that kind of stuff. I'm closer to a Type A person. Fairly logically minded, in a software engineering position surrounded by that type. Just want to be a more well rounded person. anyways this was a long winded way of saying I wanted the theming to convey more warmth and be more inviting. 
