@@ -1,69 +1,55 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql, navigate } from "gatsby"
 import styled from 'styled-components';
+import { ForceGraph2D, ForceGraph3D } from 'react-force-graph';
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const PostListItem = styled.article`
-  margin-bottom: var(--spacing-8);
-  margin-top: var(--spacing-8);
-`
-
-const Container = styled.header`
-  margin-bottom: var(--spacing-4);
-`
-
-const Description = styled.p`
-  margin-bottom: var(--spacing-0);
-`
-
-const Title = styled.h2`
-  font-size: var(--fontSize-4);
-  color: var(--color-primary);
-  margin-bottom: var(--spacing-2);
-  margin-top: var(--spacing-0);
-`
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
+  const notes = data.allFile.edges
 
+  //create nodes
+  const nodes = notes.map(note => {
+    return {
+      id: note.node.childMdx.frontmatter.title,
+      slug: note.node.childMdx.slug
+    }
+  });
+
+  //create links
+  const links = notes.reduce((currentArray, note) => {
+    const root = note.node.childMdx.frontmatter.title;
+    const inboundLinks = note.node.childMdx.inboundReferences.map(inboundReference => {
+      return {
+        source: inboundReference.frontmatter.title,
+        target: root
+      }
+    })
+    return currentArray.concat(inboundLinks)
+  }, [])
+
+  const graphData = {
+    nodes,
+    links
+  }
+
+  console.log(graphData);
 
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="All posts" />
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
-
-          return (
-            <li key={post.fields.slug}>
-              <PostListItem
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <Container>
-                  <Title>
-                    <Link to={`garden${post.fields.slug}`} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </Title>
-                  <small>{post.frontmatter.date}</small>
-                </Container>
-                <section>
-                  <Description
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
-              </PostListItem>
-            </li>
-          )
-        })}
-      </ol>
+      <ForceGraph2D
+        graphData={graphData}
+        height={400}
+        linkDirectionalParticles={2}
+        linkDirectionalParticleSpeed={0.005}
+        onNodeClick={(node, event) => {
+          navigate(`garden/${node.slug}`)
+        }}
+      />
     </Layout>
   )
 }
@@ -71,24 +57,30 @@ const BlogIndex = ({ data, location }) => {
 export default BlogIndex
 
 export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
+{
+  site {
+    siteMetadata {
+      title
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      nodes {
-        excerpt
-        fields {
+  }
+  allFile(filter: {absolutePath: {regex: "/content/notes/.*md/"}}) {
+    edges {
+      node {
+        childMdx {
+          inboundReferences {
+            ... on Mdx {
+              frontmatter {
+                title
+              }
+            }
+          }
+          frontmatter {
+            title
+          }
           slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
         }
       }
     }
   }
+}
 `

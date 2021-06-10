@@ -1,3 +1,6 @@
+---
+title: Skincare is selfcare
+---
 # skincare-is-selfcare
 
 Cologne everyday - studies show that you are more confident when you wear cologne. this translates even through photos

@@ -63,22 +63,14 @@ module.exports = {
             },
           },
           `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
-          {
-            resolve: "gatsby-remark-double-brackets-link",
-            options: {
-              titleToURLPath: `${__dirname}/resolve-url.js`,
-              stripBrackets: true,
-            },
-          }
+          `gatsby-remark-smartypants`
         ],
       },
     },
     {
       resolve: `gatsby-transformer-markdown-references`,
       options: {
-        types: ["MarkdownRemark", "Mdx"],
+        types: ["Mdx"],
       },
     },
     `gatsby-transformer-sharp`,
