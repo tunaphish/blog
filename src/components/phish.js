@@ -2,9 +2,7 @@ import * as React from "react"
 import styled from 'styled-components';
 
 const Logo = styled.svg`
-    height: var(--fontSize-6);
-    margin-left: var(--spacing-3);
-    margin-top: -var(--spacing-1);
+    height: var(--fontSize-7);
 
     > * {
         transition: all 0.8s;

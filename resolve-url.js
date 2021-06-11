@@ -1,2 +1,2 @@
 const slugify = require("slugify")
-module.exports = title => `/garden/${slugify(title)}`
+module.exports = title => `/constellation/${slugify(title)}`

@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `tunaphishy's garden`,
+    title: `tunaphishy`,
     author: {
       name: `Tuan Pham`,
       summary: `the protagonist`,
     },
-    description: `tunaphishy's garden`,
+    description: `tunaphishy`,
     siteUrl: `https://tunaphish.me`,
   },
   plugins: [

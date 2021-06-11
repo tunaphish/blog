@@ -4,21 +4,26 @@ import styled from 'styled-components';
 
 import Phish from './phish';
 
-const MainHeading = styled.h1`
-  font-size: var(--fontSize-7);
-  margin: 0;
-`
-
 const GlobalWrapper = styled.div`
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
   padding: var(--spacing-10) var(--spacing-5);
 `
 
-const GlobalHeader = styled.header`
-  margin-bottom: var(--spacing-12);
-`
+const MainHeading = styled.header`
+  position: fixed;
+  top: 0;
+  left: 0;
 
+  font-size: var(--fontSize-7);
+
+  display: flex;
+  justify-content: space-between;
+
+  > *{
+    margin: var(--spacing-2)
+  }
+`
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -26,13 +31,12 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <GlobalWrapper data-is-root-path={isRootPath}>
-      <GlobalHeader>
-        <MainHeading>
-          <Link to="/">{title}</Link>
-          <Phish/>
-        </MainHeading>
-      </GlobalHeader>
+      <MainHeading>
+        <Link to="/"><Phish/></Link>
+      </MainHeading>
+
       <main>{children}</main>
+
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}

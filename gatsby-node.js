@@ -77,7 +77,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   
   noteResult.data.allFile.edges.forEach(({ node }) => {
     createPage({
-      path: `garden/${node.childMdx.slug}`,
+      path: `constellation/${node.childMdx.slug}`,
       component: notesTemplate,
       context: {
         // additional data can be passed via context
