@@ -46,10 +46,14 @@ defines what a staff engineer is, their responsibilities, the archetypes and why
 # [[how-do-you-live-a-life-with-no-regets]]
 # planned spontonaiety
 
-# Using drugs to enhance creative endeavors.
+# biohacking
+biohacking in general seems like something I'd be interested in although I haven't given it a lot of research. I'm fairly wary of this kind of stuff though ever since 4 hour body, that book about daily routines that was actually just shilling for supplements. 
+
+there's solid stuff that makes inherent sense. all the [[keystone-habits]] but I don't want to throw the baby out with the bathwater. 
+
+## Using drugs to enhance creative endeavors.
 1. 5-6-21 I was using edibles quite a bit this weekend and it really felt like it fueled my creative pursuits a lot. I had bursts of inspiration that I haven't had in a while for reaper and I was flying through thoughts that I've had in my mind for a long time and connecting ideas. 
 2. some recent research I did into microdosing seems to support what I've been feeling. Maybe I can chat with zach a bit about this. 
-
 
 
 # benefits of blogs as a media
@@ -76,18 +80,6 @@ I read an anecdote about someone who rereads The Alchemist after life events and
 
 If everything is meaningful then nothing is. This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. 
 Somethings are meant to build anticipation. Building anticipation. And then paying off that antcipation. 
-
-# About me
-Hi, I'm Tuan, a software engineer at Amazon Music. 
-
-Welcome to my [[digital-garden]]!
-
-Here is where I post my thoughts, tend to them, grow new ones and cross pollinate them. 
-
-If you don't know where to start why not go to my [[inbox]]. It's where I jot down anything currently on my mind until it finds a home. 
-Alternatively, the graph you see behind the text is actually a web of how my notes are interconnected and clicking on any node will take you to that note with the graph being a subset of the ideas that are connected to it. 
-
-If you see anything that provokes you feel free to chat with me about it at <--INSERT SOCIAL MEDIA HERE YOU RECLUSE!--> Right now I am trying to [[participate-in-online-communities]] more often. 
 
 
 # morning pages - june 8th
@@ -142,16 +134,16 @@ I eventually decided on a theme for my project. Constellations. I love Maggie's 
 ### tackiness
 there was that tiktok that discussed how you actually brand something. I need to come back to that because I might be slipping too far into tackiness. Like I was thinking about converting my phish logo into a zodiac sign looking thing haha. whereas you should be trying to emphasize
 
-### my new attempt at an about me
-Hi, I am Tuan!
-
-Welcome to the constellation of my thoughts. 
-
-The stars are notes I've written to myself attached to eachother through hyperlinks. 
-Click on one and see where the connections take you.
-
-Or connect with me here!
-
-
 ### warmth in space
 space has a strong association with cold tones for good reason. deep, nebulous vacuum void of space. However, the way I wanted to trend my life. the colors I've been attaching myself to have been warm. I think there's a real void in my life for that kind of stuff. I'm closer to a Type A person. Fairly logically minded, in a software engineering position surrounded by that type. Just want to be a more well rounded person. anyways this was a long winded way of saying I wanted the theming to convey more warmth and be more inviting. 
+
+# jun 11th
+
+yesterday was tiring but fun. got to spend a fair amount of time socializing at work and hanging out with lana and jason who's visiting. kizuki wasn't as bad (to me) this time around although I definitely won't be going back. 
+
+read a few more passages from staff engineer.
+## to lead you have to follow
+## stay aligned with authority
+you have to be able to execute on your leaders plans. another passage that comes back to alignment. obviously you've arrived here because you are a leader but part of being means aligning worldviews with others. 
+
+the power an individual can achieve pales in comparison to what an organization can achieve. the trade off is aligning those worldviews and sacrificing your unique vision. how does this scale up to a mega conglomerate like Amazon? each individual voice is lost in a sea of others but there's some guiding vision. some shared worldview all pushing us in the same direction? enacting an enormous prescence on the world. 
