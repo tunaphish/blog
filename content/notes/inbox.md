@@ -1,50 +1,28 @@
 ---
 title: Inbox
 ---
-# staff engineer notes
-## expectations
-I want to get a grasp on what my career tract is likely to look like and the role I am going to play and the skills I need to develop
+# staff engineer responsibilities
+there's enough breadth and ambiguity at the higher levels of of a software engineering career that no two engineer's day will look exactly alike. generally, they fall into certain archetypes based on a multitide of factors, interal and external like individual personality types and external reward structures. 
 
-## types
-1. tech lead
-2. architect
-3. problem solver
-4. the right hand
-
-## benefits
-1. credentials
-2. pay
-3. being in the room aka influence
-
-## responsibilities
-
-## work on what matters
-no ghosts, playing the game too much or snacking
-1. exisistential threads
-2. things lacking attention
-3. editing and finishing things
-4. growth
-5. doing only what you can
+## focusing attention
+generally, managers don't have the viewpoint that you have into your daily work. it's your job to advocate for things that don't have enough attention. they don't know the day to day struggles surrounding bug fixing. it's your job to advocate for tooling to alleviate that. 
 
 ## writing engineering strategy
 > people often conflate strategy with innovation. good strategy is boring though.
 strategies and visions are concise documents that guide decision making (tenets) for teams, align priority. necessary when the same conversations keep getting rehashed or it is unclear what tech investments should be made. basically when future ambiguity gets in the way of execution for teams today
-## the process
+### the process
 1. take five designs
 2. consolidate similarities into a strategies
 3. take five strategies
 4. consolidate strategies into a vision
 
-tip for design is to keep crafting your problem statement until your solution is clear
-## current summary
-defines what a staff engineer is, their responsibilities, the archetypes and why you want to be one and the ways to get into that tract
 
-
-
-
-# [[metacognition]] requires cleanup
 # [[how-do-you-live-a-life-with-no-regets]]
 # planned spontonaiety
+a principle I've seen a lot. 
+
+- timeblocking: planning for flexibility. things will crop up last minute. 
+- vacations: have a framework. some idea of what you want to do. some must hits. but then go with the flow. 
 
 # biohacking
 biohacking in general seems like something I'd be interested in although I haven't given it a lot of research. I'm fairly wary of this kind of stuff though ever since 4 hour body, that book about daily routines that was actually just shilling for supplements. 
@@ -147,3 +125,58 @@ read a few more passages from staff engineer.
 you have to be able to execute on your leaders plans. another passage that comes back to alignment. obviously you've arrived here because you are a leader but part of being means aligning worldviews with others. 
 
 the power an individual can achieve pales in comparison to what an organization can achieve. the trade off is aligning those worldviews and sacrificing your unique vision. how does this scale up to a mega conglomerate like Amazon? each individual voice is lost in a sea of others but there's some guiding vision. some shared worldview all pushing us in the same direction? enacting an enormous prescence on the world. 
+
+# jun 12th
+
+yesterday was a fairly exhausting day. we went rock climbing and then to gameworks. my hands are tight attempting to type this lol. 
+
+I thought a lot about whether or not I'd invest time into learning how to rock climb. today we're supposed to ride go karts. That lead me to think about how we've been doing a lot of like (fun but random activities). Fun for fun's sake is fine butit made me think about caleb's chat about exposure and time which is a rehash of the [[favor-depth-of-experience-over-breadth]] argument. he had another take that I hadn't considered but it was just opportunity cost. I guess this only applies to certain things but at any point you can drop something and get more exposure somewhere else. but that means you have to invest that time again if you want to acquire a similar level of depth there. 
+
+knowledge workers generally don't train their fundamentals. 
+
+
+abundance mentality
+growth mentality
+truly believing in yourself 
+building tension and anticipation 
+audience only remembers peaks and valleys
+
+# jun 13th
+
+To provide sponsorship you have to be in the room. Need mentorship to understand sponsorship. 
+
+Leaders have a clear idea of how things ought to be. And care enough to make it so. 
+
+Misunderstood. Is usually right. Eventually right. Not every meeting they came into with right answer. Arrive at the right answer. Some ways are by Meeting everyone’s needs. Making Little bets. Keeping doors open.
+
+I'm just not someone who enjoys speed
+
+
+
+I can finally read from my kindle again now that I've resolved not to take notes at night
+
+[[pareto-principle]] for clothing would just be fit 
+base layers should convey atheltic and masculine frame. 
+
+food with friends -> [[focus-on-one-thing-at-a-time]]
+two hat theory (in dev workflow),  you are developing features. or you are refactoring. rule of thumb is one doesn't break or add tests. the other does. -> [[focus-on-one-thing-at-a-time]]
+
+# clear your mind
+In the morning I strive to get working on my knowledge work as fast as possible so the actual routine is fairly minimal. Some hygiene for myself and the dogs and coffee then it's a short walk to the office. Then it's a few exercises to clear my mind like [[inbox-zero]] and morning papers. After that I eat the frog and focus on design work if possible. I try to figure out what decisions I need to make throughout the day and make those decisions, this generally  means that design work (the hardest work) is done in the morning. these tasks are generally punctuated using pomodoro's. the break time should be used to address whatever was my biggest distraction from getting into [[flow-state]]. sometimes this is my lower back pain so I'll do a few stretches. other times it's my need to socialize so I'll play with the dog or chat with my coworkers. . sometimes it's just a general lack of focus. of which can usually be cleared with some meditation. 
+
+# training inputs
+[[do-not-touch-your-mouse]] ... another idea for some dexterity work but just a good way of increasing your flow state. a good idea for a video! there's even a website for it. video starts off with me standing up and throwing my mouse straight in the trash. I'll even have an after credits scene where I dig my mouse out of the trash because you need your mouse at least some of the time. one of the biggest ones would probably be how to navigate safari with just my keyboard. another fun experiment would be doing my morning papers through dictation instead of physically typing it myself. I think the biggest issue would be creating links though actually. I never noticed but this intellij isn't just for spelling. It is actually suggesting markdown shortcuts which is pretty cool. 
+
+I have lots of stray thoughts throughout the day that I'd like to record. wonder what would be the mechanism for that. Generally I want to use these morning sessions to do so but lightning strikes at odd times. 
+
+# knowledge training fundamentals
+what would be considered fundamentals for knowledge work. when can I do this too. might be a good way of kicking off my mechanical work session. these are the kinds of skills I want to keep fresh in my mind. another video idea. training fundamentals for knowledge work and developing an SRS system from my exocortex (constellations). 
+1. recall
+2. problem decomposition (leetcode? are they fundamentals) TDD : )
+
+
+another reason why reddit sucks. second hand opinions. try to focus on primary sources. not secondary sources. aka take the facts and come to your own observations. stop basing your opinions on other people's opinions. don't let other people tell you how to feel. (for research... not when chatting or things of that nature)
+
+these notes rarely reflect my final or even my actual thoughts. some may be contradictory to what I think. however, to fully empower this method of notetaking I need to be able to link ideas, reconcile conflicting ideas or even discredit some of them. 
+
+videos are good because they emphasize other skills that I lack. like speaking or conveying espression. things of that nature. 

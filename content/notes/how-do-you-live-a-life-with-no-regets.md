@@ -23,6 +23,11 @@ And you still live a life of regrets anyways.
 
  Minimize regret. Regret doing something vs regretting nothing. Reperations. 
 
- I mean it's not even about the fame at that point. like why even perform if only five dudes are going to listen. 
+ eji - I mean it's not even about the fame at that point. like why even perform if only five dudes are going to listen. 
+ sei - because those five dudes understand. and that's all that matters
 
- because those five dudes understand. and that's all that matters
+
+ Eji isn’t allowed in the room during the discussion on what to do about a certain spirit. 
+Sei is a reluctant mentor. 
+Male bonding. 
+They go to execute the soft spirit. But he seems to be in control.

@@ -55,7 +55,7 @@ bauhaus philosophy dictates that form should follow function
 ## web [[tenets]]
 favor HTML\CSS over Javascript solutions
 ## design flow
-1. define the problem as specifically as possible
+1. define the problem. keep crafting the problem statement until the solution becomes clear 
 2. identify volatility 
 3. identify generality
    

@@ -11,6 +11,11 @@ I've been seeing this visual trend a lot and I kind of want to emulate a guy ver
 6. DANGLY MF EARRINGS 
 7. They tend to dress less conservatively but not sure how to emulate that as a male!
 8. I also really love long flowing cardigans and jackets. I already have a few of them. 
+9. athletic fit shirts
+10. high waisted pants
+11. white leather shoes
+12. everlane the cotton crew
+13. asrv
 
 one big reason I am drawn so much to this aesthetic is because a lot of it runs counter to normal aesthetics that developers tend to prefer. 
 1. minimalism
