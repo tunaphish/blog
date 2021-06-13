@@ -1,7 +1,9 @@
 import * as React from "react"
-import { graphql } from "gatsby"
+import { graphql, navigate } from "gatsby"
 import styled from 'styled-components';
 import { MDXRenderer } from "gatsby-plugin-mdx"
+import { ForceGraph2D } from 'react-force-graph';
+
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -139,9 +141,55 @@ const StyledArticle = styled.article`
   }
 `
 
+const GraphWrapper = styled.div`
+  display: relative;
+`
+
 const NoteTemplate = ({ data, location }) => {
   const post = data.mdx
   const siteTitle = data.site.siteMetadata?.title || `Title`
+
+  const primaryNode = {
+    id: post.frontmatter.title,
+    slug: post.slug,
+    size: 6,
+  }
+
+  const nodes = post.inboundReferences.concat(post.outboundReferences).map(reference => {
+    return {
+      id: reference.frontmatter.title,
+      slug: reference.slug,
+      size: 2,
+    }
+  }).concat(primaryNode);
+
+  const outboundLinks = post.outboundReferences.map(reference => {
+    return {
+      target: primaryNode.id,
+      source: reference.frontmatter.title
+    }
+  })
+
+  const links = post.inboundReferences.map(inboundReference => {
+    return {
+      source: inboundReference.frontmatter.title,
+      target: primaryNode.id
+    }
+  }).concat(outboundLinks);
+
+  const graphData = {
+    nodes,
+    links
+  }
+
+  console.log(graphData)
+
+
+  const [displayWidth, setDisplayWidth] = React.useState(window.innerWidth);
+
+  window.addEventListener('resize', () => {
+    setDisplayWidth(window.innerWidth);
+  });
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -149,6 +197,22 @@ const NoteTemplate = ({ data, location }) => {
         title={post.frontmatter.title}
         description={post.excerpt}
       />
+      <GraphWrapper>
+        <ForceGraph2D
+          height={300}
+          width={displayWidth}
+          graphData={graphData}
+          nodeLabel="id"
+          linkDirectionalParticles={2}
+          linkDirectionalParticleSpeed={0.005}
+          nodeVal="size"
+          nodeColor={() => "#d1dce5"}
+          linkColor={() => "#d1dce5"}
+          onNodeClick={(node, event) => {
+            navigate(`/constellation/${node.slug}`)
+          }}
+        />
+      </GraphWrapper>
       <StyledArticle
         itemScope
         itemType="http://schema.org/Article"
@@ -173,10 +237,27 @@ query ($slug: String!) {
   }
   mdx(slug: {eq: $slug}) {
     body
+    slug
     frontmatter {
       title
     }
     excerpt
+    inboundReferences {
+      ... on Mdx {
+        frontmatter {
+          title
+        }
+        slug
+      }
+    }
+    outboundReferences {
+      ... on Mdx {
+        frontmatter {
+          title
+        }
+        slug
+      }
+    }
   }
 }
 `
