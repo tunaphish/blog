@@ -139,6 +139,12 @@ const StyledArticle = styled.article`
     color: var(--color-primary);
     text-decoration: none;
   }
+
+  hr {
+    background: var(--color-accent);
+    height: 1px;
+    border: 0;
+  }
 `
 
 const GraphWrapper = styled.div`

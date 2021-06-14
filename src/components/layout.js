@@ -33,6 +33,11 @@ const Main = styled.main`
   flex-grow: 1;
 `
 
+const Footer = styled.footer`
+  padding: var(--spacing-6) var(--spacing-0);
+`
+
+
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -45,11 +50,11 @@ const Layout = ({ location, title, children }) => {
       <GlobalWrapper data-is-root-path={isRootPath}>
         <Main>{children}</Main>
 
-        <footer>
+        <Footer>
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>
-        </footer>
+        </Footer>
     </GlobalWrapper>
     </>
   )
