@@ -6,20 +6,20 @@ import { ForceGraph2D } from 'react-force-graph';
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-
 const GraphWrapper = styled.div`
-    position: absolute;
-    left: 0;
-    top: 0;
+  position: absolute;
+  left: 0;
+  top: 0;
 
-    z-index: 99;
+  z-index: 99;
 
-    canvas {
-      max-width: 100%;
-    }
+  canvas {
+    max-width: 100%;
+  }
 `
+
 const AboutMe = styled.div`
-  margin-top: var(--spacing-12)
+  padding-top: var(--spacing-12);
 `
 
 const BlogIndex = ({ data, location }) => {

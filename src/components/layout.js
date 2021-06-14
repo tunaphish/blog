@@ -7,14 +7,14 @@ import Phish from './phish';
 const GlobalWrapper = styled.div`
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
-  padding: var(--spacing-10) var(--spacing-5);
+  padding: var(--spacing-5);
 
   display: flex;
   flex-direction: column;
   min-height: 99vh;
 `
 
-const MainHeading = styled.header`
+const Heading = styled.header`
   position: fixed;
   top: 0;
   left: 0;
@@ -24,9 +24,7 @@ const MainHeading = styled.header`
   display: flex;
   justify-content: space-between;
 
-  > * {
-    margin: var(--spacing-2)
-  }
+  padding: var(--spacing-2);
 `
 
 const Main = styled.main`
@@ -44,12 +42,11 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <>
-      <MainHeading>
-        <Link to="/"><Phish/></Link>
-      </MainHeading>
       <GlobalWrapper data-is-root-path={isRootPath}>
+        <Heading>
+          <Link to="/"><Phish/></Link>
+        </Heading>
         <Main>{children}</Main>
-
         <Footer>
           © {new Date().getFullYear()}, Built with
           {` `}
