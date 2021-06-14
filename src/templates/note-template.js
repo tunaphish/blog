@@ -7,6 +7,8 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import ForceGraph from "../components/force-graph";
 
+let graph;
+
 const NoteTitle = styled.h1`
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 `
@@ -148,6 +150,11 @@ const StyledArticle = styled.article`
 const GraphWrapper = styled.div`
   display: flex;
   justify-content: space-around;
+  height: 24rem;
+
+  canvas {
+    max-width: 100%;
+  }
 `
 
 const NoteTemplate = ({ data, location }) => {
@@ -187,9 +194,28 @@ const NoteTemplate = ({ data, location }) => {
   }
 
   const refElement = React.useRef();
-  React.useEffect(() => {
-    const graph = new ForceGraph(refElement.current, {}, graphData)
+  React.useEffect(() => {  
+    if (refElement === 'undefined') return;
+
+    const props = {
+      height: refElement.current.offsetHeight,
+      width: refElement.current.offsetWidth
+    }
+
+    graph = new ForceGraph(refElement.current, props, graphData)
   }, []);
+
+  React.useEffect(() => {
+    if (refElement === 'undefined') return;
+      
+    const handleResize = () => {
+      graph.visualization.width(refElement.current.offsetWidth);
+    }
+    window.addEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize)
+    };
+  });
 
   return (
     <Layout location={location}>

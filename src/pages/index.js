@@ -6,6 +6,8 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import ForceGraph from "../components/force-graph"
 
+let graph;
+
 const GraphWrapper = styled.div`
   position: absolute;
   left: 0;
@@ -19,7 +21,6 @@ const GraphWrapper = styled.div`
 `
 
 const AboutMe = styled.div`
-  padding-top: var(--spacing-12);
 `
 
 const BlogIndex = ({ data, location }) => {
@@ -51,9 +52,28 @@ const BlogIndex = ({ data, location }) => {
   }
 
   const refElement = React.useRef();
+
   React.useEffect(() => {
-    const graph = new ForceGraph(refElement.current, {}, graphData)
+    if (typeof window === 'undefined') return;
+    const props = {
+      height: window.innerHeight,
+      width: window.innerWidth
+    }
+    graph = new ForceGraph(refElement.current, props, graphData)
   }, []);
+
+  React.useEffect(() => {
+    if (typeof window === 'undefined') return;
+  
+    const handleResize = () => {
+      graph.visualization.height(window.innerHeight);
+      graph.visualization.width(window.innerWidth);
+    }
+    window.addEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize)
+    };
+  });
 
   return (
     <>

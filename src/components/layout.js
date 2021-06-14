@@ -15,9 +15,7 @@ const GlobalWrapper = styled.div`
 `
 
 const Heading = styled.header`
-  position: fixed;
-  top: 0;
-  left: 0;
+
 
   font-size: var(--fontSize-7);
 
