@@ -1,10 +1,10 @@
 import * as React from "react"
-import { graphql, navigate } from "gatsby"
+import { graphql } from "gatsby"
 import styled from 'styled-components';
-import { ForceGraph2D } from 'react-force-graph';
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import ForceGraph from "../components/force-graph"
 
 const GraphWrapper = styled.div`
   position: absolute;
@@ -23,7 +23,6 @@ const AboutMe = styled.div`
 `
 
 const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
   const notes = data.allFile.edges
 
   //create nodes
@@ -51,32 +50,17 @@ const BlogIndex = ({ data, location }) => {
     links
   }
 
-  const [displayWidth, setDisplayWidth] = React.useState(window.innerWidth);
-  const [displayHeight, setDisplayHeight] = React.useState(window.innerHeight);
-
-  window.addEventListener('resize', () => {
-    setDisplayWidth(window.innerWidth);
-    setDisplayHeight(window.innerHeight);
-  });
+  const refElement = React.useRef();
+  React.useEffect(() => {
+    const graph = new ForceGraph(refElement.current, {}, graphData)
+  }, []);
 
   return (
     <>
-      <GraphWrapper>
-        <ForceGraph2D
-          height={displayHeight}
-          width={displayWidth}
-          graphData={graphData}
-          nodeLabel="id"
-          linkDirectionalParticles={2}
-          linkDirectionalParticleSpeed={0.005}
-          nodeColor={() => "#d1dce5"}
-          linkColor={() => "#d1dce5"}
-          onNodeClick={(node, event) => {
-            navigate(`constellation/${node.slug}`)
-          }}
-        />
+      <GraphWrapper ref={refElement}>
+
       </GraphWrapper>
-      <Layout location={location} title={siteTitle}>
+      <Layout location={location}>
         <Seo title="All posts" />
         <AboutMe>
           <p>Hi, I am Tuan!</p>
@@ -97,11 +81,6 @@ export default BlogIndex
 
 export const pageQuery = graphql`
 {
-  site {
-    siteMetadata {
-      title
-    }
-  }
   allFile(filter: {absolutePath: {regex: "/content/notes/.*md/"}}) {
     edges {
       node {

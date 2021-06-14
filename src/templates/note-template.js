@@ -1,12 +1,11 @@
 import * as React from "react"
-import { graphql, navigate } from "gatsby"
+import { graphql } from "gatsby"
 import styled from 'styled-components';
 import { MDXRenderer } from "gatsby-plugin-mdx"
-import { ForceGraph2D } from 'react-force-graph';
-
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import ForceGraph from "../components/force-graph";
 
 const NoteTitle = styled.h1`
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
@@ -14,7 +13,6 @@ const NoteTitle = styled.h1`
 
 const StyledArticle = styled.article`
   /* Heading */
-
   h1,
   h2,
   h3,
@@ -154,7 +152,6 @@ const GraphWrapper = styled.div`
 
 const NoteTemplate = ({ data, location }) => {
   const post = data.mdx
-  const siteTitle = data.site.siteMetadata?.title || `Title`
 
   const primaryNode = {
     id: post.frontmatter.title,
@@ -189,36 +186,18 @@ const NoteTemplate = ({ data, location }) => {
     links
   }
 
-  console.log(graphData)
-
-
-  const [displayWidth, setDisplayWidth] = React.useState(window.innerWidth);
-
-  window.addEventListener('resize', () => {
-    setDisplayWidth(window.innerWidth);
-  });
+  const refElement = React.useRef();
+  React.useEffect(() => {
+    const graph = new ForceGraph(refElement.current, {}, graphData)
+  }, []);
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location}>
       <Seo
         title={post.frontmatter.title}
         description={post.excerpt}
       />
-      <GraphWrapper>
-        <ForceGraph2D
-          height={300}
-          width={300}
-          graphData={graphData}
-          nodeLabel="id"
-          linkDirectionalParticles={2}
-          linkDirectionalParticleSpeed={0.005}
-          nodeVal="size"
-          nodeColor={() => "#d1dce5"}
-          linkColor={() => "#d1dce5"}
-          onNodeClick={(node, event) => {
-            navigate(`/constellation/${node.slug}`)
-          }}
-        />
+      <GraphWrapper ref={refElement}>
       </GraphWrapper>
       <StyledArticle
         itemScope
@@ -237,11 +216,6 @@ export default NoteTemplate
 
 export const pageQuery = graphql`
 query ($slug: String!) {
-  site {
-    siteMetadata {
-      title
-    }
-  }
   mdx(slug: {eq: $slug}) {
     body
     slug
