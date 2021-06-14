@@ -8,6 +8,10 @@ const GlobalWrapper = styled.div`
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
   padding: var(--spacing-10) var(--spacing-5);
+
+  display: flex;
+  flex-direction: column;
+  min-height: 99vh;
 `
 
 const MainHeading = styled.header`
@@ -20,9 +24,13 @@ const MainHeading = styled.header`
   display: flex;
   justify-content: space-between;
 
-  > *{
+  > * {
     margin: var(--spacing-2)
   }
+`
+
+const Main = styled.main`
+  flex-grow: 1;
 `
 
 const Layout = ({ location, title, children }) => {
@@ -30,19 +38,20 @@ const Layout = ({ location, title, children }) => {
   const isRootPath = location.pathname === rootPath
 
   return (
-    <GlobalWrapper data-is-root-path={isRootPath}>
+    <>
       <MainHeading>
         <Link to="/"><Phish/></Link>
       </MainHeading>
+      <GlobalWrapper data-is-root-path={isRootPath}>
+        <Main>{children}</Main>
 
-      <main>{children}</main>
-
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
-      </footer>
+        <footer>
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.com">Gatsby</a>
+        </footer>
     </GlobalWrapper>
+    </>
   )
 }
 

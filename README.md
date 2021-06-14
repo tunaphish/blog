@@ -43,3 +43,48 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 12. **`README.md`**: A text file containing useful reference information about your project.
+
+# Future Plans
+
+### misc
+
+- [x]  upgrade to MDX
+- [ ]  responsive graph on note page
+- [ ]  algolia search
+- [ ]  make site closed source (onboard to netlify)
+- [ ]  table of contents
+- [ ]  [https://foambubble.github.io/foam/recipes/diagrams-in-markdown](https://foambubble.github.io/foam/recipes/diagrams-in-markdown)
+- [ ]  add tags to all my notes
+- [ ]  add labels to stars
+- [ ]  revisit home page
+- [ ]  add social media links
+
+### mdx ideation
+
+- [x]  video game code pen
+- [ ]  **omori style - FRENZY text**
+    - [ ]  import everywhere
+- [ ]  custom svgs with movement
+- [ ]  code pens
+- [ ]  phaser games
+- [ ]  dark and light mode (demon gallery)
+- [ ]  digital gallery (change with weather, wouldn't be obvious)
+- [ ]  interactive visuals
+- [ ]  polls ala catherine
+- [ ]  choose your own adventure
+- [ ]  now that I am thinking about it. data visualizations in my blog would be so fucking cool.
+
+### force graph extras
+
+- [ ]  move and bounce off the walls
+- [ ]  all fit on screen
+- [ ]  disable scrolling on graph
+- [ ]  autocolor by tag
+    - [ ]  tags to all my notes
+
+### galaxy design
+
+- [ ]  Subtle links
+- [ ]  Glowing stars
+- [ ]  Warmer colors
+- [ ]  make nodes with more connections bigger

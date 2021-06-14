@@ -142,7 +142,8 @@ const StyledArticle = styled.article`
 `
 
 const GraphWrapper = styled.div`
-  display: relative;
+  display: flex;
+  justify-content: space-around;
 `
 
 const NoteTemplate = ({ data, location }) => {
@@ -200,7 +201,7 @@ const NoteTemplate = ({ data, location }) => {
       <GraphWrapper>
         <ForceGraph2D
           height={300}
-          width={displayWidth}
+          width={300}
           graphData={graphData}
           nodeLabel="id"
           linkDirectionalParticles={2}

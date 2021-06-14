@@ -12,14 +12,14 @@ const GraphWrapper = styled.div`
     left: 0;
     top: 0;
 
-    z-index: -99;
+    z-index: 99;
 
     canvas {
       max-width: 100%;
     }
 `
 const AboutMe = styled.div`
-
+  margin-top: var(--spacing-12)
 `
 
 const BlogIndex = ({ data, location }) => {
@@ -86,7 +86,6 @@ const BlogIndex = ({ data, location }) => {
           </p>
           <p>
             Click on one and see where the connections take you.
-            Or connect with me here!  
           </p>
         </AboutMe> 
       </Layout>
