@@ -15,6 +15,9 @@ oftentimes opportunies are what is needed not advice. your mentorship time can b
 
 ## being glue
 'glue work' is work required to make the project succeed but falls outside the realm of 'promotable' work. it's expected when you are a staff engineer but detrimental when you aren't. be conscious of how much voluntary, non-promotable work you are doing and focus on the core skills you want to be developing. 
+
+although it's essential to becoming a staff engineer, it's not the focus I want to have right now. I need to pare down as many meetings I have as possible (or group them actually)
+
 - [*Tanya Reilly*](https://noidea.dog/glue)
 
 ## [[continously-iterate-on-technical-quality]]

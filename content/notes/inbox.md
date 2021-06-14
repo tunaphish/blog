@@ -1,28 +1,13 @@
 ---
 title: Inbox
 ---
-# staff engineer responsibilities
-there's enough breadth and ambiguity at the higher levels of of a software engineering career that no two engineer's day will look exactly alike. generally, they fall into certain archetypes based on a multitide of factors, interal and external like individual personality types and external reward structures. 
 
-## focusing attention
-generally, managers don't have the viewpoint that you have into your daily work. it's your job to advocate for things that don't have enough attention. they don't know the day to day struggles surrounding bug fixing. it's your job to advocate for tooling to alleviate that. 
-
-## writing engineering strategy
-> people often conflate strategy with innovation. good strategy is boring though.
-strategies and visions are concise documents that guide decision making (tenets) for teams, align priority. necessary when the same conversations keep getting rehashed or it is unclear what tech investments should be made. basically when future ambiguity gets in the way of execution for teams today
-### the process
-1. take five designs
-2. consolidate similarities into a strategies
-3. take five strategies
-4. consolidate strategies into a vision
-
-
-# [[how-do-you-live-a-life-with-no-regets]]
-# planned spontonaiety
-a principle I've seen a lot. 
+# Planned Spontonaiety
+A principle I've seen a lot. This is important for creative work that focuses on... being creative. Following insights and connections as they inspire and lead you somewhere. How do you enforce rigid structure and self discipline on something that is inherently inspiration based. You have a structure that plans for spontonaeity and rewards it. 
 
 - timeblocking: planning for flexibility. things will crop up last minute. 
 - vacations: have a framework. some idea of what you want to do. some must hits. but then go with the flow. 
+- creative work: sit down and write from your constellation but don't force it?
 
 # biohacking
 biohacking in general seems like something I'd be interested in although I haven't given it a lot of research. I'm fairly wary of this kind of stuff though ever since 4 hour body, that book about daily routines that was actually just shilling for supplements. 
@@ -34,41 +19,20 @@ there's solid stuff that makes inherent sense. all the [[keystone-habits]] but I
 2. some recent research I did into microdosing seems to support what I've been feeling. Maybe I can chat with zach a bit about this. 
 
 
-# benefits of blogs as a media
-1. can link to web
-2. contextualized with a date
-3. possibility for interactivity... 
-
-has interactivity really been something that I care about? well I do consider it a major benefit for video games. the issue with a blog though is does it break focus? maybe not... you have to interact with something in order to understand that. I know that to be true. so the breaks in your reading aren't necessarily bad. but you do risk losing the built up mental model within your mind. from there I think that means Ideas should only be nested one. maybe two times. otherwise you risk having the context be too large. this is another thing that supports atomicity of notes. that you can't carry too much contextual information at once. 
-
-to go back onto the topic of if I care about interactivity in blogs. I'm not sure. it's certainly cool... I want to do it. but why. what am I trying to do with it. how does it help what I am trying to do. what am I trying to do with a blog in the first place?
-
-
-I'm not doing morning papers as they were intended. I want to go over these notes eventually and refine them whereas I think the original point was to just dump anything on your mind and just get a fresh start on the day. Empty your mind. There's that bruce lee idea. I should look it up. 
-about taking what is useful. discarding what's not. and then adding those ideas to your repetoire. 
-
 # how to read books
 > Absorb what is useful, reject what is useless, add what is essentially your own. 
 > -- Bruce Lee
 
-After thinking a lot about [[metacognition]] I've been obsessed with actually absorbing the material that I am consuming. But is all the material really useful? 
-I've seen the idea about focusing on what resonates with you. 
-
 I read an anecdote about someone who rereads The Alchemist after life events and how each time they read it they connect with a different character. People tend to only remember the peaks and ending of a film. 
 
-If everything is meaningful then nothing is. This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. 
-Somethings are meant to build anticipation. Building anticipation. And then paying off that antcipation. 
+If everything is meaningful then nothing is. This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. Pareto principle. 
 
+# building anticipation
+Somethings are meant to build anticipation. And then paying off that antcipation. 
 
-# morning pages - june 8th
-guess that's it so far lmao. being human. connecting with others. but also fueling rich and exciting work. maybe you can do both at the same time? discord communities are a lot better for these kinds of things. I can join my family discord. go in there during break times. during lunch time... maybe I'll start doing that. connect with kevin.. vinhcent. maybe even my brother lol. is there a cap on this stream of consciousness writing. I'll cap it here and take a look online. 
+Suspense movies are like this. Jump scares are oftentimes derided but if there's nothing that ever shocks you then the tension building doesn't ever really amount to anything does it? It's made scarier because you are anticipating something. Sometimes the scariest scenes don't come from horror movies. Parasite was so good at this when the poor family was stuck inside the rich family's house. 
 
-write everything. revise later. you operate on one mode at a time. its like the [[two-hat-theory]] from refactoring. just focus on one thing a time. exeriment with new processes. see what works for you. shake things up dramatically. this week's focus was on getting the zettlekesten going. and it's been a raging success. what was next week again?
-need to find time when I have energy to revise these notes haha. I'll just do it during the review time period I already have scheduled for myself at the end of each day. 
-
-
-ween yourself out of as much glue work as possible, including logistical meetings.  
-focus on deep work if you can. this is selfish yes.
+People, balk at having a scheduled love making session. However, because it's something that is scheduled, you are looking forward to it. Anticipating it. This is antithetical to spontaneous sex that people generally seem to favor and pervades media because media portrays new love and not old love. Considered unromantic and unsexy. Counterpoint is that with spontaneous sex is similar to my jump scare argument. You still anticipate spontaneous sex with the added benefit that you don't know when it's coming which increases the tension. 
 
 # morning papers - june 9th
 
@@ -180,3 +144,68 @@ another reason why reddit sucks. second hand opinions. try to focus on primary s
 these notes rarely reflect my final or even my actual thoughts. some may be contradictory to what I think. however, to fully empower this method of notetaking I need to be able to link ideas, reconcile conflicting ideas or even discredit some of them. 
 
 videos are good because they emphasize other skills that I lack. like speaking or conveying espression. things of that nature. 
+
+# jun 14th
+
+Meds over events over project work
+
+Connecting ideas to make concentrations.  Like Korean fashion reapers... connecting concentrations to other concentrations. Concepts to other concepts. Stories to other stories. Mechanics to other mechanics.  Coffee shop. New wave coffee vs old wave coffee. Conversations in there.  Nihilism vs... not nihilism. Sei breaks their spirit. Eli encourages them to move on. Live a life with no regrets. In comparison the work I’m doing right now feels really dry. How do you exhibit this kind of enthusiasm for bullshit...  I kind of want to cruise right now. 
+
+applying smart note taking to creative work. There’s two parts. Generating ideas. Mechanical work. The mechanics follow from the idea. The message. Kind of like baushaus. Form follows function. In this case the form is the concentration. Aka reaper daddies. 
+
+System for managing resources. Ingredients get delivered. Fresh ones go bad. You have to preserve which lowers their usefulness or changes it.  Some rare ingredients to bad after a day. You concoct potions from them. Rarer potions require a bunch of rare items delivered at once. You can supplement buy buying specialty ingredients but it’s expensive. 
+
+Gather ideas in one place. Connecting them in novel ways. Let them produce ideas for you. Gather the best ideas from games you played. Stories you read visuals from movies. The coolest scene from moody was stabbing in the background. but it also allows you to develop ideas in parallel. This means you have multiple projects cooking. But like academic work there’s mechanical steps that need to be done. Instead of rearranging ideas and deleting redundant sentences. You are filming shots. Or you are drawing some lines.  Remember the Pareto principal for short films is the strength of the script. It can apply again to mechanical work but it’s like 80 percent of the 20 percent. Numbers may be off but the point is some things are higher Impact. 
+
+Morning papers should last until the stream ends. Then focus on editing your thoughts. This also means your sprint system might go out of date? Then what do you do films on... well it comes as a result of exocortex right? There needs to be something external to the exocortex guiding practical work. He probably talks about this later on actually. 
+
+Line thickness is a practical specific thing. Your exocortex needs to be conceptual and general.
+
+gacha system <-> runescape clone
+
+well this is fun. Wanted to shoot out my website and finally move onto other stuff. super frustrating. I guess one lesson learned is to avoid 3rd party libraries or at the very least test things as you go. just because something is working in development mode doesn't mean it will work in the production build mode. 
+
+
+I wonder if it's a folly to try and break my life into sprints and instead put my focus onto things where my focus lies. I should probably read the rest of the book though. reading the book has been really inspiring. having this "slip box" of ideas to dump into. connecting them. letting throw grow and come together gels exactly with how I work. the challenge comes from converting this for creative pursuits. 
+
+my take with how this progresses for practical project is there's an external system. but it sounds like you need to be comfortable picking up and dropping things. which makes it a bit difficult as I want to start pumping out projects. maybe projects should be smaller in scope? especially video games? sprints could probably be consolidated down to one week even. let's see what the rest of the book has to say. 
+
+as I read about more and more productivity systems it, I start agreeing with bruce lee's take more. things will naturally jump out at you based on where you are on life and that's okay. 
+
+
+I had all these game ideas over the years that I sort of just forgot about. I attached gameplay and styles together. but what if that isn't necessarily what I wanted to do. what if I just had the random stylistic ideas. then random game ideas. scene ideas. and then craft a game out of all those things later... I'm getting really ambitious again when I don't even draw currently so maybe let's focus on this ideating phase right now. 
+
+
+creating a space for your endeavors is so important... 
+
+recognizing those spaces is important too
+
+give dogs and rena attention during breaks
+
+## code design
+
+Problem
+
+Options
+
+Solution
+
+# flow state
+
+## flow state as a front end developer
+
+atoms → pages system
+
+identify volatility, identify generality
+
+encapsulation
+
+## flow state as a back end developer
+
+Separate view from logic...  
+
+Encapsulation
+
+Read book about flow state next
+
+Supplemented research in the mornings

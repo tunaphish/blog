@@ -3,7 +3,7 @@ title: Continuously Iterate on Technical Quality
 ---
 > Rather then a failure, closing the gap between your target and technical quality is a routine, essential part of effective engineering leadership
 
-Above is similar to the ideals espoused in Recatoring by Martin Fowler. 
+Above is similar to the ideals espoused in Refactoring by Martin Fowler. 
 
 litany of strategies for this
 1. hotspots
