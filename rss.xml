@@ -1,5 +1,1556 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tunaphishy's blog]]></title><description><![CDATA[tuna's blog]]></description><link>https://tunaphish.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Jun 2021 21:11:58 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://tunaphish.github.io/blog/new-beginnings/</link><guid isPermaLink="false">https://tunaphish.github.io/blog/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tunaphishy]]></title><description><![CDATA[tunaphishy]]></description><link>https://tunaphish.me</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Jun 2021 23:43:26 GMT</lastBuildDate><item><title><![CDATA[Be an amateur]]></title><description><![CDATA[TODO: not very thought through
+often times when you start something there’s a huge divide between your taste and your ability to create…]]></description><link>https://tunaphish.me/be-an-amateur/</link><guid isPermaLink="false">https://tunaphish.me/be-an-amateur/</guid><content:encoded>&lt;p&gt;TODO: not very thought through
+often times when you start something there’s a huge divide between your taste and your ability to create. overcome it and just be an amateur. someone in love with the craft and wear it proudly and [[allow-yourself-to-be-vulnerable]]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;if you spend your life avoiding vulnerability then your work will never truly connect with anyone &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Austin Kleon - Show your Work&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Books are ineffective Mediums for Transferring Knowledge]]></title><description><![CDATA[this is because they rely on “transmissionism” to convey information. author has knowledge. author writes that knowledge in a book. audience…]]></description><link>https://tunaphish.me/books-are-ineffective-mediums-for-transferring-knowledge/</link><guid isPermaLink="false">https://tunaphish.me/books-are-ineffective-mediums-for-transferring-knowledge/</guid><content:encoded>&lt;p&gt;this is because they rely on “transmissionism” to convey information. author has knowledge. author writes that knowledge in a book. audience reads the book. audience gains the author’s knowledge. this is obviously not how knowledge transfer works. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;you have to actively engage in material to understand it.
+it ignores the way people understand and learn. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;emotions (the enthusiasm from a good professor, a fiction book conveying philosophy through tragic prose about human stories)&lt;/li&gt;
+&lt;li&gt;creative projects&lt;/li&gt;
+&lt;li&gt;active engagement&lt;/li&gt;
+&lt;li&gt;visuals&lt;/li&gt;
+&lt;li&gt;exploration (testing boundaries of ideas, disagreeing with it, synthesizing it, relating to other material, derive new ideas)&lt;/li&gt;
+&lt;li&gt;recall and spacing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;exocortex has a somewhat organic way of training spacing and recall outside of SRS. if you are able to make a connection back to a topic that you haven’t thought about in a while that’s a form of recall and strengthing the connection. &lt;/p&gt;
+&lt;p&gt;this means two things&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;having a better understanding of how you learn [[metacognition]]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;there is room for exploring mediums that align with how humans understand &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;[[the-advantages-of-videogames-as-a-medium]] align with some of these learning models although videogames rarely convey information in this way because for the most part they are designed for entertainment first. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Ambiguity Increases with Responsibilities]]></title><description><![CDATA[In software engineering careers, people perceive this to be the ambiguity of the problems you deal with. However, this applies more to your…]]></description><link>https://tunaphish.me/ambiguity-increases-with-responsibilities/</link><guid isPermaLink="false">https://tunaphish.me/ambiguity-increases-with-responsibilities/</guid><content:encoded>&lt;p&gt;In software engineering careers, people perceive this to be the ambiguity of the problems you deal with. However, this applies more to your job responsibilities and roles. There’s enough breadth and ambiguity at the higher levels of your career that no two engineer’s day will look exactly alike. Generally, they fall into certain archetypes based on a multitide of factors; interal and external like individual personality types and external reward structures. &lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Staff Engineer, Will Larson&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Behavior Driven Development]]></title><description><![CDATA[<-INSERT GRAPH-> SPECS -> GENERATOR -> TESTARONIS
+normally specifications are created at the beginning of a project and subsequently…]]></description><link>https://tunaphish.me/behavior-driven-development/</link><guid isPermaLink="false">https://tunaphish.me/behavior-driven-development/</guid><content:encoded>&lt;p&gt;&amp;#x3C;-INSERT GRAPH-&gt; SPECS -&gt; GENERATOR -&gt; TESTARONIS
+normally specifications are created at the beginning of a project and subsequently forgotten about and become unmaintained.
+how many times has a PM or manager come to me about scenarios we’ve changed in the past.
+uses technology like Cucumber or Specflow to generate tests from scenarios&lt;/p&gt;
+&lt;h2&gt;output&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;automated tests&lt;/li&gt;
+&lt;li&gt;navigatable websites of specs&lt;/li&gt;
+&lt;li&gt;boring paper documents&lt;/li&gt;
+&lt;li&gt;version control&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Breaks are Important for Knowledge Work]]></title><description><![CDATA[Diffused vs Focused Learning diffused learning vs focused learning is the concept that you are also learning when you aren’t actively…]]></description><link>https://tunaphish.me/breaks-are-important-for-knowledge-work/</link><guid isPermaLink="false">https://tunaphish.me/breaks-are-important-for-knowledge-work/</guid><content:encoded>&lt;h1&gt;Diffused vs Focused Learning&lt;/h1&gt;
+&lt;p&gt;diffused learning vs focused learning is the concept that you are also learning when you aren’t actively learning and that it is a necessary part of the process. &lt;/p&gt;
+&lt;p&gt;another reason why butt in seat time is not a good metric for knowledge based work, it just simply isn’t true&lt;/p&gt;
+&lt;h1&gt;Break Length&lt;/h1&gt;
+&lt;h2&gt;Pomodoro breaks utilized during your [[deep-work-habit-chain]]&lt;/h2&gt;
+&lt;p&gt;(10 minutes in between deep work sections and some longer breaks).
+Avoid social media during this time. It detracts from what a break is supposed to do. While you are taking a break you are supposed to be recharging and relaxing your mind for the next deep work section. What social media does instead forces a slew of information in your brain that you then need to process. &lt;/p&gt;
+&lt;h2&gt;effective breaks&lt;/h2&gt;
+&lt;p&gt;figure out what it is that is distracting you from your deep work and dial it down with your break&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meditation&lt;/li&gt;
+&lt;li&gt;Nap&lt;/li&gt;
+&lt;li&gt;Yoga&lt;/li&gt;
+&lt;li&gt;Snack&lt;/li&gt;
+&lt;li&gt;Dogs&lt;/li&gt;
+&lt;li&gt;Bathroom&lt;/li&gt;
+&lt;li&gt;Walk&lt;/li&gt;
+&lt;li&gt;Chat with someone&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Workend&lt;/h2&gt;
+&lt;h3&gt;Bias towards Long Form Media&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You should bias towards long form media (you trend towards short form like TikTok which KILLS your attention span)&lt;/li&gt;
+&lt;li&gt;Long form media should driving strategic thinking and mental models. &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Short form media should be driving tactical decisions and techniques.&lt;/p&gt;
+&lt;h2&gt;The Weekend&lt;/h2&gt;
+&lt;p&gt;Human made construct. Yet there’s some elegance to it?&lt;/p&gt;
+&lt;h2&gt;Sabbaticals&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Career Cold Start Algorithm]]></title><description><![CDATA[joining a new job is difficult. you have a massive knowledge defecit and no preexisting relationships. you want to want maximize your…]]></description><link>https://tunaphish.me/career-cold-start-algorithm/</link><guid isPermaLink="false">https://tunaphish.me/career-cold-start-algorithm/</guid><content:encoded>&lt;p&gt;joining a new job is difficult. you have a massive knowledge defecit and no preexisting relationships. you want to want maximize your initial impact while minimizing collateral damage. &lt;/p&gt;
+&lt;h1&gt;process&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;The first step is to find someone on the team and ask for 30 minutes with them&lt;/li&gt;
+&lt;li&gt;For the first 25 minutes: ask them to tell you everything they think you should know. Take copious notes. Only stop them to ask about things you don’t understand. Always stop them to ask about things you don’t understand.&lt;/li&gt;
+&lt;li&gt;For the next 3 minutes: ask about the biggest challenges the team has right now.&lt;/li&gt;
+&lt;li&gt;In the final 2 minutes: ask who else you should talk to. Write down every name they give you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Repeat the above process for every name you’re given. Don’t stop until there are no new names.&lt;/p&gt;
+&lt;h1&gt;Everything they think you should know&lt;/h1&gt;
+&lt;p&gt;The sum of the answers from the first 25 mins will not give you a complete picture of the team’s work. That will take months to develop. But they will give you a framework for integrating new information more quickly, which will speed up how fast you ramp. It will also heavily over index on the areas of work under active discussion, which will help you dive in productively to the most critical discussions immediately. The nature of what people choose to discuss is a very valuable signal about the problems the team face, as it may be about the work, the organization, or process. Finally, it will give you a sense of the language and terminology that can very often be a barrier to working smoothly with teams.&lt;/p&gt;
+&lt;h1&gt;What are the biggest challanges the team has right now&lt;/h1&gt;
+&lt;p&gt;The answers from the second question give you a cheat sheet on how to impress the team with early positive impact. Some of the things you’ll hear will take time to fix, such as “we need a bigger team” or “our infrastructure isn’t scaling.” Those are important and it will be good for the team to hear you internalize those challenges. But a surprising number of the issues you’ll hear repeatedly will be things you can easily help with, like “we waste a bunch of time in meetings every week” or “we need a dedicated conference room.” I start with the latter as quickly as I can because those are the types of things teams often neglect to prioritize, in spite of a compounding negative impact on progress.&lt;/p&gt;
+&lt;h1&gt;What should I talk to?&lt;/h1&gt;
+&lt;p&gt;The third question will give you a valuable map of influence in the organization. The more often names show up and the context in which they show up tends to provide a very different map of the organization than the one in the &lt;a href=&quot;http://boz.com/articles/damn-the-org-chart.html&quot;&gt;org chart&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;Summary&lt;/h1&gt;
+&lt;p&gt;For all the value I just described, the greatest value in this process isn’t in the answers — it is in the asking. Taking these meetings and listening shows proper respect for the team that’s in place. It can be hard to remember, but while you may be insecure about taking a new role because you feel like you’re at a disadvantage, the people you’re speaking with may also be unsure about you taking that role and what it means for them. Demonstrating mutual respect builds the trust required to make progress.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Code Documentation]]></title><description><![CDATA[documentation is the act of sharing knowledge tenets one diagram = one story
+documentation should  exploit authoritative sources (code base…]]></description><link>https://tunaphish.me/code-documentation/</link><guid isPermaLink="false">https://tunaphish.me/code-documentation/</guid><content:encoded>&lt;p&gt;documentation is the act of sharing knowledge&lt;/p&gt;
+&lt;h1&gt;tenets&lt;/h1&gt;
+&lt;p&gt;one diagram = one story
+documentation should &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;exploit authoritative sources (code base)&lt;/li&gt;
+&lt;li&gt;enrich authoritative sources (annotations as tags, standardized git commits)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;why is is documentation important?&lt;/h1&gt;
+&lt;h2&gt;code tenure vs developer tenure&lt;/h2&gt;
+&lt;p&gt;average developer tenure is 3 years
+average code tenure is 13 years.
+documentation is meant to bridge this gap&lt;/p&gt;
+&lt;p&gt;play the role of a curator. you are taking the infinite knowledge of development and your project and crafting a useful narrative for your team and stakeholders&lt;/p&gt;
+&lt;p&gt;software architect’s goal is to minimize the human effort required to build and maintain software. thus you should foucs on the speed of delivery.
+but not just for you and not just for right now.
+but for your coworkers and for the future&lt;/p&gt;
+&lt;p&gt;the actual act of writing code is easy. the difficulty of coding comes from continuous [[decision-making]]. backing those decisions is knowledge which is required to make informed decisions. thus the efficient storage and retrieval of knowledge is important. &lt;/p&gt;
+&lt;h1&gt;documents in every code project&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;readme &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;installation instructions&lt;/li&gt;
+&lt;li&gt;getting started&lt;/li&gt;
+&lt;li&gt;how to contribute&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;glossary&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;ideas&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;[[behavior-driven-development]]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;annotations as generic documentation&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;design patterns (@adapter that links to GoF pattern)&lt;/li&gt;
+&lt;li&gt;callouts (@hack, @provider)&lt;/li&gt;
+&lt;li&gt;tags (@provider find all dependencies)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;decision log&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;explains rationales&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;formalized git (semi formal)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;generate change log&lt;/li&gt;
+&lt;li&gt;explains rationales&lt;/li&gt;
+&lt;li&gt;allows command line tools exploitation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Code Reviews]]></title><description><![CDATA[reviews protect against the natural state of entropy that code tends to fall into. 
+use this guide to refactor and to review other’s code…]]></description><link>https://tunaphish.me/code-reviews/</link><guid isPermaLink="false">https://tunaphish.me/code-reviews/</guid><content:encoded>&lt;p&gt;reviews protect against the natural state of entropy that code tends to fall into.
+use this guide to refactor and to review other’s code&lt;/p&gt;
+&lt;h1&gt;Gather Context&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Read the SIM&lt;/li&gt;
+&lt;li&gt;Read the description&lt;/li&gt;
+&lt;li&gt;Draw code diagram | envision the grand scheme of code&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;conventions&lt;/h1&gt;
+&lt;h2&gt;General&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;prefer readability over everything&lt;/li&gt;
+&lt;li&gt;avoid comments
+comments shouldn’t explain what something does. the source code does this and commenting is a crutch for poor readability. if you have to have comments it should be to explain why something is the way it is.&lt;/li&gt;
+&lt;li&gt;prefer excessive logging and metrics
+logging business logic is a good idea&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Package&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid Multiple responsibilities (will this package change for multiple reasons)&lt;/li&gt;
+&lt;li&gt;Avoid Dispersed responsibilities (will a change effect multiple packages)&lt;/li&gt;
+&lt;li&gt;Avoid YAGNI&lt;/li&gt;
+&lt;li&gt;Inheritence → Favor Composition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid Large classes&lt;/li&gt;
+&lt;li&gt;Avoid coupling classes&lt;/li&gt;
+&lt;li&gt;Remember Injection, Non null&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avoid Object Instantiation and Favor Factories or Builders&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Implementation need not exist at compile time (???)&lt;/li&gt;
+&lt;li&gt;Vary return type based on inputs Compact API&lt;/li&gt;
+&lt;li&gt;Return type can be subtyped eg Return a different type of Enum based on size&lt;/li&gt;
+&lt;li&gt;Is named eg getInstance()&lt;/li&gt;
+&lt;li&gt;Control instance creation eg object pools&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Minimize Accessibility of Classes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design a minimal public API&lt;/li&gt;
+&lt;li&gt;Reduce accessibility of internals as much as possible&lt;/li&gt;
+&lt;li&gt;Benefits&lt;/li&gt;
+&lt;li&gt;Change structure however you like&lt;/li&gt;
+&lt;li&gt;Minimize APIs you have to maintain&lt;/li&gt;
+&lt;li&gt;Decoupling = develop|test|modify in parallel&lt;/li&gt;
+&lt;li&gt;Decrease risk of building large systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Function&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid Pointless Indirection&lt;/li&gt;
+&lt;li&gt;prefer defensive programming, validate inputs&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;prefer smaller parameter sizes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;try more methods that use different parameters&lt;/li&gt;
+&lt;li&gt;try helper methods that encompass the parameter list&lt;/li&gt;
+&lt;li&gt;try parameter objects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;prefer interfaces in params over classes&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;avoid side effects and mutations&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Anything that returns a value should have no observable side effects!&lt;/li&gt;
+&lt;li&gt;return defensive copies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Avoid Flag Parameters&lt;/li&gt;
+&lt;li&gt;Avoid Optionals&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prefer Method References &gt; Lambdas &gt; Anonymous Classes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lambdas essentially do the job of anonymous classes but with a lot less boilerplate.&lt;/li&gt;
+&lt;li&gt;Method references should be used over lambdas. They provide a bit more documentation and are generally less verbose. This isn’t always the case however.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;avoid varargs for performance issues&lt;/li&gt;
+&lt;li&gt;use optionals to force clients to deal with missing data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Data&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;avoid global data&lt;/li&gt;
+&lt;li&gt;avoid strings over more precise datatypes&lt;/li&gt;
+&lt;li&gt;prefer immutability&lt;/li&gt;
+&lt;li&gt;avoid primitive&lt;/li&gt;
+&lt;li&gt;avoid clumps (data that tends to appear together but not grouped)&lt;/li&gt;
+&lt;li&gt;avoid ethereal (temporary)&lt;/li&gt;
+&lt;li&gt;avoid chaining (person.name.last)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Exception Handling&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Favor Try with Resources&lt;/li&gt;
+&lt;li&gt;avoid exceptions over conditions (performance)&lt;/li&gt;
+&lt;li&gt;Use Checked Exceptions for Recoverable States and Unchecked for Programming Errors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Style&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid Switches or Loops and prefer functional programming&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;avoid (complex) conditionals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;try early exits&lt;/li&gt;
+&lt;li&gt;try strategy pattern&lt;/li&gt;
+&lt;li&gt;try special case object pattern&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1&gt;Resources&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Clean Code - Robert Martin&lt;/li&gt;
+&lt;li&gt;Effective Java - Joshua Bloch&lt;/li&gt;
+&lt;li&gt;Refactoring - Martin Fowler&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Content Creation]]></title><description><![CDATA[goals  you are filming and documenting your interesting life and then crafting a narrative around it.  look back on my life try new things…]]></description><link>https://tunaphish.me/content-creation/</link><guid isPermaLink="false">https://tunaphish.me/content-creation/</guid><content:encoded>&lt;h1&gt;goals&lt;/h1&gt;
+&lt;p&gt; you are filming and documenting your interesting life and then crafting a narrative around it. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;look back on my life&lt;/li&gt;
+&lt;li&gt;try new things, experiment, projects&lt;/li&gt;
+&lt;li&gt;just film my life casually and craft a story in the cutting room&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;film [[habit-chain]]&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;identify purpose (I’m eating good ass food, having good time with rena)&lt;/li&gt;
+&lt;li&gt;identify style based on purpose (tiktok trends, haegreendal)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;gather shots&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;establishing&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;favor motivated camera movement&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;medium&lt;/li&gt;
+&lt;li&gt;details&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;edit process&lt;/h1&gt;
+&lt;h2&gt;day to day [[habit-chain]]&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;export footage&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;cut favorites&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;cut on action&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;stabilize&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;edit day [[habit-chain]]&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;identify story&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;select music: &lt;a href=&quot;https://hellothematic.com/&quot;&gt;thematic&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;group scenes &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;identify purpose&lt;/li&gt;
+&lt;li&gt;start audio 2-3 frames before next clip&lt;/li&gt;
+&lt;li&gt;maintain eyeline between zoom-ins&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;color grade&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;youtube strategy&lt;/h1&gt;
+&lt;p&gt;purpose → create online prescence that requires effort, document mines and rena’s life
+content → time periods of life, project
+style → deemphasize face and voice, korean style vlogs… except faster cadence. more jokes. more camera play. emphasize audio
+wide to detail cadence
+timelines → videos should take a week to a month
+narrative → life, inner issues&lt;/p&gt;
+&lt;h1&gt;editing things I want to learn&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;creating a narrative&lt;/li&gt;
+&lt;li&gt;color grading&lt;/li&gt;
+&lt;li&gt;voice overs&lt;/li&gt;
+&lt;li&gt;draw effects on my videos&lt;/li&gt;
+&lt;li&gt;proper settings&lt;/li&gt;
+&lt;li&gt;Better audio&lt;/li&gt;
+&lt;li&gt;Gimbal shots&lt;/li&gt;
+&lt;li&gt;Screen shot film&lt;/li&gt;
+&lt;li&gt;iPhone chest mount with backpack?&lt;/li&gt;
+&lt;li&gt;using better equipment again&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;inspos&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=VRBmm6RKtVM&amp;#x26;feature=share&quot;&gt;https://youtube.com/watch?v=VRBmm6RKtVM&amp;#x26;feature=share&lt;/a&gt; - youtube cinematography
+&lt;a href=&quot;https://vm.tiktok.com/ZMe43g33y/&quot;&gt;https://vm.tiktok.com/ZMe43g33y/&lt;/a&gt; - what my camera sees
+&lt;a href=&quot;https://www.instagram.com/reel/CN7YrJro-_B/?igshid=uvphu1v4v8f6&quot;&gt;https://www.instagram.com/reel/CN7YrJro-_B/?igshid=uvphu1v4v8f6&lt;/a&gt; - shadow’s showing
+&lt;a href=&quot;https://vm.tiktok.com/ZMeVSRSrN/&quot;&gt;https://vm.tiktok.com/ZMeVSRSrN/&lt;/a&gt; - camera angle with mirror
+&lt;a href=&quot;https://vm.tiktok.com/ZMegcwhxb/&quot;&gt;https://vm.tiktok.com/ZMegcwhxb/&lt;/a&gt; - couples photos while traveling!
+&lt;a href=&quot;https://vm.tiktok.com/ZMeG6Ejtd/&quot;&gt;https://vm.tiktok.com/ZMeG6Ejtd/&lt;/a&gt; - korean mood edit
+&lt;a href=&quot;https://vm.tiktok.com/ZMenPXVft/&quot;&gt;https://vm.tiktok.com/ZMenPXVft/&lt;/a&gt; - 3D zoom&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Consumption Strategy&lt;/h1&gt;
+&lt;p&gt;Passive streams that feed me inspiration and updates. I should be conscious in my consumption to see how it can fuel my life. Don’t mindlessly scroll. Identify why you like something, and categorize accordingly so it can be back referenced when a project down the line requires it. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Youtube - Cooking&lt;/li&gt;
+&lt;li&gt;Instagram - Art, Design, Home Decor&lt;/li&gt;
+&lt;li&gt;Tiktok - Trends, Youth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;consumption types&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;targeted (how does this help my project overall, on my tasks for the next few days)&lt;/li&gt;
+&lt;li&gt;curated passive consumption (thoughtful.. what do I like. what don’t I, what project can this contribute to)
+the science of software engineering often involves the efficient storage and retrieval of data. it makes sense to apply similar principals to personal knowledge management. &lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Concept Artist Habit Chain]]></title><description><![CDATA[design guide from designs, identify areas of things you don’t know how to draw! project artstyle style lines palette rendering processing…]]></description><link>https://tunaphish.me/concept-artist-habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/concept-artist-habit-chain/</guid><content:encoded>&lt;h1&gt;design guide&lt;/h1&gt;
+&lt;p&gt;from designs, identify areas of things you don’t know how to draw!&lt;/p&gt;
+&lt;h2&gt;project&lt;/h2&gt;
+&lt;p&gt;artstyle&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;style&lt;/li&gt;
+&lt;li&gt;lines&lt;/li&gt;
+&lt;li&gt;palette&lt;/li&gt;
+&lt;li&gt;rendering&lt;/li&gt;
+&lt;li&gt;processing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;character&lt;/h2&gt;
+&lt;p&gt;create bio: 1 liner?
+create style guide
+body type
+hair
+clothing
+what am I trying to convey?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;character traits&lt;/li&gt;
+&lt;li&gt;aspects of character design&lt;/li&gt;
+&lt;li&gt;alternative character outfits&lt;/li&gt;
+&lt;li&gt;game moments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;what technique can I use to influence above that I’ve never done before?&lt;/p&gt;
+&lt;h2&gt;painting&lt;/h2&gt;
+&lt;p&gt;thumbnails
+pallete
+composition&lt;/p&gt;
+&lt;h1&gt;workflow&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Background&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Texture&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sketch&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;proportion and composition (Pencil R6)&lt;/li&gt;
+&lt;li&gt;details (HB)&lt;/li&gt;
+&lt;li&gt;Incorporate Visual Language
+Direction, Focial Point, Contrast, Message (Don’t fucking cheat me)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ink&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ink Details
+&lt;a href=&quot;https://www.youtube.com/watch?v=ZzgrOMCd380&quot;&gt;Confidence. Thiccness. Color. Suggestions.&lt;/a&gt;
+&lt;a href=&quot;https://vm.tiktok.com/ZMeGhD1wp/&quot;&gt;https://vm.tiktok.com/ZMeGhD1wp/&lt;/a&gt; - suggestion (avoid lines where they aren’t needed)&lt;/li&gt;
+&lt;li&gt;Duplicated Layer (Color Change, Gaussian blur)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Base Colors&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Render
+build up shapes instead of lines. distill into as simple of shapes as you can that still allow the image to read &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Shadow (Multiply)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Transition Shadow (Soft Brush)&lt;/li&gt;
+&lt;li&gt;Hard Shadows (Pen)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Highlight (Overlay, Screen)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Light Purple for Skin, Brownish Red for Hair&lt;/li&gt;
+&lt;li&gt;Transition Shadow (Soft Brush)&lt;/li&gt;
+&lt;li&gt;Hard Highlights (Pen)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Post-Processing&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Curve|Color Correction&lt;/li&gt;
+&lt;li&gt;Light Smearing&lt;/li&gt;
+&lt;li&gt;Chromatic Aberration|Lens Blur&lt;/li&gt;
+&lt;li&gt;Noise&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Continuously Iterate on Technical Quality]]></title><description><![CDATA[Rather then a failure, closing the gap between your target and technical quality is a routine, essential part of effective engineering…]]></description><link>https://tunaphish.me/continously-iterate-on-technical-quality/</link><guid isPermaLink="false">https://tunaphish.me/continously-iterate-on-technical-quality/</guid><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;Rather then a failure, closing the gap between your target and technical quality is a routine, essential part of effective engineering leadership&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Above is similar to the ideals espoused in Refactoring by Martin Fowler. &lt;/p&gt;
+&lt;p&gt;litany of strategies for this&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;hotspots&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;best practices&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;he talks about letting these fail because they often don’t work out and starting small. I feel like my attempts at these were failures. I oftentimes see process changes fail for project management because they depend on developers changing their working processes and there’s inertia to this. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;leverage points&lt;/li&gt;
+&lt;li&gt;align technical vectors (strategy and vision)&lt;/li&gt;
+&lt;li&gt;measuring quality&lt;/li&gt;
+&lt;li&gt;quality teams &amp;#x26; programs&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Dealing with Analysis Paralysis]]></title><description><![CDATA[Something I struggle with a lot. I constantly find new ways to do this. From infinite research to my latest way of creating ‘mood boards…]]></description><link>https://tunaphish.me/dealing-with-analysis-paralysis/</link><guid isPermaLink="false">https://tunaphish.me/dealing-with-analysis-paralysis/</guid><content:encoded>&lt;p&gt;Something I struggle with a lot. I constantly find new ways to do this. From infinite research to my latest way of creating ‘mood boards’. Just put something out there. You will know if it doesn’t fit. &lt;/p&gt;
+&lt;h2&gt;remember, it is an arbitrary world&lt;/h2&gt;
+&lt;p&gt;As I get older the more I realize things aren’t the result of thoughtful designs but arbitrary decisions. Have the audacity to say the world isn’t representing me and I will make it happen&lt;/p&gt;
+&lt;h2&gt;remember, your personal value system is valid&lt;/h2&gt;
+&lt;p&gt;Basically people often experience social anxiety because they take rejection
+personally IE it’s a measure of your social value or rank.
+This is rooted in a belief that other people can measure your value and that measure is more important than yours. If you are living by your own value system than other people’s opinions don’t become nearly as important so their rejection doesn’t lower your self esteem. If you truly believe in your own values than you can approach people, measure their value, invite them into your world and not take it too personally if they say no.
+don’t forget to [[allow-yourself-to-be-vulnerable]]&lt;/p&gt;
+&lt;h2&gt;avoid self help books → waste of time&lt;/h2&gt;
+&lt;p&gt;An issue I have with a lot of self help books, productivity managers comes down to the same thing; would this time be better spent actually doing the activity itself? This stems from a disdain that I have for a lot of the self help community. People who’s job is it to tell people how to be more productive instead of being productive. Why read a book on how to read a book, when I can just read a book. Especially since I have spent so so much time reading these self help books to stuffing my face with chips and playing Apex Legends.&lt;/p&gt;
+&lt;h2&gt;bias for action&lt;/h2&gt;
+&lt;p&gt;ITERATION, ITERATION, ITERATION.
+Be more confident in yourself. Put something down. It’s easier to enunciate what’s wrong with what’s in front of you then what’s wrong with what’s in your head.&lt;/p&gt;
+&lt;h2&gt;time box yourself&lt;/h2&gt;
+&lt;p&gt;Emotions are affect heuristics, they help you make decisions more quickly
+the amount of time you spend researching a decision is a decision within itself&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Daily Writing Habit Chain]]></title><description><![CDATA[[habit-chain] mind dump morning papers -> stream of consciousness writing for a while.  thoughts from last nights media intake.  pick a…]]></description><link>https://tunaphish.me/daily-writing-habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/daily-writing-habit-chain/</guid><content:encoded>&lt;p&gt;[[habit-chain]]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;mind dump&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;morning papers -&gt; stream of consciousness writing for a while. &lt;/li&gt;
+&lt;li&gt;thoughts from last nights media intake. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pick a topic to write about or revise in inbox. it’s a cornocopia of ideas. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;if it’s empty that means I’m in some kind of rut and should be mixing up my life or input streams somehow. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;create new notes for your [[digital-garden]]&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Curate your Input Streams Carefully]]></title><description><![CDATA[Because [there-is-an-overwhelming-amount-of-information-in-the-world] this practice is very important.
+cal newport talked about this a lot…]]></description><link>https://tunaphish.me/curate-your-input-streams-carefully/</link><guid isPermaLink="false">https://tunaphish.me/curate-your-input-streams-carefully/</guid><content:encoded>&lt;p&gt;Because [[there-is-an-overwhelming-amount-of-information-in-the-world]] this practice is very important.
+cal newport talked about this a lot in digital minimalism. his take is oftentimes to delete these things entirely. you don’t need them. although his ultimate position was just above (to curate carefully). throwing the baby out with the bathwater imo. stands in juxtaposition with austin’s show your work where you [[participate-in-online-communities]] so you can take advantage of social media! the ability to connect with anyone in the world and share your work. so find a balance. curate your input streams carefully. give more then you get. talk with people. show up everyday. &lt;/p&gt;
+&lt;h1&gt;Social Media as Mediums for Gathering Information&lt;/h1&gt;
+&lt;h2&gt;Tiktok&lt;/h2&gt;
+&lt;p&gt;I really really like tiktok as a medium for some reason. it has huge massive flaws that I think about a lot. right now it seems like the ultimate manifestation of all the worst parts of an [[attention-economy]]. extreme ease of use. bite size information blips. the way people speak on it is oftentimes insufferable. lots of superiority on this medium as well.&lt;/p&gt;
+&lt;p&gt;yet I find myself continously getting inspired by it
+sense of communities due to the way the algorithm tends to group like minded people together
+“organic” exposure to other subjects I am unfamilliar with
+constant appeals to pathos over logos. contrast with communities that I generally interact or used to interact with. like reddit, blind or other dev communities.
+creative barrier to entry that is high enough that it filters out a lot of low effort content yet is low enough that people that generally wouldn’t generate content for a community like youtube still participate. would say it exists in a space between youtube and instagram.  not a huge fan of instagram stories in general. because of how low low low effort they are and the vapidness of what they communicate. but I think they’re good for conversation hooks. letting people ask me about my cute doggo and such.&lt;/p&gt;
+&lt;h2&gt;Reddit&lt;/h2&gt;
+&lt;p&gt;why reddit is oftentimes pretty shitty and I’ve blocked it on every single &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;another predator in the [[attention-economy]]&lt;/li&gt;
+&lt;li&gt;pseudo intellectualism and a sense of superiority because of it. FACTS NOT FEELINGS. &lt;/li&gt;
+&lt;li&gt;truth by consensus, a byproduct of the upvote|downvote system.  &lt;/li&gt;
+&lt;li&gt;bias towards low effort, low substance material (man I’m talking about this a lot)&lt;/li&gt;
+&lt;li&gt;there is a huge bias against self promotion which stands in contrast with tiktok where it’s celebrated. I can see both sides of this argument because it’s fairly annoying to wade through a bunch of people trying to sell you something but I like the way that tiktok celebrates putting yourself out there and to [[allow-yourself-to-be-vulnerable]]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;rss feeds&lt;/h2&gt;
+&lt;p&gt;there are some misc articles I get sent, blogs I want to keep track of that exist in different spheres and just newsletters I want to keep up with like the latest Gatsby news.
+for this I’ll use a simple RSS feed. it’s the ultimate in curation since you have to actively add things to your feed instead of an algorithm feeding it to you. &lt;/p&gt;
+&lt;p&gt;one big issue is dealing with major news sites where the rate of articles they send out make it fairly difficult to filter the ones you actually care about. sadly, just get rid of them. the noise to signal ratio isn’t there. a big loss for things like japanese media (siliconera comes to mind) that you don’t have other organic sources of information for (actually tiktok is filling this void quite nicely) but that’s okay. &lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Cal Newport - Digital Minimalism&lt;/li&gt;
+&lt;li&gt;Austin Kleon - Show your Work&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Decision Making]]></title><description><![CDATA[frameworks for guiding decision making [minimize-regret]  tenets [decision-making-length-should-be-proportional-to-importance]]]></description><link>https://tunaphish.me/decision-making/</link><guid isPermaLink="false">https://tunaphish.me/decision-making/</guid><content:encoded>&lt;h1&gt;frameworks for guiding decision making&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;[[minimize-regret]] &lt;/li&gt;
+&lt;li&gt;tenets&lt;/li&gt;
+&lt;li&gt;[[decision-making-length-should-be-proportional-to-importance]]&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Decision Making Length Should be Proportional to Importance]]></title><description><![CDATA[It’s easy to spend too much time thinking about the things that don’t matter. 
+Remember the pareto principle or the 80/20 rule.
+Aim for good…]]></description><link>https://tunaphish.me/decision-making-length-should-be-proportional-to-importance/</link><guid isPermaLink="false">https://tunaphish.me/decision-making-length-should-be-proportional-to-importance/</guid><content:encoded>&lt;p&gt;It’s easy to spend too much time thinking about the things that don’t matter.
+Remember the pareto principle or the 80/20 rule.
+Aim for good, not perfect. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Emotions as an Affect Heurstic]]></title><description><![CDATA[Remember that [decision-making-length-should-be-proportional-to-importance]
+emotions support this principal by helping you quickly make…]]></description><link>https://tunaphish.me/emotions-as-an-affect-heuristic/</link><guid isPermaLink="false">https://tunaphish.me/emotions-as-an-affect-heuristic/</guid><content:encoded>&lt;p&gt;Remember that [[decision-making-length-should-be-proportional-to-importance]]
+emotions support this principal by helping you quickly make decisions. Does this person piss you off? Don’t hire them. A situation feels scary? Get out of there. Intuitives hone this ability and are able to progress far in life with “gut feeling” decision making. &lt;/p&gt;
+&lt;p&gt;A lot of chefs learned how to cook by brute force. Simply experimenting with different things until they discovered what tasted good guided by their intuition. This brute force nature reminds of [[interview-loop-habit-chain]] which isn’t always the wrong answer. &lt;/p&gt;
+&lt;p&gt;Similar to intuitive vs logical leaders &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Deep Work Habit Chain]]></title><description><![CDATA[habit chain play music work pomodoro for 50:10 [breaks-are-important-for-knowledge-work] remove all distractions focus on one task at a time]]></description><link>https://tunaphish.me/deep-work-habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/deep-work-habit-chain/</guid><content:encoded>&lt;h2&gt;habit chain&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;play music&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;work&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;pomodoro for 50:10 [[breaks-are-important-for-knowledge-work]]&lt;/li&gt;
+&lt;li&gt;remove all distractions&lt;/li&gt;
+&lt;li&gt;focus on one task at a time&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Favor Depth of Experience over Breadth]]></title><description><![CDATA[TODO There’s a common line of thought that you should favor experiences over material possessions. This comes from a rejection of…]]></description><link>https://tunaphish.me/favor-depth-of-experience-over-breadth/</link><guid isPermaLink="false">https://tunaphish.me/favor-depth-of-experience-over-breadth/</guid><content:encoded>&lt;p&gt;TODO&lt;/p&gt;
+&lt;p&gt;There’s a common line of thought that you should favor experiences over material possessions. This comes from a rejection of consumerism and the belief that a life rich in experiences is one way to [[minimize-regret]]. However, there are several flaws with this line of thinking. &lt;/p&gt;
+&lt;p&gt;You can acquire a deep appreciation for material possessions. This is a philosophy touted by Marie Kondo often. Mindlessly consuming material posessions is bad. People focus on the consuming material posessions part. The true evil is the mindlessly part. Acquiring material posessions with intent, appreciating them, taking proper care of them all lead to a healthier relationship with material goods. Minimalism often flies too far in the opposite direction where you pare down as many items as you possibly can. However this oftentimes lead to outsourcing different parts of your life. For example if you pared down your toolkit and now you needed to borrow a hammer from a neighbhor. Although the idea of community items to reduce overall in the consumption in the world is admirable t at oftentimes isn’t really the goal or intent of reducing how much stuff you have. &lt;/p&gt;
+&lt;p&gt;Oftentimes there’s a collector’s fallacy with experiences as well. Acquiring a list of experiences, things you’ve done just to say you’ve done them. Showing off pictures on social media. &lt;em&gt;expound on this more&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There’s a different kind of a joy, and an experience onto itself by focusing on depth over breadth. Like your monogamous relationship and savoring the growth of one individual overtime instead transient superficial idiosyncrasies of a group of people. Deeply exploring an individual dishs and discovering its depth and appreciating the nuance. &lt;/p&gt;
+&lt;p&gt;Another reason why I dislike productivity as an industry. productivity gurus oftentimes are only good at pumping out producvitiy material but don’t actually do anything…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Five Love Languages]]></title><description><![CDATA[people express and receive love differently. identify how your loved ones communicate their love languages acts of service quality time…]]></description><link>https://tunaphish.me/five-love-languages/</link><guid isPermaLink="false">https://tunaphish.me/five-love-languages/</guid><content:encoded>&lt;p&gt;people express and receive love differently. identify how your loved ones communicate their love languages&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;acts of service&lt;/li&gt;
+&lt;li&gt;quality time&lt;/li&gt;
+&lt;li&gt;gifts&lt;/li&gt;
+&lt;li&gt;touch&lt;/li&gt;
+&lt;li&gt;words of affirmation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;mom’s been cooking a lot. that’s her preferred way of expressing love languages which is acts of service. how does she receive love? in lots of ways lol. she seems to like gifts, chatting, words of affirmation and quality time. hugs and kisses so touch. similar to others in that way… &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Handling Client Integration]]></title><description><![CDATA[timeouts where is it used (client or server) renewal (keep alive vs absolute) granularity (connection level vs API level) client (low) < lb…]]></description><link>https://tunaphish.me/handling-client-integration/</link><guid isPermaLink="false">https://tunaphish.me/handling-client-integration/</guid><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2fc90839f71104a47dcd00d7694cae24/ff0e5/client-integration-flow.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 42.405063291139236%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAABnklEQVQoz02S0arTQBCG+/5P4Z0IBwVBxQvBC/FcaNHaqk1pk+Y0jUnTNtl0k+xmd/NJNkc5AwO7sPvNP//MjCfhHEgpqWVFtnlPtn4Dg2MYBp9jmL4n2ieswwBjDcZMqXuNdZaZKrdcNy/JgzuO6QJrISti4p+vPbCuK7JTgVId6Z8j+elCEX8hWj4nP4eUZcU+WTNY5wvOmjJmM3/FfvkWcU2RTYuoBOH8BcH9M47HgO2vBeJWsVh+psgLRLEj291T11fSLOd8vVB1AuMMM9/qk7YHY72a4Mc7otVHrFagWtxNQttOb9yAeTwjBfSKrCnojJqAqmu9AikvNG1J3dasfn8ljbYcDg/Im6CO52TxN4xzSFmRZDuvJE8CtKzIixhj9ATUSnNrb8hOID1Q8H31iXCzIEkeKC858eKOcP0Bax3WWkxvcMNAqzscgx/MOLgJqDWqU/SNwHWNvx8OIVm8pzidUEZjAAv0znjgv3RuKlCWpf83eejcuB1cREarG+/RuCX2cV1GbyotqFSF7Jv/sFGV8xZIoijifD7zFzuKYPWgeKLnAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;client integration flow&quot;
+        title=&quot;client integration flow&quot;
+        src=&quot;/static/2fc90839f71104a47dcd00d7694cae24/f058b/client-integration-flow.png&quot;
+        srcset=&quot;/static/2fc90839f71104a47dcd00d7694cae24/c26ae/client-integration-flow.png 158w,
+/static/2fc90839f71104a47dcd00d7694cae24/6bdcf/client-integration-flow.png 315w,
+/static/2fc90839f71104a47dcd00d7694cae24/f058b/client-integration-flow.png 630w,
+/static/2fc90839f71104a47dcd00d7694cae24/40601/client-integration-flow.png 945w,
+/static/2fc90839f71104a47dcd00d7694cae24/78612/client-integration-flow.png 1260w,
+/static/2fc90839f71104a47dcd00d7694cae24/ff0e5/client-integration-flow.png 3234w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;timeouts&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;where is it used (client or server)&lt;/li&gt;
+&lt;li&gt;renewal (keep alive vs absolute)&lt;/li&gt;
+&lt;li&gt;granularity (connection level vs API level)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;client (low) &amp;#x3C; lb (medium) &amp;#x3C; service (highest)&lt;/p&gt;
+&lt;h1&gt;retries&lt;/h1&gt;
+&lt;p&gt;clients need retriers !!!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;network errors&lt;/li&gt;
+&lt;li&gt;throttling&lt;/li&gt;
+&lt;li&gt;things they ask you to retry on…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;exceptions vs status codes&lt;/h1&gt;
+&lt;p&gt;failure status codes are somewhat pointless if they don’t come with an associated message. much prefer throwing exceptions instead which work with messages, metrics, and retriers&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Design Habit Chain]]></title><description><![CDATA[[habit-chain] define problem and time to research gather artifacts summarize artifacts identify additional questions pull similarities…]]></description><link>https://tunaphish.me/design-habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/design-habit-chain/</guid><content:encoded>&lt;h2&gt;[[habit-chain]]&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;define problem and time to research&lt;/li&gt;
+&lt;li&gt;gather artifacts&lt;/li&gt;
+&lt;li&gt;summarize artifacts&lt;/li&gt;
+&lt;li&gt;identify additional questions&lt;/li&gt;
+&lt;li&gt;pull similarities&lt;/li&gt;
+&lt;li&gt;summarize artifacts&lt;/li&gt;
+&lt;li&gt;answer next question&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Product Design Habit Chain&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;ideation&lt;/li&gt;
+&lt;li&gt;. MVP&lt;/li&gt;
+&lt;li&gt;speccing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;UX Design Habit Chain&lt;/h1&gt;
+&lt;h2&gt;ideation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://mobbin.design&quot;&gt;mobbin.design&lt;/a&gt; → shows you other companies flows
+&lt;a href=&quot;http://adcnet.corp.amazon.com/en/&quot;&gt;http://adcnet.corp.amazon.com/en/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;user flows&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;hick’s law:&lt;/strong&gt; the more choices you gie to a user, the more time will be consumed in making the decisions&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://vm.tiktok.com/ZMebVwggM/&quot;&gt;breakpoints figma plugin&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Visual Design Habit Chain&lt;/h1&gt;
+&lt;p&gt;bauhaus philosophy dictates that form should follow function&lt;/p&gt;
+&lt;h2&gt;general&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;language (moods, themes, emotions)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;palette&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;base colors&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://maketintsandshades.com&quot;&gt;tints and shades&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;gradients&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;typography&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;two fonts&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;elevation and shading&lt;/li&gt;
+&lt;li&gt;icons&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;flair&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;animations&lt;/li&gt;
+&lt;li&gt;transitions&lt;/li&gt;
+&lt;li&gt;3d effects&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;specific&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;lofi page&lt;/li&gt;
+&lt;li&gt;define components&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;hifi components&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;photos&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;hifi page&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;developer [[habit-chain]]&lt;/h1&gt;
+&lt;h2&gt;web [[tenets]]&lt;/h2&gt;
+&lt;p&gt;favor HTML\CSS over Javascript solutions&lt;/p&gt;
+&lt;h2&gt;design flow&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;define the problem. keep crafting the problem statement until the solution becomes clear &lt;/li&gt;
+&lt;li&gt;identify volatility &lt;/li&gt;
+&lt;li&gt;identify generality&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;react
+styled-components
+styled-systems&lt;/p&gt;
+&lt;h2&gt;general layout&lt;/h2&gt;
+&lt;h2&gt;views&lt;/h2&gt;
+&lt;h2&gt;shared components&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://tobiasahlin.com/moving-letters/&quot;&gt;https://tobiasahlin.com/moving-letters/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.notion.so/100-underline-overlay-animations-The-ultimate-CSS-collection-DEV-Community-9dd863b6d9124a679aeae346318890b3&quot;&gt;100 underline/overlay animations | The ultimate CSS collection 🥇 - DEV Community&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.notion.so/I-made-100-CSS-loaders-for-your-next-project-DEV-Community-f9fbf46144a64701bbcd1bd007f9d480&quot;&gt;I made 100 CSS loaders for your next project - DEV Community&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;marketing&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://previewed.app&quot;&gt;previewed.app&lt;/a&gt; → mocks a UI for you
+&lt;a href=&quot;http://rotato.app&quot;&gt;rotato.app&lt;/a&gt; → showcase your app design like the big dogs : )&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://uxdesign.cc/creating-a-design-system-in-figma-cbd01b0d2424&quot;&gt;https://uxdesign.cc/creating-a-design-system-in-figma-cbd01b0d2424&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Digital Garden]]></title><description><![CDATA[Should I update the allegory to be stars and supernovas lol.
+This is my place to tend to and nurture ideas. They often start out as sprouts…]]></description><link>https://tunaphish.me/digital-garden/</link><guid isPermaLink="false">https://tunaphish.me/digital-garden/</guid><content:encoded>&lt;p&gt;Should I update the allegory to be stars and supernovas lol.
+This is my place to tend to and nurture ideas. They often start out as sprouts from other gardens and they benefit from connecting with eachother in unexpected ways and become wholly new ideas. Hopefully, then I can mature it until they become evergreen. &lt;/p&gt;
+&lt;h1&gt;why&lt;/h1&gt;
+&lt;p&gt;So what’s the purpose? To aid in understanding.. but also to inspire and this one is big for me. Digital gardens often trend towards written note taking and want to shift my focus onto videogames at some point  but a fairly visual medium. Anyways because they are visual I want to be not only be inspired visually but to flex my creative visual muscles. &lt;/p&gt;
+&lt;h1&gt;tenets for tending to your constellation&lt;/h1&gt;
+&lt;p&gt;notes should be fairly conceptual and general in nature. this helps relate ideas
+notes should be declarative. they should assert an opinion.
+notes should be atomic. use a wet and dry method. if you find yourself writing about a concept twice then extract into a common note.
+notes should be accompanied with a visual. aids in synthesis of ideas and leverages other cognitive models for learning
+notes should be associated with tags&lt;/p&gt;
+&lt;h1&gt;Adding a new note&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Add tags&lt;/li&gt;
+&lt;li&gt;Visual aids&lt;/li&gt;
+&lt;li&gt;Connections&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;bauhaus for my digital constellation&lt;/h1&gt;
+&lt;p&gt;so while I love the digital constellation allegory. the mind map doesn’t seem conducive. vines? what in natural green nature looks like this? not a lot I don’t think&lt;/p&gt;
+&lt;h1&gt;concerning work topics in your constellation&lt;/h1&gt;
+&lt;p&gt;anything project specific can live in project wikis. although the benefits from being a part of my exocortex are gone. but really I should be taking general conceptual ideas from my projects and cross pollinating them with my other ideas. that means it doesn’t really matter if specifics to my job aren’t in my constellation. that’s fine &lt;/p&gt;</content:encoded></item><item><title><![CDATA[How do you live a life with no regrets]]></title><description><![CDATA[reaper explores the question how do you live a life without regrets… how do you [minimize-regret] each day explores a different facet of…]]></description><link>https://tunaphish.me/how-do-you-live-a-life-with-no-regets/</link><guid isPermaLink="false">https://tunaphish.me/how-do-you-live-a-life-with-no-regets/</guid><content:encoded>&lt;p&gt;reaper explores the question how do you live a life without regrets… how do you [[minimize-regret]]&lt;/p&gt;
+&lt;p&gt;each day explores a different facet of that question
+regret doing the risky thing vs the not risky thing.
+I should’ve joined that startup and followed my dream. instead I worked for megaco and died a slave.
+fight scene during that days
+you repeatedly go down the same hallway
+fighting the same enemies
+go through their life. at the end is the boss.. the regret on their death bed. &lt;/p&gt;
+&lt;p&gt;game opens with you pursuing the first wild emotion or whatever enemy type I am going to call them.&lt;/p&gt;
+&lt;p&gt;love plant. There’s a plant that you can only own one of. Try to own anymore and the old plant eventually withers away and dies. Many attempts have been made by owners to try and own more than one but eventually only one remains in the end. Life restoration plant.&lt;/p&gt;
+&lt;p&gt;How do you live a life of no regrets. The next coffee date they talk about the previous day. &lt;/p&gt;
+&lt;p&gt;Sometimes you can’t. Senseis philosophy is you can’t. Accept your despair. Accept that nothing could have been done. Eji is you can try. Strive. Leave it to the next generation. Nihilism. Reapers are those with regrets but have controlled their feelings. When reapers retire they’re absolved of their responsibilities (and thus their regret) eji is naive though. I’ll do what I want. Idealistic. Sense I is practical. &lt;/p&gt;
+&lt;p&gt;And you still live a life of regrets anyways.&lt;/p&gt;
+&lt;p&gt; Minimize regret. Regret doing something vs regretting nothing. Reperations. &lt;/p&gt;
+&lt;p&gt; eji - I mean it’s not even about the fame at that point. like why even perform if only five dudes are going to listen.
+sei - because those five dudes understand. and that’s all that matters&lt;/p&gt;
+&lt;p&gt; Eji isn’t allowed in the room during the discussion on what to do about a certain spirit.
+Sei is a reluctant mentor.
+Male bonding.
+They go to execute the soft spirit. But he seems to be in control.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Illusory Living]]></title><description><![CDATA[Humans live their life through an illusion. This is due to evolutionary biology shaping our minds not to see reality as it is but as a means…]]></description><link>https://tunaphish.me/illusory-living/</link><guid isPermaLink="false">https://tunaphish.me/illusory-living/</guid><content:encoded>&lt;p&gt;Humans live their life through an illusion. This is due to evolutionary biology shaping our minds not to see reality as it is but as a means to propogate our genes to the next generation. This means you cannot always trust things as you see them. &lt;/p&gt;
+&lt;h2&gt;An Everyday Example&lt;/h2&gt;
+&lt;p&gt;This most often takes the form of ‘sensory’ pleasures such as junk food, promotion seeking etc. These wants motivated by the fact that:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Our perception of satisfaction from attaining whatever pleasure is over inflated&lt;/li&gt;
+&lt;li&gt;The pleasure leaves relatively quickly&lt;/li&gt;
+&lt;li&gt;Forces us to want the next thing &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is pretty similar to the progression of porn habits and the need for increasingly deviant behavior.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Interview Loop Habit Chain]]></title><description><![CDATA[[habit-chain]
+Brute force first data structures? hash tables queues stacks data manipulations sort]]></description><link>https://tunaphish.me/interview-loop-habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/interview-loop-habit-chain/</guid><content:encoded>&lt;p&gt;[[habit-chain]]
+Brute force first&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;data structures?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;hash tables&lt;/li&gt;
+&lt;li&gt;queues&lt;/li&gt;
+&lt;li&gt;stacks&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;data manipulations&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;sort&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Making Friends Post College]]></title><description><![CDATA[a lot of people find it difficult to make friends after college. the need for human connection doesn’t go away but the easy environment…]]></description><link>https://tunaphish.me/making-friends-post-college/</link><guid isPermaLink="false">https://tunaphish.me/making-friends-post-college/</guid><content:encoded>&lt;p&gt;a lot of people find it difficult to make friends after college. the need for human connection doesn’t go away but the easy environment where you see the same people day after day with the same shared experiences does. For me I always wanted that core group of friends that you hang out with day after day. The kind you see in sitcoms like How I Met your Mother. I actually did have that for a bit with the boys back in Florida but life doesn’t always work out in that way. So yeah I really just want to make some cool friends out here in Seattle. I am afraid of rejection. Afraid to [[allow-yourself-to-be-vulnerable]]. Really keeps coming back to that doesn’t it.&lt;/p&gt;
+&lt;h1&gt;shared experiences&lt;/h1&gt;
+&lt;p&gt;I guess a lot of it involves going to the same places a lot similar to why you should [[participate-in-online-communities]]. finding a community for the things I want to share in like art. I keep saying I need to actually have some base level competency to put myself out there in those spaces. But I guess that’s what austin was talking about when he said [[be-an-amateur]]&lt;/p&gt;
+&lt;h1&gt;lead an interesting life, and invite people to it&lt;/h1&gt;
+&lt;p&gt;let things happen organically. life doesn’t really work like that does it. live a life where you do cool stuff. invite people to do cool stuff. Again I never want to invite people to do things. Like why would this person want to hang out with me lol. Ah well. &lt;/p&gt;
+&lt;p&gt;cool stuff I want to try around here&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;vanmoof&lt;/li&gt;
+&lt;li&gt;SBP&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Keystone Habits]]></title><description><![CDATA[the first additive habits or focus areas you should focus on when attempting to change your life.
+don’t forget to take your MEDS Meditation…]]></description><link>https://tunaphish.me/keystone-habits/</link><guid isPermaLink="false">https://tunaphish.me/keystone-habits/</guid><content:encoded>&lt;p&gt;the first additive habits or focus areas you should focus on when attempting to change your life.
+don’t forget to take your MEDS&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Meditation&lt;/li&gt;
+&lt;li&gt;Exercise&lt;/li&gt;
+&lt;li&gt;Diet&lt;/li&gt;
+&lt;li&gt;Sleep&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;it’s taking care of your body and mind. self care. &lt;/p&gt;
+&lt;h2&gt;Counterpoint&lt;/h2&gt;
+&lt;p&gt;are so much more important then anything else. if you aren’t healthy then everything else suffers. yet this isn’t entirely true. this isn’t what energizes me. doing this work right here. these morning papers. these mixing of ideas. this is what energizes me. &lt;/p&gt;
+&lt;p&gt;not only that but I see people with the absolute WORST health habits. eating terribly. so how are these people able to operate? people are different I guess. I defintely need to be in tune with all my habits in order to operate effectively. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Minimize Regret]]></title><description><![CDATA[One of Jeff Bezo’s mental models for decision making. Think about yourself on your death bed and think about what you’d regret more and that…]]></description><link>https://tunaphish.me/minimize-regret/</link><guid isPermaLink="false">https://tunaphish.me/minimize-regret/</guid><content:encoded>&lt;p&gt;One of Jeff Bezo’s mental models for decision making. Think about yourself on your death bed and think about what you’d regret more and that will guide your choice. &lt;/p&gt;
+&lt;p&gt;Concept I wanted to explore for [[reaper]]. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Metacognition]]></title><description><![CDATA[ways an exocortex aligns with how people learn synthesis and deriving new ideas forming connections spacing and repetition why write notes…]]></description><link>https://tunaphish.me/metacognition/</link><guid isPermaLink="false">https://tunaphish.me/metacognition/</guid><content:encoded>&lt;h1&gt;ways an exocortex aligns with how people learn&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;synthesis and deriving new ideas&lt;/li&gt;
+&lt;li&gt;forming connections&lt;/li&gt;
+&lt;li&gt;spacing and repetition&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;why write notes in this style&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;tailored: to your learning style, interests, thought processes&lt;/li&gt;
+&lt;li&gt;curated: how many times did you look up a recipe… only to have to filter through all the shit recipes people post online. &lt;/li&gt;
+&lt;li&gt;distilled&lt;/li&gt;
+&lt;li&gt;externalizing my thoughts. the process of writing my thoughts out is a tool within itself for organizing information even if I never use it again. &lt;/li&gt;
+&lt;li&gt;it is beautiful…&lt;/li&gt;
+&lt;li&gt;interconnected information
+Huge advantage of Notion over other potential note taking apps is linked pages and intra relational databases. I love being able to link things like an interconnected web vs a hierarchy. This fits together with my own thoughts about how one of the best ways to learn things is to connect it with other information within your mind. The stronger connections you create, the better your recall will be when it comes time to needing that information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;recall training&lt;/h3&gt;
+&lt;p&gt;Recall is one of the best ways of learning. Use every opportunity you can in order to train this&lt;/p&gt;
+&lt;h3&gt;structure of knowledge&lt;/h3&gt;
+&lt;p&gt;structure of knowledge&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Observation
+First hand data on what occurs in the world&lt;/li&gt;
+&lt;li&gt;Interpretation
+What your interpretation of that data is&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Synthesis
+What output it’s going to have on your work, thinking, lifestyle&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Achieving Knowledge is pointless unless it has some kind of output → Collector’s fallacy&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;curator’s job&lt;/h1&gt;
+&lt;p&gt;a museum curator’s job is to craft a narrative to convey the message they are trying to convey they will draft a passage to frame the visitor’s thoughts. then they will thoughtfully arrange a variety of pieces, from one or multiple artists that support this story. sometimes a piece will have additional supporting information. if there is still something missing sometimes they will commission artists to supplement the exhibition.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Seek Work That Energizes You]]></title><description><![CDATA[please put on your mask before attempting to help others with their mask Jeff Bezo’s Work Life Harmony This contrasts with work life balance…]]></description><link>https://tunaphish.me/seek-work-that-energizes-you/</link><guid isPermaLink="false">https://tunaphish.me/seek-work-that-energizes-you/</guid><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;please put on your mask before attempting to help others with their mask&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;Jeff Bezo’s Work Life Harmony&lt;/h1&gt;
+&lt;p&gt;This contrasts with work life balance that concludes energy to be a zero sum game. The more you invest in work then less you invest in life. Instead work life harmony touts that you should strive for a life where your work gives you energy and your life gives you energy. They feed into eachother supplying each side with energy and forming the virtuous cycle. &lt;/p&gt;
+&lt;h1&gt;Energy vampires&lt;/h1&gt;
+&lt;p&gt;There are people in life that add energy in the room. And there are people in life who take it away. Strive to be like the first example. &lt;/p&gt;
+&lt;h1&gt;As opposed to focusing on impact&lt;/h1&gt;
+&lt;p&gt;Impact is a company centric approach whereas energy is a person centric approach. This aligns with the idea that you should better yourself and that inevitably makes the company better. Also aligns with the idea of scaling down focus. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Personal Aesthetic]]></title><description><![CDATA[I’ve been seeing this visual trend a lot and I kind of want to emulate a guy version of it. A lot of the aesthetics are really cool. I am…]]></description><link>https://tunaphish.me/my-personal-aesthetic/</link><guid isPermaLink="false">https://tunaphish.me/my-personal-aesthetic/</guid><content:encoded>&lt;p&gt;I’ve been seeing this visual trend a lot and I kind of want to emulate a guy version of it. A lot of the aesthetics are really cool. I am also probably misattributing characteristics that don’t define an ABG but it’s just a general inspiration for me and not necessarilly a 1:1 of what I want to achieve. Writing this out made me realize what aesthetic I want to strive for whereas it was lost on me for a while. Can’t wait!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;delicate floral tattoos&lt;/li&gt;
+&lt;li&gt;bleach blond hair&lt;/li&gt;
+&lt;li&gt;colored contacts&lt;/li&gt;
+&lt;li&gt;earthy toned clothing&lt;/li&gt;
+&lt;li&gt;aesthetic fitness &lt;/li&gt;
+&lt;li&gt;DANGLY MF EARRINGS &lt;/li&gt;
+&lt;li&gt;They tend to dress less conservatively but not sure how to emulate that as a male!&lt;/li&gt;
+&lt;li&gt;I also really love long flowing cardigans and jackets. I already have a few of them. &lt;/li&gt;
+&lt;li&gt;athletic fit shirts&lt;/li&gt;
+&lt;li&gt;high waisted pants&lt;/li&gt;
+&lt;li&gt;white leather shoes&lt;/li&gt;
+&lt;li&gt;everlane the cotton crew&lt;/li&gt;
+&lt;li&gt;asrv&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;one big reason I am drawn so much to this aesthetic is because a lot of it runs counter to normal aesthetics that developers tend to prefer. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;minimalism&lt;/li&gt;
+&lt;li&gt;black, white neutral tones&lt;/li&gt;
+&lt;li&gt;RBG (saturated colors and lights)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;there’s [[inherent-value-in-diversity]] and introducing other aesthetics to the scene creates diversity for others but also makes you stand out. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Participate in Online Communities]]></title><description><![CDATA[don’t be a lurker!
+show up the same place everyday and you make friends. this supports [favor-depth-of-experience-over-breadth] form quality…]]></description><link>https://tunaphish.me/participate-in-online-communities/</link><guid isPermaLink="false">https://tunaphish.me/participate-in-online-communities/</guid><content:encoded>&lt;p&gt;don’t be a lurker!
+show up the same place everyday and you make friends. this supports [[favor-depth-of-experience-over-breadth]]&lt;/p&gt;
+&lt;h1&gt;form quality (not quantity) connections&lt;/h1&gt;
+&lt;p&gt;it doesn’t matter if you have a million vapid surface level friends. but if you have a few that you truly connect with, then that means the world.
+you’ve always wanted a core friend group. forming those relationships by [[favor-depth-of-experience-over-breadth]]&lt;/p&gt;
+&lt;h1&gt;scenius&lt;/h1&gt;
+&lt;p&gt;great ideas are often birthed by a group of creative individuals—artists, curators, thinkers, theorists, and other tastemakers—who make up an “ecology of talent.”
+the best creative geniuses were often part of a whole scene of people who were supporting each other, stealing ideas, and contributing ideas.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Kleon, Austin - Show your Work&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Research Habit Chain]]></title><description><![CDATA[read chapter summarize chapter summarize book annotate notes mental models process changes collect project ideas]]></description><link>https://tunaphish.me/research-habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/research-habit-chain/</guid><content:encoded>&lt;ol&gt;
+&lt;li&gt;read chapter&lt;/li&gt;
+&lt;li&gt;summarize chapter&lt;/li&gt;
+&lt;li&gt;summarize book&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;annotate notes&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;mental models&lt;/li&gt;
+&lt;li&gt;process changes&lt;/li&gt;
+&lt;li&gt;collect project ideas&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Priorities for Different Level of Software Developer]]></title><description><![CDATA[SDE III Should have project level visibility roles guiding devs high ambiguity force multiplication
+SDE II Should have work stream level…]]></description><link>https://tunaphish.me/priorities-for-different-level-of-developer/</link><guid isPermaLink="false">https://tunaphish.me/priorities-for-different-level-of-developer/</guid><content:encoded>&lt;p&gt;SDE III Should have project level visibility&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;roles&lt;/li&gt;
+&lt;li&gt;guiding devs&lt;/li&gt;
+&lt;li&gt;high ambiguity&lt;/li&gt;
+&lt;li&gt;force multiplication
+SDE II Should have work stream level visibility&lt;/li&gt;
+&lt;li&gt;individual contribution
+SDE I should have task level visibility&lt;/li&gt;
+&lt;li&gt;learning&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Software Architect]]></title><description><![CDATA[considerations when designing industry standard unless you have a reason not to software architect’s role minimize effort to build and…]]></description><link>https://tunaphish.me/software-architect/</link><guid isPermaLink="false">https://tunaphish.me/software-architect/</guid><content:encoded>&lt;h1&gt;considerations when designing&lt;/h1&gt;
+&lt;p&gt;industry standard unless you have a reason not to&lt;/p&gt;
+&lt;h1&gt;software architect’s role&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;minimize effort to build and maintain software&lt;/li&gt;
+&lt;li&gt;predict and allow for change (software changes over it’s lifetime)&lt;/li&gt;
+&lt;li&gt;defend the architecture&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;goals for architecture&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;use cases → architecture screams it’s purpose, it is clearly what it’s intended to portray&lt;/li&gt;
+&lt;li&gt;operation → can handle hardware operations and future ones&lt;/li&gt;
+&lt;li&gt;development → architecture often reflects organizational structure. this is to faciliate multiple teams working independently&lt;/li&gt;
+&lt;li&gt;deployment →deployed right after being built&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Foundations of Architecture&lt;/h1&gt;
+&lt;p&gt;The difference between good and bad architecture&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;defects&lt;/li&gt;
+&lt;li&gt;maintainability&lt;/li&gt;
+&lt;li&gt;resources required&lt;/li&gt;
+&lt;li&gt;customer trust, manager wrath, team morale&lt;/li&gt;
+&lt;li&gt;effort to change&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Architecture Requirements&lt;/h1&gt;
+&lt;h3&gt;reliability&lt;/h3&gt;
+&lt;p&gt;work through faults (hardware, human, software)&lt;/p&gt;
+&lt;h3&gt;scalability&lt;/h3&gt;
+&lt;p&gt;load → TPS, read/write, throughput
+performance →&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;how it degrades with increased load and resources kept the same&lt;/li&gt;
+&lt;li&gt;how it stays the same with increased load and resources increased&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;maintainability&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;operability&lt;/li&gt;
+&lt;li&gt;simplicity&lt;/li&gt;
+&lt;li&gt;evolvability&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;volatility&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;what is most likely to change?&lt;/li&gt;
+&lt;li&gt;how do you allow for it &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Systems&lt;/h1&gt;
+&lt;h2&gt;1. clean architecture&lt;/h2&gt;
+&lt;p&gt;Their general plan for a clean architecture&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dependency Rule → source code dependencies must point only inward, towards higher lvl policies.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Code is separated into four layers&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Entities&lt;/li&gt;
+&lt;li&gt;Use cases&lt;/li&gt;
+&lt;li&gt;Interface adapters (controllers presenters adapters)&lt;/li&gt;
+&lt;li&gt;Frameworks and tools (web ui db devices)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;2. create plugin architecture&lt;/h2&gt;
+&lt;p&gt;layers, especially lower ones should be hot swappable&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Service&lt;/h1&gt;
+&lt;h2&gt;Dependency Injection &gt; Hard Coding Resources&lt;/h2&gt;
+&lt;p&gt;Flexibility → Use different resources
+Testability → Easier Mocking
+Reusability → More generic components&lt;/p&gt;
+&lt;h3&gt;Package Organization&lt;/h3&gt;
+&lt;p&gt;Horizontal - Doesn’t scream architecture.. looks like anything else
+Vertical - Leaves Potentential to skip layers
+Component - persistence and business logic are combined&lt;/p&gt;
+&lt;h3&gt;Separation of Concerns&lt;/h3&gt;
+&lt;p&gt;Object orientated Programming&lt;/p&gt;
+&lt;h3&gt;Functions&lt;/h3&gt;
+&lt;p&gt;Functional Programming&lt;/p&gt;
+&lt;h3&gt;Data Management&lt;/h3&gt;
+&lt;p&gt;Structural Programming&lt;/p&gt;
+&lt;h2&gt;Screaming architecture&lt;/h2&gt;
+&lt;p&gt;Your architecture should plainly state its use cases.&lt;/p&gt;
+&lt;p&gt;Not the framework. Not the database. Not the delivery system. It should be about the use cases. You should be able to defer those decisions.  Someone should be able to look at the source and base directory and immediately say oh this is an rpg or this is a an inventory system. &lt;/p&gt;
+&lt;p&gt;Testable without knowledge of database or delivery system. &lt;/p&gt;
+&lt;h2&gt;Defining Partial Partial Boundaries&lt;/h2&gt;
+&lt;p&gt;As an architect you are often going to run into [[you-are-not-going-to-need-it]] But it’s your job to think… I might need it. This need evolves overtime and with business needs&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Design a service as if they were two. But deploy them in the same package. That way you can easily separate. &lt;/li&gt;
+&lt;li&gt;One way boundaries. &lt;/li&gt;
+&lt;li&gt;Facades → A client calls a class which just serves to call other classes that the client never has access to. There’s still a transitive dependency however though. The boundary is very weak. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Component (Package) Cohesion&lt;/h2&gt;
+&lt;p&gt;Three Guiding Principles (They push and pull against each other)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CCP → Group things that are likely to change at the same time for same reason&lt;/li&gt;
+&lt;li&gt;CRP → split classes that will make callers depend on things they don’t need&lt;/li&gt;
+&lt;li&gt;REP → granule of reuse is the same as granule of release&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1&gt;data decisions&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Effective data models are not even slightly clever - Will Larson (Staff Engineer)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Are you focusing on transactions or analytics on your data?&lt;/p&gt;
+&lt;p&gt;When looking at your encoded data (data in transition, through network or saved to state like json, and xml) focus on evolvability. Is it backwards and fowards compatible?&lt;/p&gt;
+&lt;p&gt;Old application code can accidentally overwrite database properties it doesn’t recognize if it just ignores them!!&lt;/p&gt;
+&lt;h2&gt;intrinsic vs extrinsic properties&lt;/h2&gt;
+&lt;p&gt;when you think about data are properties intrinsic or extrinsic
+is it core to the object or external&lt;/p&gt;
+&lt;p&gt;example
+intrisic, car is red, couple, fast
+extrinsic, car’s owner, location&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Class&lt;/h1&gt;
+&lt;h2&gt;SOLID Principles&lt;/h2&gt;
+&lt;p&gt;Single Responsibility Principle - classes should change only because of one actor&lt;/p&gt;
+&lt;p&gt;Open Closed Principle - classes should be open to addition… not to modification&lt;/p&gt;
+&lt;p&gt;Liskov Substitution Principle - Things should be substituble without worry&lt;/p&gt;
+&lt;p&gt;Interface Segragation Principle - don’t combine things people don’t need&lt;/p&gt;
+&lt;p&gt;Dependency Inversion Principle&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Don’t rely on concrete implementations&lt;/li&gt;
+&lt;li&gt;Don’t derive from concrete implementations&lt;/li&gt;
+&lt;li&gt;Don’t override concrete functions&lt;/li&gt;
+&lt;li&gt;Don’t mention name of anything concrete&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1&gt;writing design documents&lt;/h1&gt;
+&lt;h2&gt;general tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Emphasize clarity of thought and substance&lt;/li&gt;
+&lt;li&gt;Avoid weasel words and passive action (use active verbs instead)&lt;/li&gt;
+&lt;li&gt;Lead w/ proposal and then lead through journey&lt;/li&gt;
+&lt;li&gt;Visualizations are great like sequence diagrams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;sample six pager&lt;/h2&gt;
+&lt;p&gt;Use Cases → Tech Requirements → Key Tech Decisions → Approaches → Trade offs&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Purpose &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Use to narrow scope&lt;/li&gt;
+&lt;li&gt;Emphasize BRD&lt;/li&gt;
+&lt;li&gt;Create functional requirements (intrinsic requirements)&lt;/li&gt;
+&lt;li&gt;Additional Constraints including current state of world&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tenants &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;used to guide decision points&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Situation&lt;/li&gt;
+&lt;li&gt;Recommendation&lt;/li&gt;
+&lt;li&gt;Implementation Plan&lt;/li&gt;
+&lt;li&gt;Appendices&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Skincare is selfcare]]></title><description><![CDATA[skincare-is-selfcare Cologne everyday - studies show that you are more confident when you wear cologne. this translates even through photos…]]></description><link>https://tunaphish.me/skincare-is-selfcare/</link><guid isPermaLink="false">https://tunaphish.me/skincare-is-selfcare/</guid><content:encoded>&lt;h1&gt;skincare-is-selfcare&lt;/h1&gt;
+&lt;p&gt;Cologne everyday - studies show that you are more confident when you wear cologne. this translates even through photos
+Less shampoo - we generally use too much cleanser in every aspect of our lives
+Colder shorter showers - better for your skin than hot long showers
+Scentless - conflicts with cologne and skincare
+Shave every other day - I can’t grow a suitable mustache unfortunately. Just keep yourself trim&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Software Engineer Interview Questions]]></title><description><![CDATA[interviewer name, role, time w/ company company total employees?
+split between QA and Dev and OPS 
+business model? office what percentage of…]]></description><link>https://tunaphish.me/software-engineer-interview-questions/</link><guid isPermaLink="false">https://tunaphish.me/software-engineer-interview-questions/</guid><content:encoded>&lt;h2&gt;interviewer&lt;/h2&gt;
+&lt;p&gt;name, role, time w/ company&lt;/p&gt;
+&lt;h2&gt;company&lt;/h2&gt;
+&lt;p&gt;total employees?
+split between QA and Dev and OPS
+business model?&lt;/p&gt;
+&lt;h2&gt;office&lt;/h2&gt;
+&lt;p&gt;what percentage of staff is remote?
+what drove this decision?
+does compensation change based on location?
+open office? location?&lt;/p&gt;
+&lt;h2&gt;happiness&lt;/h2&gt;
+&lt;p&gt;what’s motivating?
+what’s frustrating?&lt;/p&gt;
+&lt;h2&gt;work&lt;/h2&gt;
+&lt;p&gt;what needs are trying to be fulfilled?
+tech stack?
+time for attacking tech debt? experimentation? meetings?
+Have you made any recent changes to your development process?&lt;/p&gt;
+&lt;h2&gt;deadlines, tasking&lt;/h2&gt;
+&lt;p&gt;who decides what gets worked on?
+how much influence do engineers have?
+how much autonomy do they have?
+who creates deadlines?
+what kind of pressure is backing deadlines?&lt;/p&gt;
+&lt;h2&gt;resources&lt;/h2&gt;
+&lt;p&gt;learning resources?
+food/snacks?
+office or remote perks?&lt;/p&gt;
+&lt;h2&gt;professional development?&lt;/h2&gt;
+&lt;p&gt;When you were looking for a job last time, what made you choose this company?
+mentorship?
+events, conferences, hackathons?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Software Engineer Manager Conversations]]></title><description><![CDATA[wins, flex, goal progression past, present, future Topic Ideas Forward Looking Conversations like Roadmap, Team Direction, Something missing…]]></description><link>https://tunaphish.me/software-engineer-manager-conversations/</link><guid isPermaLink="false">https://tunaphish.me/software-engineer-manager-conversations/</guid><content:encoded>&lt;ul&gt;
+&lt;li&gt;wins, flex, goal progression&lt;/li&gt;
+&lt;li&gt;past, present, future&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Topic Ideas&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Forward Looking Conversations like Roadmap, Team Direction, Something missing attention or focus&lt;/li&gt;
+&lt;li&gt;Focus on what they are focused on, Right now that’s CQ Delivery&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Process Improvements, OE, Knowledge Transfers &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oncall is bad, how can we improve&lt;/li&gt;
+&lt;li&gt;Project management&lt;/li&gt;
+&lt;li&gt;Developer Stress Happiness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Developer stress/happiness&lt;/li&gt;
+&lt;li&gt;What work is being planned (We’ve been discussing Siri/HomePod integration getting cut recently)&lt;/li&gt;
+&lt;li&gt;Connections results (although I don’t see those very often, so we don’t discuss this too often)&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Sprint Habit Chain]]></title><description><![CDATA[generic workflow for how I approach projects levels at the beginning of each level, design down until you have the next level sufficient for…]]></description><link>https://tunaphish.me/sprint-habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/sprint-habit-chain/</guid><content:encoded>&lt;p&gt;generic workflow for how I approach projects&lt;/p&gt;
+&lt;h1&gt;levels&lt;/h1&gt;
+&lt;p&gt;at the beginning of each level, design down until you have the next level sufficient for you to work on.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;projects (however long)&lt;/li&gt;
+&lt;li&gt;sprints (2weeks)&lt;/li&gt;
+&lt;li&gt;dailies (1day)&lt;/li&gt;
+&lt;li&gt;pomodoros(1hr)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;sprint [[habit-chain]]&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;raw ideation&lt;/li&gt;
+&lt;li&gt;define current state&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;define SMART goal &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;cut scope&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;find Inso&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;define TTT and space and communities&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;tools&lt;/li&gt;
+&lt;li&gt;techniques &lt;/li&gt;
+&lt;li&gt;theories&lt;/li&gt;
+&lt;li&gt;space and communities&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;pomodoros, routine&lt;/h1&gt;
+&lt;p&gt;What role are you playing and what project are you working on?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;synthesis&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;compilation (compile research into og notes)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.notion.so/designer-517193ebcfa54c26ab5d4b650a0b5246&quot;&gt;designer&lt;/a&gt; | decision making
+(all decisions made at this stage)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;mechanical&lt;/p&gt;
+&lt;p&gt;Take note of any design decisions that weren’t answered during this phase.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;documentation&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;output&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;exocortex (generic notes)&lt;/li&gt;
+&lt;li&gt;project wiki&lt;/li&gt;
+&lt;li&gt;project management &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;research &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;targeted research&lt;/li&gt;
+&lt;li&gt;books (async)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;post sprint (output)&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;social media (youtube, demo)  → curate a story&lt;/li&gt;
+&lt;li&gt;routine shift → workflows&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Staff Engineer]]></title><description><![CDATA[Encompasses the highest levels of the individual contributor track for an engineer’s career. Has a noticeable jump in ambiguity between…]]></description><link>https://tunaphish.me/staff-engineer/</link><guid isPermaLink="false">https://tunaphish.me/staff-engineer/</guid><content:encoded>&lt;p&gt;Encompasses the highest levels of the individual contributor track for an engineer’s career. Has a noticeable jump in ambiguity between staff and senior. Not in the level of ambiguity in the problems you face, although it does increase but the level of ambiguity in job responsibilities as well. The breadth of responsibilities is wide enough that individuals tend to find themselves falling into pretty common archetypes of staff engineer. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;tech lead&lt;/li&gt;
+&lt;li&gt;architect&lt;/li&gt;
+&lt;li&gt;right hand&lt;/li&gt;
+&lt;li&gt;problem solver&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Responsibilities&lt;/h1&gt;
+&lt;h2&gt;sponsorship vs mentorship&lt;/h2&gt;
+&lt;p&gt;mentorship is giving advice, sponsorship is giving opportunities.
+oftentimes opportunies are what is needed not advice. your mentorship time can be used to explore your mentee’s interests, talents, to help inform your sponsorship. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://larahogan.me/blog/what-sponsorship-looks-like/&quot;&gt;Lara Hogan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;being glue&lt;/h2&gt;
+&lt;p&gt;‘glue work’ is work required to make the project succeed but falls outside the realm of ‘promotable’ work. it’s expected when you are a staff engineer but detrimental when you aren’t. be conscious of how much voluntary, non-promotable work you are doing and focus on the core skills you want to be developing. &lt;/p&gt;
+&lt;p&gt;although it’s essential to becoming a staff engineer, it’s not the focus I want to have right now. I need to pare down as many meetings I have as possible (or group them actually)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://noidea.dog/glue&quot;&gt;&lt;em&gt;Tanya Reilly&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[[continously-iterate-on-technical-quality]]&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Stoicism vs Epicureanism]]></title><description><![CDATA[restraining yourself from all spectrum of emotion like pleasure because you believe that it somehow makes you more stoic is the opposite of…]]></description><link>https://tunaphish.me/stoicism-vs-epicureanism/</link><guid isPermaLink="false">https://tunaphish.me/stoicism-vs-epicureanism/</guid><content:encoded>&lt;p&gt;restraining yourself from all spectrum of emotion like pleasure because you believe that it somehow makes you more stoic is the opposite of stoic. partake in carnal pleasures  but do not let them control you. if that’s not possible, recognize your limits as such. but for that reason and not a belief that not engaging in all life has to offer.&lt;/p&gt;
+&lt;p&gt;this is incredibly common in software engineering where people tend to idolize “logical” robotic ways of decision making and carrying yourself unaware of the fact that the implicit biases in their thought patterns trend them towards certain routes anyways. ignore the role of [[emotions-as-an-affect-heuristic]] to guide decision making. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Tenets]]></title><description><![CDATA[tenets need to guide [decision-making]. when there’s a tradeoff between two competing goals then a tenet is required]]></description><link>https://tunaphish.me/tenets/</link><guid isPermaLink="false">https://tunaphish.me/tenets/</guid><content:encoded>&lt;p&gt;tenets need to guide [[decision-making]]. when there’s a tradeoff between two competing goals then a tenet is required &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Driven Development]]></title><description><![CDATA[Methods Fake it (stub implementations) obvious implementation The reason to articulate it this way is that if you ever get blown away by…]]></description><link>https://tunaphish.me/test-driven-development/</link><guid isPermaLink="false">https://tunaphish.me/test-driven-development/</guid><content:encoded>&lt;h1&gt;Methods&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Fake it (stub implementations)&lt;/li&gt;
+&lt;li&gt;obvious implementation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The reason to articulate it this way is that if you ever get blown away by 2, you can always fall back to 1 and KEEP MOVING.&lt;/p&gt;
+&lt;h1&gt;Three Steps&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Write failing test&lt;/li&gt;
+&lt;li&gt;Write code to make test pass&lt;/li&gt;
+&lt;li&gt;Refactor mothafucka&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Iterative Speed&lt;/h1&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;brazil-build single-integration-test -DtestClass=&lt;span class=&quot;token string&quot;&gt;&quot;com.amazon.amazonmusicqueueserviceecs.activity.addtoqueue.AddToQueueBoundaryTest&quot;&lt;/span&gt;
+
+brazil-build debug-single-integration-test -DtestClass=&lt;span class=&quot;token string&quot;&gt;&quot;com.amazon.amazonmusicqueueserviceecs.activity.addtoqueue.AddToQueueBoundaryTest&quot;&lt;/span&gt;
+
+bb | grep ✘&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;brazil-build debug-single-integration-test -DtestClass=“com.amazon.amazonmusicqueueserviceecs.activity.setshuffle.SetShuffleOrchestratorTest”&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don’t depend on anything volatile like guis or services - &lt;a href=&quot;https://www.notion.so/Clean-Architecture-f3a58bdb34d84a3d91c344a45ad7ccc4&quot;&gt;Clean Architecture&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;Structural coupling&lt;/h1&gt;
+&lt;p&gt;Test for every production class and method
+Tests are strongly coupled to production.
+Prevents refactoring and makes code rigid. &lt;/p&gt;
+&lt;h1&gt;humble data pattern&lt;/h1&gt;
+&lt;p&gt;At architecture boundaries a humble data pattern will often exists. It basically divides classes into easy and hard to test division. Something like data conversions from services or databases. &lt;/p&gt;
+&lt;h1&gt;captors&lt;/h1&gt;
+&lt;p&gt;use in place of any() being passed into mocks
+it captures any input being passed into the mock
+and then you can assert on what you expect the input to be&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token annotation punctuation&quot;&gt;@Captor&lt;/span&gt; 
+&lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;ArgumentCaptor&lt;/span&gt;&lt;span class=&quot;token generics&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;IReportDevicePlaybackResponse&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt; responseCaptor&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token function&quot;&gt;when&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;reportDevicePlaybackResponseConverter&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;convert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;responseCaptor&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;capture&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;thenReturn&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;externalResponse&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token function&quot;&gt;assertEquals&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;response&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; responseCaptor&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;getValue&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;potential issues&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;make sure you verify values are called AFTER the subject method is actually ran…&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[There is an Overwhelming Amount of Information in the World]]></title><description><![CDATA[Print → Persistent
+Phone → Instant
+Internet → Persistent and Instant
+This has resulted in an overflow of knowlege, more than anyone can hope…]]></description><link>https://tunaphish.me/there-is-an-overwhelming-amount-of-information-in-the-world/</link><guid isPermaLink="false">https://tunaphish.me/there-is-an-overwhelming-amount-of-information-in-the-world/</guid><content:encoded>&lt;p&gt;Print → Persistent
+Phone → Instant
+Internet → Persistent and Instant
+This has resulted in an overflow of knowlege, more than anyone can hope to contain in a lifetime.
+This has a few implications.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The first is the creation of the [[attention-economy]] and how that becomes your most important resource. Social media’s goal is to drain that resource from you, that’s their currency. &lt;/li&gt;
+&lt;li&gt;the next avenue for the progression of knowledge is filtering out what’s relevant, true (fake news) and how we experience that knowledge (Oculus, virtual reality). curating your input streams becomes incredibly important so you can [[favor-depth-of-experience-over-breadth]]. Biasing towards long form media is helpful because it implicitly filters out vapid, low thoughts that and common with low barriers of entry for sharing information online. &lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[The Importance of Family meals]]></title><description><![CDATA[the worst things in life are being alone and hungry so make sure to always cherish meals with loved ones.
+deeply cultural
+food is the only…]]></description><link>https://tunaphish.me/the-importance-of-family-meals/</link><guid isPermaLink="false">https://tunaphish.me/the-importance-of-family-meals/</guid><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;the worst things in life are being alone and hungry so make sure to always cherish meals with loved ones.
+deeply cultural
+food is the only experience utilized by all five senses. besides sex?&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Video Game Ideas]]></title><description><![CDATA[During one meeting my art director passed me a sticky note covered in drawings of cats. Dozens. He was gone within a week and all that was…]]></description><link>https://tunaphish.me/video-game-ideas/</link><guid isPermaLink="false">https://tunaphish.me/video-game-ideas/</guid><content:encoded>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;During one meeting my art director passed me&lt;/em&gt; a &lt;em&gt;sticky note covered&lt;/em&gt; in &lt;em&gt;drawings&lt;/em&gt; of &lt;em&gt;cats&lt;/em&gt;. Dozens. He was gone &lt;em&gt;within&lt;/em&gt; a week and all that was left was &lt;em&gt;me&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A sea that never settles.&lt;/em&gt; for as long as anyone can remember this part of the sea has always been stormy. not anymore dangerous than the storm implies but a mystery as to why it always seems to be rough waters in this are.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A gift of beads.&lt;/em&gt; For every kill he added a bead. blah blah different type of kill added a different bead to the jar. on my birthday he gave me a necklace made out of the beads. looked at myself in the mirror and touched every single bead on there. that night I ran away.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Two Hat Theory]]></title><description><![CDATA[Workflow that you are either refactoring or you are developing features. Never both at the same time.  Working memory is limited and this…]]></description><link>https://tunaphish.me/two-hat-theory/</link><guid isPermaLink="false">https://tunaphish.me/two-hat-theory/</guid><content:encoded>&lt;p&gt;Workflow that you are either refactoring or you are developing features. Never both at the same time. &lt;/p&gt;
+&lt;p&gt;Working memory is limited and this decomposition of the problem allows you to &lt;strong&gt;focus on one thing at a time.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;This can be applied to other freeform activities like writing or drawing. You are either writing new ideas or revising your old ones. Not both at the same time. You are either drawing roughs to get your proportions right or drawing confident nice lines. Not both at the same time. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Weekend Habit Chain]]></title><description><![CDATA[friday spa night [habit-chain] bath candles exfoliate body with towel and ocean salt exfoliate face with foreo? face roller facemask full…]]></description><link>https://tunaphish.me/weekend-habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/weekend-habit-chain/</guid><content:encoded>&lt;h1&gt;friday spa night [[habit-chain]]&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;bath&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;candles&lt;/li&gt;
+&lt;li&gt;exfoliate body with towel and ocean salt&lt;/li&gt;
+&lt;li&gt;exfoliate face with foreo?&lt;/li&gt;
+&lt;li&gt;face roller&lt;/li&gt;
+&lt;li&gt;facemask&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;full body massage &lt;/li&gt;
+&lt;li&gt;park walk&lt;/li&gt;
+&lt;li&gt;cheat meal&lt;/li&gt;
+&lt;li&gt;anime!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;saturdates and social media habit chain&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;morning: chores &amp;#x26; meal prep&lt;/li&gt;
+&lt;li&gt;afternoon: events&lt;/li&gt;
+&lt;li&gt;night: social media editing (vlog editing, instagram posts)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;sundaze project prep habit chain&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;morning: project research&lt;/li&gt;
+&lt;li&gt;afternoon: review and project planning&lt;/li&gt;
+&lt;li&gt;life review&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;project initiation&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;raw ideation&lt;/li&gt;
+&lt;li&gt;inspiration gathering&lt;/li&gt;
+&lt;li&gt;week planning&lt;/li&gt;
+&lt;li&gt;create script&lt;/li&gt;
+&lt;li&gt;film talking head intro&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;night: excess exocortex tending and social media &lt;strong&gt;planning&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[YAGNI]]></title><description><![CDATA[An engineering principal meant to prevent overengineering a code base. The idea that you don’t need to write code anticipating future use…]]></description><link>https://tunaphish.me/you-are-not-going-to-need-it/</link><guid isPermaLink="false">https://tunaphish.me/you-are-not-going-to-need-it/</guid><content:encoded>&lt;p&gt;An engineering principal meant to prevent overengineering a code base. The idea that you don’t need to write code anticipating future use cases. Sometimes you don’t need a strategy pattern. Sometimes you just need an if statement. Could be a good life philosophy as well lol.  &lt;/p&gt;
+&lt;p&gt;counterpoint is a good software architect should be able to identify volatility aka the times you are in fact going to need it. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Your Work Does not Speak for Itself]]></title><description><![CDATA[emotions and feelings are critical to conveying things, especially as an artist. the context around something provides a frame for how your…]]></description><link>https://tunaphish.me/your-work-does-not-speak-for-itself/</link><guid isPermaLink="false">https://tunaphish.me/your-work-does-not-speak-for-itself/</guid><content:encoded>&lt;p&gt;emotions and feelings are critical to conveying things, especially as an artist. the context around something provides a frame for how your audience should view your piece. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Inbox]]></title><description><![CDATA[Planned Spontonaiety A principle I’ve seen a lot. This is important for creative work that focuses on… being creative. Following insights…]]></description><link>https://tunaphish.me/inbox/</link><guid isPermaLink="false">https://tunaphish.me/inbox/</guid><content:encoded>&lt;h1&gt;Planned Spontonaiety&lt;/h1&gt;
+&lt;p&gt;A principle I’ve seen a lot. This is important for creative work that focuses on… being creative. Following insights and connections as they inspire and lead you somewhere. How do you enforce rigid structure and self discipline on something that is inherently inspiration based. You have a structure that plans for spontonaeity and rewards it. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;timeblocking: planning for flexibility. things will crop up last minute. &lt;/li&gt;
+&lt;li&gt;vacations: have a framework. some idea of what you want to do. some must hits. but then go with the flow. &lt;/li&gt;
+&lt;li&gt;creative work: sit down and write from your constellation but don’t force it?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;biohacking&lt;/h1&gt;
+&lt;p&gt;biohacking in general seems like something I’d be interested in although I haven’t given it a lot of research. I’m fairly wary of this kind of stuff though ever since 4 hour body, that book about daily routines that was actually just shilling for supplements. &lt;/p&gt;
+&lt;p&gt;there’s solid stuff that makes inherent sense. all the [[keystone-habits]] but I don’t want to throw the baby out with the bathwater. &lt;/p&gt;
+&lt;h2&gt;Using drugs to enhance creative endeavors.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;5-6-21 I was using edibles quite a bit this weekend and it really felt like it fueled my creative pursuits a lot. I had bursts of inspiration that I haven’t had in a while for reaper and I was flying through thoughts that I’ve had in my mind for a long time and connecting ideas. &lt;/li&gt;
+&lt;li&gt;some recent research I did into microdosing seems to support what I’ve been feeling. Maybe I can chat with zach a bit about this. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;how to read books&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Absorb what is useful, reject what is useless, add what is essentially your own.
+— Bruce Lee&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I read an anecdote about someone who rereads The Alchemist after life events and how each time they read it they connect with a different character. People tend to only remember the peaks and ending of a film. &lt;/p&gt;
+&lt;p&gt;If everything is meaningful then nothing is. This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. Pareto principle. &lt;/p&gt;
+&lt;h1&gt;building anticipation&lt;/h1&gt;
+&lt;p&gt;Somethings are meant to build anticipation. And then paying off that antcipation. &lt;/p&gt;
+&lt;p&gt;Suspense movies are like this. Jump scares are oftentimes derided but if there’s nothing that ever shocks you then the tension building doesn’t ever really amount to anything does it? It’s made scarier because you are anticipating something. Sometimes the scariest scenes don’t come from horror movies. Parasite was so good at this when the poor family was stuck inside the rich family’s house. &lt;/p&gt;
+&lt;p&gt;People, balk at having a scheduled love making session. However, because it’s something that is scheduled, you are looking forward to it. Anticipating it. This is antithetical to spontaneous sex that people generally seem to favor and pervades media because media portrays new love and not old love. Considered unromantic and unsexy. Counterpoint is that with spontaneous sex is similar to my jump scare argument. You still anticipate spontaneous sex with the added benefit that you don’t know when it’s coming which increases the tension. &lt;/p&gt;
+&lt;h1&gt;morning papers - june 9th&lt;/h1&gt;
+&lt;p&gt;so what am I writing about this morning. stream of consciousness. maybe I’m done after all! that was fast. &lt;/p&gt;
+&lt;p&gt;last night I stayed up til like 2am. I still have these regressions which suck but I’m not too worried about it like I once was. There’s optimizing yourself and your energy levels.
+but there’s also resilience right? Maybe I should read grit. I kind of want to start a book club or something. I really love these fantasy playlists. The person is posting their universe. The associated drawing. A playlist with it. Everything’s just… chill. So yeah I do think there’s room for more creative elements in this space. It feels like a tool dominated by academics and programmers. Philosophy. So while those subjects do interest me. I want this to be a place where I make creative connections as well you know. &lt;/p&gt;
+&lt;p&gt;I’m quite happy that people are starting to come into the office again.. I really needed these human connections haha. Well… I think that is it. Maybe I’m too tired. There actually isn’t too much springing to my mind right now. &lt;/p&gt;
+&lt;p&gt;Wonder why it was so hard for me to sleep last night. I did spend a fair amount of time. &lt;/p&gt;
+&lt;p&gt;Maybe I’ll add a storybook at some point. It’d be cool to have that viewpoint on all the components I’ve created over the years. &lt;/p&gt;
+&lt;p&gt;This is the first personal site where I truly felt connected with it. Every other time I was just doing the usual rote thing. Create a blog. Put your portfolio here. But this style truly resonates with me and is super unique. &lt;/p&gt;
+&lt;p&gt;for my daily writing habit chain I think I’ll spend maybe 40 minutes on writing whether it’s morning habits or it’s a topic imposed here. afterwords I’ll spend like 20 minutes on revision. &lt;/p&gt;
+&lt;p&gt;what messages am I trying to convey to the world? there’s a parallel between working hard, doing the same thing over and over again and video games. or something. visual novels. &lt;/p&gt;
+&lt;p&gt;I spent a lot of time on tiktok yesterday as well. wasn’t particularly inspired by anything I saw. should limit down that time even further.
+I should figure out what’s we should do for non high spa nights… haha&lt;/p&gt;
+&lt;h1&gt;morning papers - jun 10th&lt;/h1&gt;
+&lt;h2&gt;this weekend with lana&lt;/h2&gt;
+&lt;p&gt;hello again me! nice to see you. Today’s my last working day and I am not looking forward to this weekend. Lana’s going to be staying at my place for the weekend. I kind of just need to force muyself to do things though because I never look forward to anything but when I look back or even when it’s happening I always think, I’m glad I did it. We’re supposed to be doing ranier saturday. Will have a nice picnic at the bottom or something. Probably run some errands or something. &lt;/p&gt;
+&lt;h2&gt;yesterday’s suntime funtime.&lt;/h2&gt;
+&lt;p&gt;Yesterday was a blast though. A bunch of people came to the office and had an amazing time. In the morning we played with the dogs, got poke and took a long lunch by the spheres and then just relaxed in the afternoon. Feeling pretty recharged honestly. &lt;strong&gt;I really enjoy eating outside by the spheres.&lt;/strong&gt; I think that’s one takeaway is that I’m going to consistently head out there for some suntime. Maybe I’ll take bear with me as well. Hope Rena can eventually compound her breaks and she can come meet me by the spheres to grab something to eating&lt;/p&gt;
+&lt;p&gt;jas, krushi and tadeo should be coming around today so that’ll be fun.&lt;/p&gt;
+&lt;h2&gt;constellations&lt;/h2&gt;
+&lt;p&gt;I eventually decided on a theme for my project. Constellations. I love Maggie’s garden allegory. However, her focus is on the idea of growing your ideas over time (which is something I still want to implement) but I’m putting a lot more emphasis on the interconnectivity of ideas. In the DAG they straight up look like stars in the sky. There’s no way I couldn’t call it a constellation. The second runner up was how they kind of looked like neurons firing in a brain. In the end I’m a sucker for the stars though. Somebody should take that idea though because there’s a lot more obvious parallels with creating an exocortex. &lt;/p&gt;
+&lt;h3&gt;tackiness&lt;/h3&gt;
+&lt;p&gt;there was that tiktok that discussed how you actually brand something. I need to come back to that because I might be slipping too far into tackiness. Like I was thinking about converting my phish logo into a zodiac sign looking thing haha. whereas you should be trying to emphasize&lt;/p&gt;
+&lt;h3&gt;warmth in space&lt;/h3&gt;
+&lt;p&gt;space has a strong association with cold tones for good reason. deep, nebulous vacuum void of space. However, the way I wanted to trend my life. the colors I’ve been attaching myself to have been warm. I think there’s a real void in my life for that kind of stuff. I’m closer to a Type A person. Fairly logically minded, in a software engineering position surrounded by that type. Just want to be a more well rounded person. anyways this was a long winded way of saying I wanted the theming to convey more warmth and be more inviting. &lt;/p&gt;
+&lt;h1&gt;jun 11th&lt;/h1&gt;
+&lt;p&gt;yesterday was tiring but fun. got to spend a fair amount of time socializing at work and hanging out with lana and jason who’s visiting. kizuki wasn’t as bad (to me) this time around although I definitely won’t be going back. &lt;/p&gt;
+&lt;p&gt;read a few more passages from staff engineer.&lt;/p&gt;
+&lt;h2&gt;to lead you have to follow&lt;/h2&gt;
+&lt;h2&gt;stay aligned with authority&lt;/h2&gt;
+&lt;p&gt;you have to be able to execute on your leaders plans. another passage that comes back to alignment. obviously you’ve arrived here because you are a leader but part of being means aligning worldviews with others. &lt;/p&gt;
+&lt;p&gt;the power an individual can achieve pales in comparison to what an organization can achieve. the trade off is aligning those worldviews and sacrificing your unique vision. how does this scale up to a mega conglomerate like Amazon? each individual voice is lost in a sea of others but there’s some guiding vision. some shared worldview all pushing us in the same direction? enacting an enormous prescence on the world. &lt;/p&gt;
+&lt;h1&gt;jun 12th&lt;/h1&gt;
+&lt;p&gt;yesterday was a fairly exhausting day. we went rock climbing and then to gameworks. my hands are tight attempting to type this lol. &lt;/p&gt;
+&lt;p&gt;I thought a lot about whether or not I’d invest time into learning how to rock climb. today we’re supposed to ride go karts. That lead me to think about how we’ve been doing a lot of like (fun but random activities). Fun for fun’s sake is fine butit made me think about caleb’s chat about exposure and time which is a rehash of the [[favor-depth-of-experience-over-breadth]] argument. he had another take that I hadn’t considered but it was just opportunity cost. I guess this only applies to certain things but at any point you can drop something and get more exposure somewhere else. but that means you have to invest that time again if you want to acquire a similar level of depth there. &lt;/p&gt;
+&lt;p&gt;knowledge workers generally don’t train their fundamentals. &lt;/p&gt;
+&lt;p&gt;abundance mentality
+growth mentality
+truly believing in yourself
+building tension and anticipation
+audience only remembers peaks and valleys&lt;/p&gt;
+&lt;h1&gt;jun 13th&lt;/h1&gt;
+&lt;p&gt;To provide sponsorship you have to be in the room. Need mentorship to understand sponsorship. &lt;/p&gt;
+&lt;p&gt;Leaders have a clear idea of how things ought to be. And care enough to make it so. &lt;/p&gt;
+&lt;p&gt;Misunderstood. Is usually right. Eventually right. Not every meeting they came into with right answer. Arrive at the right answer. Some ways are by Meeting everyone’s needs. Making Little bets. Keeping doors open.&lt;/p&gt;
+&lt;p&gt;I’m just not someone who enjoys speed&lt;/p&gt;
+&lt;p&gt;I can finally read from my kindle again now that I’ve resolved not to take notes at night&lt;/p&gt;
+&lt;p&gt;[[pareto-principle]] for clothing would just be fit
+base layers should convey atheltic and masculine frame. &lt;/p&gt;
+&lt;p&gt;food with friends -&gt; [[focus-on-one-thing-at-a-time]]
+two hat theory (in dev workflow),  you are developing features. or you are refactoring. rule of thumb is one doesn’t break or add tests. the other does. -&gt; [[focus-on-one-thing-at-a-time]]&lt;/p&gt;
+&lt;h1&gt;clear your mind&lt;/h1&gt;
+&lt;p&gt;In the morning I strive to get working on my knowledge work as fast as possible so the actual routine is fairly minimal. Some hygiene for myself and the dogs and coffee then it’s a short walk to the office. Then it’s a few exercises to clear my mind like [[inbox-zero]] and morning papers. After that I eat the frog and focus on design work if possible. I try to figure out what decisions I need to make throughout the day and make those decisions, this generally  means that design work (the hardest work) is done in the morning. these tasks are generally punctuated using pomodoro’s. the break time should be used to address whatever was my biggest distraction from getting into [[flow-state]]. sometimes this is my lower back pain so I’ll do a few stretches. other times it’s my need to socialize so I’ll play with the dog or chat with my coworkers. . sometimes it’s just a general lack of focus. of which can usually be cleared with some meditation. &lt;/p&gt;
+&lt;h1&gt;training inputs&lt;/h1&gt;
+&lt;p&gt;[[do-not-touch-your-mouse]] … another idea for some dexterity work but just a good way of increasing your flow state. a good idea for a video! there’s even a website for it. video starts off with me standing up and throwing my mouse straight in the trash. I’ll even have an after credits scene where I dig my mouse out of the trash because you need your mouse at least some of the time. one of the biggest ones would probably be how to navigate safari with just my keyboard. another fun experiment would be doing my morning papers through dictation instead of physically typing it myself. I think the biggest issue would be creating links though actually. I never noticed but this intellij isn’t just for spelling. It is actually suggesting markdown shortcuts which is pretty cool. &lt;/p&gt;
+&lt;p&gt;I have lots of stray thoughts throughout the day that I’d like to record. wonder what would be the mechanism for that. Generally I want to use these morning sessions to do so but lightning strikes at odd times. &lt;/p&gt;
+&lt;h1&gt;knowledge training fundamentals&lt;/h1&gt;
+&lt;p&gt;what would be considered fundamentals for knowledge work. when can I do this too. might be a good way of kicking off my mechanical work session. these are the kinds of skills I want to keep fresh in my mind. another video idea. training fundamentals for knowledge work and developing an SRS system from my exocortex (constellations). &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;recall&lt;/li&gt;
+&lt;li&gt;problem decomposition (leetcode? are they fundamentals) TDD : )&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;another reason why reddit sucks. second hand opinions. try to focus on primary sources. not secondary sources. aka take the facts and come to your own observations. stop basing your opinions on other people’s opinions. don’t let other people tell you how to feel. (for research… not when chatting or things of that nature)&lt;/p&gt;
+&lt;p&gt;these notes rarely reflect my final or even my actual thoughts. some may be contradictory to what I think. however, to fully empower this method of notetaking I need to be able to link ideas, reconcile conflicting ideas or even discredit some of them. &lt;/p&gt;
+&lt;p&gt;videos are good because they emphasize other skills that I lack. like speaking or conveying espression. things of that nature. &lt;/p&gt;
+&lt;h1&gt;jun 14th&lt;/h1&gt;
+&lt;p&gt;Meds over events over project work&lt;/p&gt;
+&lt;p&gt;Connecting ideas to make concentrations.  Like Korean fashion reapers… connecting concentrations to other concentrations. Concepts to other concepts. Stories to other stories. Mechanics to other mechanics.  Coffee shop. New wave coffee vs old wave coffee. Conversations in there.  Nihilism vs… not nihilism. Sei breaks their spirit. Eli encourages them to move on. Live a life with no regrets. In comparison the work I’m doing right now feels really dry. How do you exhibit this kind of enthusiasm for bullshit…  I kind of want to cruise right now. &lt;/p&gt;
+&lt;p&gt;applying smart note taking to creative work. There’s two parts. Generating ideas. Mechanical work. The mechanics follow from the idea. The message. Kind of like baushaus. Form follows function. In this case the form is the concentration. Aka reaper daddies. &lt;/p&gt;
+&lt;p&gt;System for managing resources. Ingredients get delivered. Fresh ones go bad. You have to preserve which lowers their usefulness or changes it.  Some rare ingredients to bad after a day. You concoct potions from them. Rarer potions require a bunch of rare items delivered at once. You can supplement buy buying specialty ingredients but it’s expensive. &lt;/p&gt;
+&lt;p&gt;Gather ideas in one place. Connecting them in novel ways. Let them produce ideas for you. Gather the best ideas from games you played. Stories you read visuals from movies. The coolest scene from moody was stabbing in the background. but it also allows you to develop ideas in parallel. This means you have multiple projects cooking. But like academic work there’s mechanical steps that need to be done. Instead of rearranging ideas and deleting redundant sentences. You are filming shots. Or you are drawing some lines.  Remember the Pareto principal for short films is the strength of the script. It can apply again to mechanical work but it’s like 80 percent of the 20 percent. Numbers may be off but the point is some things are higher Impact. &lt;/p&gt;
+&lt;p&gt;Morning papers should last until the stream ends. Then focus on editing your thoughts. This also means your sprint system might go out of date? Then what do you do films on… well it comes as a result of exocortex right? There needs to be something external to the exocortex guiding practical work. He probably talks about this later on actually. &lt;/p&gt;
+&lt;p&gt;Line thickness is a practical specific thing. Your exocortex needs to be conceptual and general.&lt;/p&gt;
+&lt;p&gt;gacha system &amp;#x3C;-&gt; runescape clone&lt;/p&gt;
+&lt;p&gt;well this is fun. Wanted to shoot out my website and finally move onto other stuff. super frustrating. I guess one lesson learned is to avoid 3rd party libraries or at the very least test things as you go. just because something is working in development mode doesn’t mean it will work in the production build mode. &lt;/p&gt;
+&lt;p&gt;I wonder if it’s a folly to try and break my life into sprints and instead put my focus onto things where my focus lies. I should probably read the rest of the book though. reading the book has been really inspiring. having this “slip box” of ideas to dump into. connecting them. letting throw grow and come together gels exactly with how I work. the challenge comes from converting this for creative pursuits. &lt;/p&gt;
+&lt;p&gt;my take with how this progresses for practical project is there’s an external system. but it sounds like you need to be comfortable picking up and dropping things. which makes it a bit difficult as I want to start pumping out projects. maybe projects should be smaller in scope? especially video games? sprints could probably be consolidated down to one week even. let’s see what the rest of the book has to say. &lt;/p&gt;
+&lt;p&gt;as I read about more and more productivity systems it, I start agreeing with bruce lee’s take more. things will naturally jump out at you based on where you are on life and that’s okay. &lt;/p&gt;
+&lt;p&gt;I had all these game ideas over the years that I sort of just forgot about. I attached gameplay and styles together. but what if that isn’t necessarily what I wanted to do. what if I just had the random stylistic ideas. then random game ideas. scene ideas. and then craft a game out of all those things later… I’m getting really ambitious again when I don’t even draw currently so maybe let’s focus on this ideating phase right now. &lt;/p&gt;
+&lt;p&gt;creating a space for your endeavors is so important… &lt;/p&gt;
+&lt;p&gt;recognizing those spaces is important too&lt;/p&gt;
+&lt;p&gt;give dogs and rena attention during breaks&lt;/p&gt;
+&lt;h2&gt;code design&lt;/h2&gt;
+&lt;p&gt;Problem&lt;/p&gt;
+&lt;p&gt;Options&lt;/p&gt;
+&lt;p&gt;Solution&lt;/p&gt;
+&lt;h1&gt;flow state&lt;/h1&gt;
+&lt;h2&gt;flow state as a front end developer&lt;/h2&gt;
+&lt;p&gt;atoms → pages system&lt;/p&gt;
+&lt;p&gt;identify volatility, identify generality&lt;/p&gt;
+&lt;p&gt;encapsulation&lt;/p&gt;
+&lt;h2&gt;flow state as a back end developer&lt;/h2&gt;
+&lt;p&gt;Separate view from logic…  &lt;/p&gt;
+&lt;p&gt;Encapsulation&lt;/p&gt;
+&lt;p&gt;Read book about flow state next&lt;/p&gt;
+&lt;p&gt;Supplemented research in the mornings&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Habit Chain]]></title><description><![CDATA[Daily Habit Chain 08:00AM - morning routine Dogs Potty Feed and Water Fetch Hygiene [skincare-is-selfcare] Coffee and Water Synthesize Notes…]]></description><link>https://tunaphish.me/habit-chain/</link><guid isPermaLink="false">https://tunaphish.me/habit-chain/</guid><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3b6a7ad2371abddebe7e18357a341d79/ef3e1/habit-loop.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 89.87341772151898%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB40lEQVQ4y42U+c6iUAzFef+n8RX8bz4TY8AlipGIUXEDcV+xk1+TMogyM02uXC69p6enrU6WZXK9XuX1esl2u5Xb7Sac8f58PiV7ZlJl+JivLed+v0uapjIcDqVWq8lkMpH5fC6LxSK/eLlc5HA46Dmr0+lIr9fTc6wI6jweD1mv19Lv96XdbksQBNJoNMR1XWm1WjIYDDTgdDpVoOVymQNCpszS4SVJEomiSC+Px+OcSRiGstvtJI5j3cOePeDsjd0bID//siROVNuylfXLGbIoALZarTQd0rRgZEDhYE+66F3U7yNl0wEDqNlsyrJQFNImYDAK5OfXj2pL4DIgT6cI9s0oGoVCu/9pn5whGpEG63w+53uYkKI/8BU0/37+4/fG0Njt0lRbghbiIgswWslzXWl7nmpI8+NHny6iSPdkUZmyscUJO51O4vu+BsIPVn9N2V4QnT1VrNfr2tyAYYARgOrzbRKGemZ3P1K29uBpGh2PR50ELN7E+RlB6ARGsQyoDLmAM5rhzISgk2mJbTYbfR+NRqoZRaKVvjW3pgwQrcF4zWYz8TxPC2LNDhijSVHw6Xa71Y1tRYAN0QEHgAsmBRU1gKI8laNXNc9W/f1+//bPUi7ER8pFp28Xyoy+MTPA36MUbT/UndOnAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;habit loop&quot;
+        title=&quot;habit loop&quot;
+        src=&quot;/static/3b6a7ad2371abddebe7e18357a341d79/f058b/habit-loop.png&quot;
+        srcset=&quot;/static/3b6a7ad2371abddebe7e18357a341d79/c26ae/habit-loop.png 158w,
+/static/3b6a7ad2371abddebe7e18357a341d79/6bdcf/habit-loop.png 315w,
+/static/3b6a7ad2371abddebe7e18357a341d79/f058b/habit-loop.png 630w,
+/static/3b6a7ad2371abddebe7e18357a341d79/ef3e1/habit-loop.png 759w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Daily Habit Chain&lt;/h1&gt;
+&lt;h2&gt;08:00AM - morning routine&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Dogs&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Potty&lt;/li&gt;
+&lt;li&gt;Feed and Water&lt;/li&gt;
+&lt;li&gt;Fetch&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Hygiene [[skincare-is-selfcare]]&lt;/li&gt;
+&lt;li&gt;Coffee and Water&lt;/li&gt;
+&lt;li&gt;Synthesize Notes (Main, Pocket, Photos)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;09:00AM - design work - 4 hours&lt;/h2&gt;
+&lt;p&gt;[[deep-work-habit-chain]]&lt;/p&gt;
+&lt;h2&gt;01:00PM - lunch&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;cook&lt;/li&gt;
+&lt;li&gt;eat and chat [[the-importance-of-family-meals]]&lt;/li&gt;
+&lt;li&gt;wash dishes&lt;/li&gt;
+&lt;li&gt;mouth wash&lt;/li&gt;
+&lt;li&gt;nap&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;02:00PM - mechanical work - 3 hours&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Turn off Music&lt;/li&gt;
+&lt;li&gt;Check Email and Phone&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exercise&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;stretch
+cat camel
+child’s pose
+cobra
+downward facing dog
+bent over
+leg lock each side
+twist each side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Play with Dogs&lt;/li&gt;
+&lt;li&gt;Hydration&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Variant (Oyatsu no Jikan)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;go grab a coffee and snack&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;05:00PM - wind down&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Commute&lt;/li&gt;
+&lt;li&gt;Dinner&lt;/li&gt;
+&lt;li&gt;Create Lunch&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fitness&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Take creatine&lt;/li&gt;
+&lt;li&gt;Put on workout clothes and set out mats&lt;/li&gt;
+&lt;li&gt;Workout according to energy level&lt;/li&gt;
+&lt;li&gt;Place BIG ASS X on whiteboard&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Hygiene&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;07:00PM - relax, review, research&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;relax&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;review&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;clear photos&lt;/li&gt;
+&lt;li&gt;clear synthesizer&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;review projects&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Project Management (Raw Notes)&lt;/li&gt;
+&lt;li&gt;General Knowledge (Exocortex)&lt;/li&gt;
+&lt;li&gt;Project Notes (Wikis)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Content Creation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;research&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;feedly articles&lt;/li&gt;
+&lt;li&gt;targeted research and inspo&lt;/li&gt;
+&lt;li&gt;read&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;11:00PM - night routine&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Set Workout Clothes&lt;/li&gt;
+&lt;li&gt;Dog&lt;/li&gt;
+&lt;li&gt;Hygiene&lt;/li&gt;
+&lt;li&gt;Relax: Diffuser and Melatonin&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Content Creation&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;post &lt;/li&gt;
+&lt;li&gt;consume&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://tunaphish.me/new-beginnings/</link><guid isPermaLink="false">https://tunaphish.me/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -92,12 +1643,12 @@ to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
 for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://tunaphish.github.io/blog/my-second-post/</link><guid isPermaLink="false">https://tunaphish.github.io/blog/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+chicken eggs, though the…]]></description><link>https://tunaphish.me/my-second-post/</link><guid isPermaLink="false">https://tunaphish.me/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
 &lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich.”?
 (&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://tunaphish.github.io/blog/hello-world/</link><guid isPermaLink="false">https://tunaphish.github.io/blog/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://tunaphish.me/hello-world/</link><guid isPermaLink="false">https://tunaphish.me/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
