@@ -19,12 +19,7 @@ there's solid stuff that makes inherent sense. all the [[keystone-habits]] but I
 2. some recent research I did into microdosing seems to support what I've been feeling. Maybe I can chat with zach a bit about this. 
 
 
-# how to read books
-> Absorb what is useful, reject what is useless, add what is essentially your own. 
-> -- Bruce Lee
-
-I read an anecdote about someone who rereads The Alchemist after life events and how each time they read it they connect with a different character. People tend to only remember the peaks and ending of a film. 
-
+# focus on impact 
 If everything is meaningful then nothing is. This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. Pareto principle. 
 
 # building anticipation
@@ -34,60 +29,22 @@ Suspense movies are like this. Jump scares are oftentimes derided but if there's
 
 People, balk at having a scheduled love making session. However, because it's something that is scheduled, you are looking forward to it. Anticipating it. This is antithetical to spontaneous sex that people generally seem to favor and pervades media because media portrays new love and not old love. Considered unromantic and unsexy. Counterpoint is that with spontaneous sex is similar to my jump scare argument. You still anticipate spontaneous sex with the added benefit that you don't know when it's coming which increases the tension. 
 
-# morning papers - june 9th
 
-so what am I writing about this morning. stream of consciousness. maybe I'm done after all! that was fast. 
 
+# using digital constellation for inspiration 
 last night I stayed up til like 2am. I still have these regressions which suck but I'm not too worried about it like I once was. There's optimizing yourself and your energy levels.
 but there's also resilience right? Maybe I should read grit. I kind of want to start a book club or something. I really love these fantasy playlists. The person is posting their universe. The associated drawing. A playlist with it. Everything's just... chill. So yeah I do think there's room for more creative elements in this space. It feels like a tool dominated by academics and programmers. Philosophy. So while those subjects do interest me. I want this to be a place where I make creative connections as well you know. 
 
-I'm quite happy that people are starting to come into the office again.. I really needed these human connections haha. Well... I think that is it. Maybe I'm too tired. There actually isn't too much springing to my mind right now. 
 
-Wonder why it was so hard for me to sleep last night. I did spend a fair amount of time. 
-
-Maybe I'll add a storybook at some point. It'd be cool to have that viewpoint on all the components I've created over the years. 
-
-This is the first personal site where I truly felt connected with it. Every other time I was just doing the usual rote thing. Create a blog. Put your portfolio here. But this style truly resonates with me and is super unique. 
-
-
-for my daily writing habit chain I think I'll spend maybe 40 minutes on writing whether it's morning habits or it's a topic imposed here. afterwords I'll spend like 20 minutes on revision. 
-
-
-what messages am I trying to convey to the world? there's a parallel between working hard, doing the same thing over and over again and video games. or something. visual novels. 
-
-
-I spent a lot of time on tiktok yesterday as well. wasn't particularly inspired by anything I saw. should limit down that time even further. 
-I should figure out what's we should do for non high spa nights... haha
-
-
-
-# morning papers - jun 10th
-## this weekend with lana
-hello again me! nice to see you. Today's my last working day and I am not looking forward to this weekend. Lana's going to be staying at my place for the weekend. I kind of just need to force muyself to do things though because I never look forward to anything but when I look back or even when it's happening I always think, I'm glad I did it. We're supposed to be doing ranier saturday. Will have a nice picnic at the bottom or something. Probably run some errands or something. 
-
-## yesterday's suntime funtime.
+# yesterday's suntime funtime.
 Yesterday was a blast though. A bunch of people came to the office and had an amazing time. In the morning we played with the dogs, got poke and took a long lunch by the spheres and then just relaxed in the afternoon. Feeling pretty recharged honestly. **I really enjoy eating outside by the spheres.** I think that's one takeaway is that I'm going to consistently head out there for some suntime. Maybe I'll take bear with me as well. Hope Rena can eventually compound her breaks and she can come meet me by the spheres to grab something to eating
 
 jas, krushi and tadeo should be coming around today so that'll be fun.
 
-## constellations
-I eventually decided on a theme for my project. Constellations. I love Maggie's garden allegory. However, her focus is on the idea of growing your ideas over time (which is something I still want to implement) but I'm putting a lot more emphasis on the interconnectivity of ideas. In the DAG they straight up look like stars in the sky. There's no way I couldn't call it a constellation. The second runner up was how they kind of looked like neurons firing in a brain. In the end I'm a sucker for the stars though. Somebody should take that idea though because there's a lot more obvious parallels with creating an exocortex. 
-
-### tackiness
-there was that tiktok that discussed how you actually brand something. I need to come back to that because I might be slipping too far into tackiness. Like I was thinking about converting my phish logo into a zodiac sign looking thing haha. whereas you should be trying to emphasize
-
-### warmth in space
+# warmth in space
 space has a strong association with cold tones for good reason. deep, nebulous vacuum void of space. However, the way I wanted to trend my life. the colors I've been attaching myself to have been warm. I think there's a real void in my life for that kind of stuff. I'm closer to a Type A person. Fairly logically minded, in a software engineering position surrounded by that type. Just want to be a more well rounded person. anyways this was a long winded way of saying I wanted the theming to convey more warmth and be more inviting. 
 
-# jun 11th
-
-yesterday was tiring but fun. got to spend a fair amount of time socializing at work and hanging out with lana and jason who's visiting. kizuki wasn't as bad (to me) this time around although I definitely won't be going back. 
-
-read a few more passages from staff engineer.
-## to lead you have to follow
-## stay aligned with authority
-you have to be able to execute on your leaders plans. another passage that comes back to alignment. obviously you've arrived here because you are a leader but part of being means aligning worldviews with others. 
-
+# sacrificing unique vision for impact 
 the power an individual can achieve pales in comparison to what an organization can achieve. the trade off is aligning those worldviews and sacrificing your unique vision. how does this scale up to a mega conglomerate like Amazon? each individual voice is lost in a sea of others but there's some guiding vision. some shared worldview all pushing us in the same direction? enacting an enormous prescence on the world. 
 
 # jun 12th
@@ -125,7 +82,7 @@ base layers should convey atheltic and masculine frame.
 food with friends -> [[focus-on-one-thing-at-a-time]]
 two hat theory (in dev workflow),  you are developing features. or you are refactoring. rule of thumb is one doesn't break or add tests. the other does. -> [[focus-on-one-thing-at-a-time]]
 
-# clear your mind
+# clear your mind (inbox zero)
 In the morning I strive to get working on my knowledge work as fast as possible so the actual routine is fairly minimal. Some hygiene for myself and the dogs and coffee then it's a short walk to the office. Then it's a few exercises to clear my mind like [[inbox-zero]] and morning papers. After that I eat the frog and focus on design work if possible. I try to figure out what decisions I need to make throughout the day and make those decisions, this generally  means that design work (the hardest work) is done in the morning. these tasks are generally punctuated using pomodoro's. the break time should be used to address whatever was my biggest distraction from getting into [[flow-state]]. sometimes this is my lower back pain so I'll do a few stretches. other times it's my need to socialize so I'll play with the dog or chat with my coworkers. . sometimes it's just a general lack of focus. of which can usually be cleared with some meditation. 
 
 # training inputs
@@ -151,7 +108,7 @@ Meds over events over project work
 
 Connecting ideas to make concentrations.  Like Korean fashion reapers... connecting concentrations to other concentrations. Concepts to other concepts. Stories to other stories. Mechanics to other mechanics.  Coffee shop. New wave coffee vs old wave coffee. Conversations in there.  Nihilism vs... not nihilism. Sei breaks their spirit. Eli encourages them to move on. Live a life with no regrets. In comparison the work I’m doing right now feels really dry. How do you exhibit this kind of enthusiasm for bullshit...  I kind of want to cruise right now. 
 
-applying smart note taking to creative work. There’s two parts. Generating ideas. Mechanical work. The mechanics follow from the idea. The message. Kind of like baushaus. Form follows function. In this case the form is the concentration. Aka reaper daddies. 
+applying smart note taking to creative work. There’s two parts. Generating ideas. Mechanical work. The mechanics follow from the idea. The message. Kind of like [[baushaus]]. Form follows function. In this case the form is the concentration. Aka reaper daddies. 
 
 System for managing resources. Ingredients get delivered. Fresh ones go bad. You have to preserve which lowers their usefulness or changes it.  Some rare ingredients to bad after a day. You concoct potions from them. Rarer potions require a bunch of rare items delivered at once. You can supplement buy buying specialty ingredients but it’s expensive. 
 
@@ -180,32 +137,28 @@ creating a space for your endeavors is so important...
 
 recognizing those spaces is important too
 
-give dogs and rena attention during breaks
-
-## code design
-
+# code design
 Problem
-
 Options
-
 Solution
 
 # flow state
 
 ## flow state as a front end developer
-
 atoms → pages system
-
 identify volatility, identify generality
-
 encapsulation
 
 ## flow state as a back end developer
-
 Separate view from logic...  
-
 Encapsulation
-
 Read book about flow state next
-
 Supplemented research in the mornings
+
+# disco elysium
+it's incredibly interesting. there's a lot of foreign systems right now. but the different internal archetypes are really cool. different views of the world firing and giving you different contextual information. 
+it mimics real life. there are different voices in your head that notices different things that collide, conflict with each other. Not every viewpoint is dominant at all stages of your life. 
+
+
+# curator's job
+a museum curator's job is to craft a narrative to convey the message they are trying to convey they will draft a passage to frame the visitor's thoughts. then they will thoughtfully arrange a variety of pieces, from one or multiple artists that support this story. sometimes a piece will have additional supporting information. if there is still something missing sometimes they will commission artists to supplement the exhibition.

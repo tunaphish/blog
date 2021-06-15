@@ -2,25 +2,9 @@
 title: Metacognition
 ---
 
+awareness and understanding of one's own thought processes.
 
-# ways an exocortex aligns with how people learn 
-1. synthesis and deriving new ideas
-2. forming connections
-3. spacing and repetition
-
-## why write notes in this style 
-1. tailored: to your learning style, interests, thought processes
-2. curated: how many times did you look up a recipe... only to have to filter through all the shit recipes people post online. 
-3. distilled
-4. externalizing my thoughts. the process of writing my thoughts out is a tool within itself for organizing information even if I never use it again. 
-5. it is beautiful...
-6. interconnected information 
-Huge advantage of Notion over other potential note taking apps is linked pages and intra relational databases. I love being able to link things like an interconnected web vs a hierarchy. This fits together with my own thoughts about how one of the best ways to learn things is to connect it with other information within your mind. The stronger connections you create, the better your recall will be when it comes time to needing that information.
-
-### recall training
-Recall is one of the best ways of learning. Use every opportunity you can in order to train this
-
-### structure of knowledge
+# structure of knowledge
 structure of knowledge
 1. Observation
 First hand data on what occurs in the world
@@ -30,5 +14,37 @@ What your interpretation of that data is
 What output it's going to have on your work, thinking, lifestyle
 > Achieving Knowledge is pointless unless it has some kind of output → Collector's fallacy
 
-# curator's job
-a museum curator's job is to craft a narrative to convey the message they are trying to convey they will draft a passage to frame the visitor's thoughts. then they will thoughtfully arrange a variety of pieces, from one or multiple artists that support this story. sometimes a piece will have additional supporting information. if there is still something missing sometimes they will commission artists to supplement the exhibition.
+# How to learn
+> Absorb what is useful, reject what is useless, add what is essentially your own. 
+> -- Bruce Lee
+
+## emotions (the enthusiasm from a good professor, a fiction book conveying philosophy through tragic prose about human stories)
+## creative projects and active engagement
+a principle employed by thinking that [[writing-is-the-only-thing-that-matters]]
+
+## visuals
+## exploration (testing boundaries of ideas, disagreeing with it, synthesizing it, relating to other material, derive new ideas)
+one of [[the-advantages-of-videogames-as-a-medium]]
+
+## recall and spacing
+Spaced Repetition Systems 
+
+## Chunking
+humans have limited working memory. combining information and abstracting it becomes increasingly necessary as you dive more into ecomplexity 
+
+## Diffused vs Focused Learning
+[[breaks-are-important-for-knowledge-work]]
+
+# Books are ineffective Mediums for Transferring Knowledge
+How much of what you read do you really remember? In order to understand something you have to actively engage with it. This is why courses are valued over just reading the source material yourself.
+There's opportunity for discourse where you synthesize against your understanding and clash with it. There's exercises to test understanding. There's tests that focus learning and provide an opportunity to review the material again. 
+
+This is because they rely on "transmissionism" to convey information. author has knowledge. author writes that knowledge in a book. audience reads the book. audience gains the author's knowledge. this is obviously not how knowledge transfer works. 
+
+Reading by itself does not beget understanding. 
+
+# rereading material over time 
+I read an anecdote about someone who rereads The Alchemist and everytime they read it they connect with another character. 
+There is the new insight you've gained with a different perspective. But there's also the insight gained by seeing how your thinking has evolved over time. 
+
+This is similar to the [[digital-constellation]]'s principle of evolving your ideas over time. 

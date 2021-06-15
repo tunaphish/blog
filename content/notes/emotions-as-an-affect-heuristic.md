@@ -7,3 +7,6 @@ emotions support this principal by helping you quickly make decisions. Does this
 A lot of chefs learned how to cook by brute force. Simply experimenting with different things until they discovered what tasted good guided by their intuition. This brute force nature reminds of [[interview-loop-habit-chain]] which isn't always the wrong answer. 
 
 Similar to intuitive vs logical leaders 
+
+# fiction's ability to change the world vs non thinking   
+Everything is to change thinking. Oftentimes art is better at this because it appeals to pathos and it’s entertaining.
