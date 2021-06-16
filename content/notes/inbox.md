@@ -162,3 +162,93 @@ it mimics real life. there are different voices in your head that notices differ
 
 # curator's job
 a museum curator's job is to craft a narrative to convey the message they are trying to convey they will draft a passage to frame the visitor's thoughts. then they will thoughtfully arrange a variety of pieces, from one or multiple artists that support this story. sometimes a piece will have additional supporting information. if there is still something missing sometimes they will commission artists to supplement the exhibition.
+
+# jun 16
+Because your mind tends to always come back to the same subject by following your interest it’s a lot easier to keep up with motivation(something I struggle with). Notes naturally tend to cluster around those interests and because your zettlekesten is permanent you are always contributing and furthering something. 
+
+By following your interest you are prioritizing work that energizes you. 
+
+Find short iteration and feedback cycles.  
+
+Writing note on your understanding of text
+
+Writing notes on your understanding of your own ideas. How supported they are. If there are any inconsistencies or repetition. 
+
+Tdd
+
+Developing containers in atoms.
+
+# favor depth over breadth
+everyday I do the same thing over and over. repetition is to be celebrated. it's the only way to achieve depth or anything meaningful in society. 
+
+the common advice for software developers online is around a few years, start looking for a new job. that is because it's the fastest way for you to accelerate your paycheck.
+
+# imposter syndrome
+Imposter syndrome happens for me quite often on things that are fairly open in the public mind. Things like food taste or video skills. In contrast with software engineering where I feel I have a pretty firm grasp on things and it doesn't really exist to the public, I don't have the irrational thought that someone will call me out for my lack of knowledge.
+
+But with things like filmmaking or art where everyone has an opinion on those things, it feels a lot harder to put myself out there. 
+
+This is another way that fiction tends to be greater than non fiction. Is the breadth that it can reach. Although I've argued you should favor depth over breadth many times, it's undeniable that you reach far more people with your philsophical thoughts in a game like Nier Automata vs Thus Spoke Zarathustra. 
+
+Is that actually true though? Nier Automata will stay in the public conscious for maybe a decade but once it's no longer supported it's difficult, the graphics get too bad then the amount of people will generally stop playing it. This is somewhat difficult to judge because video games are a medium in their infancy vs the rich history of written text. 
+
+# Discourse with others
+although the slipbox is great for discourse with yourself, discourse with others is invaluable for generating new opinions and fresh ideas. Also books fulfill this purpose but they cannot speak back and follow thought trains to completion like a conversation can. 
+
+# emotion battle system
+I really liked the idea of multiple viewpoints existing in your head with Disco Elysium. One way I see this playing out in Reaper is letting emotions build up and unleashing them in attacks. Fuck I need an iPad to draw out what I am thinking... This is where the visuals come into play. The allegory is letting your emotions out vs bottling them up. Expressing yourself. 
+
+attacks are different ways of manipulating emotions. making them pissed off. calming yourself down. then you can attack out of anger, alleviating yourself of that emotion. 
+
+in traditional fights you will invade their mind directly and do a few things. 
+- assess how they're feeling
+- search for weak points 
+- manipulate their emotions (make them angry, hit harder but less accurately)
+  
+then in real life you fight normally.
+in reaper battles. other reapers will attempt to invade your mind as well. 
+
+one day your target doesn't have too many descriptors. but one noticeable one is they have a lengthy coat which sei notices. 
+
+during the battle she will invade both your minds. sei will have depressing thoughts. it doesn't matter. if we die we die. eji will attempt to rouse himself out more positively. I can do this. don't let her get to you. 
+
+this reaper, ava, is someone you'll commonly have interactions with throughout the game. maybe they'll be like eji. someone who cares too much. is too passionate. 
+
+eji struggles with mental battles but this represents a necessary turning point for him. 
+
+another antagonistic reaper is your physical partner when you eventually take down sei. 
+she openly yearns for the day she can take down sei. this is alluded to, that something like this happens and reapers can be targets until the midway battle when a reaper assaults your mind. 
+
+sei's badge (a signature piece) becomes a dangly earring that eji wears after their battle. 
+sei doesn't have a scythe (or equivilent weapon). you don't need it. 
+sei's backstory is a lost love. he lived a good life. stoic mindset. they both died together. (or he died first and she found a new love) he waited for her but she never showed up. he waited for a long time. eventually he naturally forgot why he felt the way he did. one day someone offered him a coat and a job. he's someone who takes his responsibilities seriously. does the adult job. his story is that sometimes it doesn't matter. sometimes you'll just die full of regret. 
+
+when you become a reaper you forget the reason you feel the way you do. all you have left are your emotions. eventually when your "responsibilities are absolved" so are your emotions. responsibilities being an allegory for passion or pupose in life. there's no more reason left to live. but are they being absolved? or is it just being left to others.
+
+the missions play out relatively the same. it starts out with them just chatting at a coffee shop. discussing philosophy or whatever. they get texted their mission and then they're off. it's relatively hub based? it takes place in a big city so things are cramped. 
+
+it comes in waves. emotions. you have to pass thresh holds and then things come crashing down all over you. like activating the next phase in a boss fight. the stages of grief
+denial -> acceptance 
+
+eji and sei are both hardworkers. eji is more callous though. youthful. brash. headstrong. he's like the sun. a big theme is their bond together. 
+
+eji was a politician? popular? wanted to change the world.
+eji's got an ottermode build. fairly lanky.
+
+eji and sei's story is a personal one. a story about regret.
+
+eji's story after sei is meant to be more about community. 
+
+sei like's traditional first wave diner bitter coffee. eji has him try new third wave coffee. visibly makes a face "it's sour". it's not bad. it's just not coffee. 
+
+sei: "did you have a girlfriend?"
+eji: "lots of em"
+
+sei is measured, composed. relaxed. flexibile. 
+
+the first mission sees eji chasing something. running through an alleyway and get obscured by some buildings. camera pans up to the sky where sei is smoking. his smoke flows through the sky. r e a p e r appears over the moon. fades out.  fades back to eji. you fight some monsters. you fight a remixed monster that forces you to change your tactics. you fight a combination of both. you fight a boss that tests your understanding of the remix. but then there's a barrier. they're too resistent. that is when sei comes in and invades their mind. afterwords a small amount of exposition. the next day starts at the coffee shop where they chat until the target text comes in. and then they're off. 
+
+artstyle can be a mix like omori. pixel art 2d overworld. hand drawn battle system. look to manhwas for character design. I really like the girl from that one bdsm manga. I want to model the antagonistic shinigami after her. 
+
+# jumping in and out of projects
+need low iteration cycles that allow progress that shift with your whims... but also need to reduce the cost of starting up as much as possible as well. clear instructions on how to get started again. 
