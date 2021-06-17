@@ -52,6 +52,9 @@ favor HTML|CSS over Javascript solutions
 
 ## design flow
 1. define the problem. keep crafting the problem statement until the solution becomes clear 
+   1. define Options
+   2. pick a solution
+   3. identify remaining ambiguity problems with answers, repeat step 1
 2. identify volatility 
 3. identify generality
 

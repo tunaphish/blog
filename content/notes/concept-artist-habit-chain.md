@@ -14,12 +14,12 @@ artstyle
 5. processing
 
 ## character
-create bio: 1 liner?
-create style guide
-body type
-hair
-clothing
-what am I trying to convey?
+1. create bio: 1 liner?
+2. create style guide
+   1. body type
+   2. hair
+   3. clothing
+### what am I trying to convey?
 - character traits
 - aspects of character design
 - alternative character outfits

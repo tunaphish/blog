@@ -9,31 +9,22 @@ A principle I've seen a lot. This is important for creative work that focuses on
 - vacations: have a framework. some idea of what you want to do. some must hits. but then go with the flow. 
 - creative work: sit down and write from your constellation but don't force it?
 
-# biohacking
-biohacking in general seems like something I'd be interested in although I haven't given it a lot of research. I'm fairly wary of this kind of stuff though ever since 4 hour body, that book about daily routines that was actually just shilling for supplements. 
-
-there's solid stuff that makes inherent sense. all the [[keystone-habits]] but I don't want to throw the baby out with the bathwater. 
-
-## Using drugs to enhance creative endeavors.
-1. 5-6-21 I was using edibles quite a bit this weekend and it really felt like it fueled my creative pursuits a lot. I had bursts of inspiration that I haven't had in a while for reaper and I was flying through thoughts that I've had in my mind for a long time and connecting ideas. 
-2. some recent research I did into microdosing seems to support what I've been feeling. Maybe I can chat with zach a bit about this. 
 
 
-# focus on impact 
-If everything is meaningful then nothing is. This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. Pareto principle. 
+# if everything is meaningful then nothing is
+This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. Pareto principle. 
 
 # building anticipation
 Somethings are meant to build anticipation. And then paying off that antcipation. 
 
-Suspense movies are like this. Jump scares are oftentimes derided but if there's nothing that ever shocks you then the tension building doesn't ever really amount to anything does it? It's made scarier because you are anticipating something. Sometimes the scariest scenes don't come from horror movies. Parasite was so good at this when the poor family was stuck inside the rich family's house. 
+Suspense movies are like this. Jump scares are oftentimes derided but if there's nothing that ever shocks you then the tension building doesn't ever really amount to anything does it? It's made scarier because you are anticipating something. Sometimes the scariest scenes don't come from horror movies. Parasite was so good at this when the poor family was stuck inside the rich family's house. audiences only remembers peaks and valleys. so while they'll struggle to remember the scenes leading up to these tense ones, the tense ones are burned forever in their mind. 
 
 People, balk at having a scheduled love making session. However, because it's something that is scheduled, you are looking forward to it. Anticipating it. This is antithetical to spontaneous sex that people generally seem to favor and pervades media because media portrays new love and not old love. Considered unromantic and unsexy. Counterpoint is that with spontaneous sex is similar to my jump scare argument. You still anticipate spontaneous sex with the added benefit that you don't know when it's coming which increases the tension. 
 
 
 
 # using digital constellation for inspiration 
-last night I stayed up til like 2am. I still have these regressions which suck but I'm not too worried about it like I once was. There's optimizing yourself and your energy levels.
-but there's also resilience right? Maybe I should read grit. I kind of want to start a book club or something. I really love these fantasy playlists. The person is posting their universe. The associated drawing. A playlist with it. Everything's just... chill. So yeah I do think there's room for more creative elements in this space. It feels like a tool dominated by academics and programmers. Philosophy. So while those subjects do interest me. I want this to be a place where I make creative connections as well you know. 
+I really love these fantasy playlists. The person is posting their universe. The associated drawing. A playlist with it. Everything's just... chill. So yeah I do think there's room for more creative elements in this space. It feels like a tool dominated by academics and programmers. Philosophy. So while those subjects do interest me. I want this to be a place where I make creative connections as well you know. 
 
 
 # yesterday's suntime funtime.
@@ -47,40 +38,19 @@ space has a strong association with cold tones for good reason. deep, nebulous v
 # sacrificing unique vision for impact 
 the power an individual can achieve pales in comparison to what an organization can achieve. the trade off is aligning those worldviews and sacrificing your unique vision. how does this scale up to a mega conglomerate like Amazon? each individual voice is lost in a sea of others but there's some guiding vision. some shared worldview all pushing us in the same direction? enacting an enormous prescence on the world. 
 
-# jun 12th
+# acquiring depth at the expense of exposure
+I thought a lot about whether or not I'd invest time into learning how to rock climb. today we're supposed to ride go karts. That lead me to think about how we've been doing a lot of like (fun but random activities). Fun for fun's sake is fine but it made me think about caleb's chat about exposure and time which is a rehash of the [[favor-depth-of-experience-over-breadth]] argument. he had another take that I hadn't considered but it was just opportunity cost. I guess this only applies to certain things but at any point you can drop something and get more exposure somewhere else. but that means you have to invest that time again if you want to acquire a similar level of depth there. 
 
-yesterday was a fairly exhausting day. we went rock climbing and then to gameworks. my hands are tight attempting to type this lol. 
+# abundance mentality | growth mentality | truly believing in myself 
+before getting this job at Amazon I didn't believe in myself. I didn't realize I didn't believe in myself either. I'm not sure how to explain it but I was somewhat resigned to certain tracts in life. I truly thought that some paths in life weren't available to me. Obviously I'm never going to be an NBA player but that doesn't mean I can't achieve what I want to achieve. 
 
-I thought a lot about whether or not I'd invest time into learning how to rock climb. today we're supposed to ride go karts. That lead me to think about how we've been doing a lot of like (fun but random activities). Fun for fun's sake is fine butit made me think about caleb's chat about exposure and time which is a rehash of the [[favor-depth-of-experience-over-breadth]] argument. he had another take that I hadn't considered but it was just opportunity cost. I guess this only applies to certain things but at any point you can drop something and get more exposure somewhere else. but that means you have to invest that time again if you want to acquire a similar level of depth there. 
+Now I do believe in myself. A lot of it is prioritizing what you actually want out of life. Dylan's text reminded me of this. Choosing where you want to spend your limited time. I want to spend it with family and loved ones. I just hate phone calls lol. I need to call my mom. But other then that working on projects I care about. Sharing with the world the messages that I think are truly important. Helping the people around me. I don't really care as much about proving myself at work right now. I've proved myself. Helping others and lifting them up. I want that to be my focus right now. 
 
-knowledge workers generally don't train their fundamentals. 
+# eventually right not always right
+The most misunderstood Amazon leadership principle is "is usually right." At first glance this is the surface level meeting. That they are always right. They come into meetings trying to convince everyone of their way of thinking. Always pushing back. Forcing others to submit by sheer will instead of working together to form a shared vision. 
 
+My interpretation is the saying should be are eventually right. Good leaders arrive at the right answer, maybe not right away but with time. This manifests by meeting everyone's needs. Making little bets (small iteration cycles). Keeping doors open until they truly need to close them. 
 
-abundance mentality
-growth mentality
-truly believing in yourself 
-building tension and anticipation 
-audience only remembers peaks and valleys
-
-# jun 13th
-
-To provide sponsorship you have to be in the room. Need mentorship to understand sponsorship. 
-
-Leaders have a clear idea of how things ought to be. And care enough to make it so. 
-
-Misunderstood. Is usually right. Eventually right. Not every meeting they came into with right answer. Arrive at the right answer. Some ways are by Meeting everyone’s needs. Making Little bets. Keeping doors open.
-
-I'm just not someone who enjoys speed
-
-
-
-I can finally read from my kindle again now that I've resolved not to take notes at night
-
-[[pareto-principle]] for clothing would just be fit 
-base layers should convey atheltic and masculine frame. 
-
-food with friends -> [[focus-on-one-thing-at-a-time]]
-two hat theory (in dev workflow),  you are developing features. or you are refactoring. rule of thumb is one doesn't break or add tests. the other does. -> [[focus-on-one-thing-at-a-time]]
 
 # clear your mind (inbox zero)
 In the morning I strive to get working on my knowledge work as fast as possible so the actual routine is fairly minimal. Some hygiene for myself and the dogs and coffee then it's a short walk to the office. Then it's a few exercises to clear my mind like [[inbox-zero]] and morning papers. After that I eat the frog and focus on design work if possible. I try to figure out what decisions I need to make throughout the day and make those decisions, this generally  means that design work (the hardest work) is done in the morning. these tasks are generally punctuated using pomodoro's. the break time should be used to address whatever was my biggest distraction from getting into [[flow-state]]. sometimes this is my lower back pain so I'll do a few stretches. other times it's my need to socialize so I'll play with the dog or chat with my coworkers. . sometimes it's just a general lack of focus. of which can usually be cleared with some meditation. 
@@ -102,10 +72,10 @@ these notes rarely reflect my final or even my actual thoughts. some may be cont
 
 videos are good because they emphasize other skills that I lack. like speaking or conveying espression. things of that nature. 
 
-# jun 14th
-
+# my priorities
 Meds over events over project work
 
+# art in the constellations
 Connecting ideas to make concentrations.  Like Korean fashion reapers... connecting concentrations to other concentrations. Concepts to other concepts. Stories to other stories. Mechanics to other mechanics.  Coffee shop. New wave coffee vs old wave coffee. Conversations in there.  Nihilism vs... not nihilism. Sei breaks their spirit. Eli encourages them to move on. Live a life with no regrets. In comparison the work I’m doing right now feels really dry. How do you exhibit this kind of enthusiasm for bullshit...  I kind of want to cruise right now. 
 
 applying smart note taking to creative work. There’s two parts. Generating ideas. Mechanical work. The mechanics follow from the idea. The message. Kind of like [[baushaus]]. Form follows function. In this case the form is the concentration. Aka reaper daddies. 
@@ -120,9 +90,8 @@ Line thickness is a practical specific thing. Your exocortex needs to be concept
 
 gacha system <-> runescape clone
 
-well this is fun. Wanted to shoot out my website and finally move onto other stuff. super frustrating. I guess one lesson learned is to avoid 3rd party libraries or at the very least test things as you go. just because something is working in development mode doesn't mean it will work in the production build mode. 
 
-
+# willpower vs focusing on work that energizes you, grit
 I wonder if it's a folly to try and break my life into sprints and instead put my focus onto things where my focus lies. I should probably read the rest of the book though. reading the book has been really inspiring. having this "slip box" of ideas to dump into. connecting them. letting throw grow and come together gels exactly with how I work. the challenge comes from converting this for creative pursuits. 
 
 my take with how this progresses for practical project is there's an external system. but it sounds like you need to be comfortable picking up and dropping things. which makes it a bit difficult as I want to start pumping out projects. maybe projects should be smaller in scope? especially video games? sprints could probably be consolidated down to one week even. let's see what the rest of the book has to say. 
@@ -132,15 +101,10 @@ as I read about more and more productivity systems it, I start agreeing with bru
 
 I had all these game ideas over the years that I sort of just forgot about. I attached gameplay and styles together. but what if that isn't necessarily what I wanted to do. what if I just had the random stylistic ideas. then random game ideas. scene ideas. and then craft a game out of all those things later... I'm getting really ambitious again when I don't even draw currently so maybe let's focus on this ideating phase right now. 
 
-
+# environmental design
 creating a space for your endeavors is so important... 
-
 recognizing those spaces is important too
 
-# code design
-Problem
-Options
-Solution
 
 # flow state
 
@@ -163,7 +127,7 @@ it mimics real life. there are different voices in your head that notices differ
 # curator's job
 a museum curator's job is to craft a narrative to convey the message they are trying to convey they will draft a passage to frame the visitor's thoughts. then they will thoughtfully arrange a variety of pieces, from one or multiple artists that support this story. sometimes a piece will have additional supporting information. if there is still something missing sometimes they will commission artists to supplement the exhibition.
 
-# jun 16
+# natural clusters in constellations 
 Because your mind tends to always come back to the same subject by following your interest it’s a lot easier to keep up with motivation(something I struggle with). Notes naturally tend to cluster around those interests and because your zettlekesten is permanent you are always contributing and furthering something. 
 
 By following your interest you are prioritizing work that energizes you. 
@@ -174,9 +138,6 @@ Writing note on your understanding of text
 
 Writing notes on your understanding of your own ideas. How supported they are. If there are any inconsistencies or repetition. 
 
-Tdd
-
-Developing containers in atoms.
 
 # favor depth over breadth
 everyday I do the same thing over and over. repetition is to be celebrated. it's the only way to achieve depth or anything meaningful in society. 
@@ -252,3 +213,45 @@ artstyle can be a mix like omori. pixel art 2d overworld. hand drawn battle syst
 
 # jumping in and out of projects
 need low iteration cycles that allow progress that shift with your whims... but also need to reduce the cost of starting up as much as possible as well. clear instructions on how to get started again. 
+
+
+# handling apex
+the days are flying by. I should just play apex during events because there isn't a whole lot going for me right now. unless I get the chance to play with harls and ryon. 
+
+# horror
+I really don't like horror or gratuitious depections of horror. The images from midsommar continue to live in my mind and I can't get them out. Keep thinking about it. But I guess it's really making a lasting impression huh
+
+# building a second brain
+as much as I love the ideas in the lecture I can't really implement them myself. In order to learn something you have to interact with it deeply and just reading someone else's infographic doesn't do it. you have to make the infographic yourself. come to the same conclusions. not only that but the processes seem so overwhelming. it kind of makes me think about my own processes for things and if I am overthinking things. building up these processes and habits over time makes more sense though... I needed my ipad. keep forgetting to grab it for these writing sessions. especially since I want more visuals. 
+
+# keshi's music
+light, relaxing. melancholic. 
+
+# dylan's text
+every door you open closes another door. as I continue down this corporate path we're seeing others live out our dreams. there's the longing, coffee shop. the potion shop game I thought about. watching them live out their dreams. risking a lively hood. 
+
+I have people to take care of. But I'm at the apex of maslow's hierarchy. self actualization. What are you willing to sacrifice in order to move faster? I'm actually pretty efficient at my job. I'm willing to sacrifice some time here in order to keep moving forward in my own projects. I don't have a lot of friends but that's okay? right. and if I combine some of my socializition with routines it's fine right. 
+
+# my dreams
+dream one: working on a creative project with a cool team. being dedicated to a project. throwing my all at it. staying up late. continuing to craft it and love it. 
+
+dream two: owning a shop and living above it. I always imagine it being relatively low cost of living. 
+
+could they be combined? just being an old dude behind the register with his love for things? maybe it's a coffee shop. so it's a coffee shop where I sell a bunch of cool stuff too. art. come downstairs from the second story. make coffee for my regulars. tend to my collectables of cool stuff. It's more of a casual hobby for me. ceramics. serving good food on beautiful pieces of ceramics and also selling things for local artists. hanging out with my regulars. working on my own stuff during periods of downtime. closing up shop early (around 3pm because it is a coffeeshop after) heading up and continuing to work on stuff. my dogs just hang out and rena's doing her own thang. 
+
+a place for creatives. people come in and ideate. share ideas. work on the screenplays, art. setup marketplaces on the walls. idk about that actually. I'd want it to be a curated space. Crafted to how I'd like it to be. And I have particular tastes. 
+
+> walt disney: we don't make movies to make money. we make money to make movies. 
+
+# walking down an endless hallway
+like PT but instead of a traditional horror it's more of a surrealist existential horror. I'm going to do the same everything, everyday for the rest of my life until I die. is this what life is? so I was exploring this idea for my game but fuck it bro. I really deal with this in real life [[seek-work-that-energizes-you]] REMEMBER this lol
+
+# atb battle system
+real time action builds up an action bar where you enter their mind and inflict hell upon them. 
+
+# am I too happy?
+sometimes I feel like I was a lot more creative as a kid. you could attribute it to a lack of inhibitions but I also think it was just the fact that I didn't have life quite as figured out as I do now. I'm pretty happy. Relaxed. Nothing really gets to me anymore. Nice for maturity but maybe not that good for art lol. 
+
+but I want to be the sun. 
+manbuns are in again. I want to grow out my hair. 
+I'm just not someone who enjoys speed
