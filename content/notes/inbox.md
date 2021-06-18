@@ -2,45 +2,6 @@
 title: Inbox
 ---
 
-# Planned Spontonaiety
-A principle I've seen a lot. This is important for creative work that focuses on... being creative. Following insights and connections as they inspire and lead you somewhere. How do you enforce rigid structure and self discipline on something that is inherently inspiration based. You have a structure that plans for spontonaeity and rewards it. 
-
-- timeblocking: planning for flexibility. things will crop up last minute. 
-- vacations: have a framework. some idea of what you want to do. some must hits. but then go with the flow. 
-- creative work: sit down and write from your constellation but don't force it?
-
-
-
-# if everything is meaningful then nothing is
-This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. Pareto principle. 
-
-# building anticipation
-Somethings are meant to build anticipation. And then paying off that antcipation. 
-
-Suspense movies are like this. Jump scares are oftentimes derided but if there's nothing that ever shocks you then the tension building doesn't ever really amount to anything does it? It's made scarier because you are anticipating something. Sometimes the scariest scenes don't come from horror movies. Parasite was so good at this when the poor family was stuck inside the rich family's house. audiences only remembers peaks and valleys. so while they'll struggle to remember the scenes leading up to these tense ones, the tense ones are burned forever in their mind. 
-
-People, balk at having a scheduled love making session. However, because it's something that is scheduled, you are looking forward to it. Anticipating it. This is antithetical to spontaneous sex that people generally seem to favor and pervades media because media portrays new love and not old love. Considered unromantic and unsexy. Counterpoint is that with spontaneous sex is similar to my jump scare argument. You still anticipate spontaneous sex with the added benefit that you don't know when it's coming which increases the tension. 
-
-
-
-# using digital constellation for inspiration 
-I really love these fantasy playlists. The person is posting their universe. The associated drawing. A playlist with it. Everything's just... chill. So yeah I do think there's room for more creative elements in this space. It feels like a tool dominated by academics and programmers. Philosophy. So while those subjects do interest me. I want this to be a place where I make creative connections as well you know. 
-
-
-# yesterday's suntime funtime.
-Yesterday was a blast though. A bunch of people came to the office and had an amazing time. In the morning we played with the dogs, got poke and took a long lunch by the spheres and then just relaxed in the afternoon. Feeling pretty recharged honestly. **I really enjoy eating outside by the spheres.** I think that's one takeaway is that I'm going to consistently head out there for some suntime. Maybe I'll take bear with me as well. Hope Rena can eventually compound her breaks and she can come meet me by the spheres to grab something to eating
-
-jas, krushi and tadeo should be coming around today so that'll be fun.
-
-# warmth in space
-space has a strong association with cold tones for good reason. deep, nebulous vacuum void of space. However, the way I wanted to trend my life. the colors I've been attaching myself to have been warm. I think there's a real void in my life for that kind of stuff. I'm closer to a Type A person. Fairly logically minded, in a software engineering position surrounded by that type. Just want to be a more well rounded person. anyways this was a long winded way of saying I wanted the theming to convey more warmth and be more inviting. 
-
-# sacrificing unique vision for impact 
-the power an individual can achieve pales in comparison to what an organization can achieve. the trade off is aligning those worldviews and sacrificing your unique vision. how does this scale up to a mega conglomerate like Amazon? each individual voice is lost in a sea of others but there's some guiding vision. some shared worldview all pushing us in the same direction? enacting an enormous prescence on the world. 
-
-# acquiring depth at the expense of exposure
-I thought a lot about whether or not I'd invest time into learning how to rock climb. today we're supposed to ride go karts. That lead me to think about how we've been doing a lot of like (fun but random activities). Fun for fun's sake is fine but it made me think about caleb's chat about exposure and time which is a rehash of the [[favor-depth-of-experience-over-breadth]] argument. he had another take that I hadn't considered but it was just opportunity cost. I guess this only applies to certain things but at any point you can drop something and get more exposure somewhere else. but that means you have to invest that time again if you want to acquire a similar level of depth there. 
-
 # abundance mentality | growth mentality | truly believing in myself 
 before getting this job at Amazon I didn't believe in myself. I didn't realize I didn't believe in myself either. I'm not sure how to explain it but I was somewhat resigned to certain tracts in life. I truly thought that some paths in life weren't available to me. Obviously I'm never going to be an NBA player but that doesn't mean I can't achieve what I want to achieve. 
 
@@ -92,7 +53,7 @@ gacha system <-> runescape clone
 
 
 # willpower vs focusing on work that energizes you, grit
-I wonder if it's a folly to try and break my life into sprints and instead put my focus onto things where my focus lies. I should probably read the rest of the book though. reading the book has been really inspiring. having this "slip box" of ideas to dump into. connecting them. letting throw grow and come together gels exactly with how I work. the challenge comes from converting this for creative pursuits. 
+I wonder if it's a folly to try and break my life into sprints and instead put my focus onto things where my focus lies. I should probably read the rest of the book though. reading the book has been really inspiring. having this "slip box" of ideas to dump into. connecting them. letting throw grow and come together gels exactly with how I work. the challenge comes from converting this for `creative pursuits. 
 
 my take with how this progresses for practical project is there's an external system. but it sounds like you need to be comfortable picking up and dropping things. which makes it a bit difficult as I want to start pumping out projects. maybe projects should be smaller in scope? especially video games? sprints could probably be consolidated down to one week even. let's see what the rest of the book has to say. 
 
@@ -255,3 +216,14 @@ sometimes I feel like I was a lot more creative as a kid. you could attribute it
 but I want to be the sun. 
 manbuns are in again. I want to grow out my hair. 
 I'm just not someone who enjoys speed
+
+# good days
+sometimes I'll have random good days and I'm not sure where they are coming from. but I didn't use to feel like this or at least I haven't felt like this in a long time. just a general feeling welling in my chest that everything is good. I'm even tired right now yet I still feel that way. Interested in trying to make this more of a regular thing. I think working out is a big part of that. 
+
+but do I workout in the morning or night. nights are the definitive boost to my productivity. I'm able to eek out a few more cycles at night this way. but physical health is more important then anything. if you find that you are sacrificing meals or working out for anything else then you need to reevaluate your priorities.
+
+# my friday nights
+ are my fridays sacred? to be honest I really didn't want to sacrifice my spa night (the best part of my week) but obviously events are more important but spa night is an event. a conundrum. as I make my schedule I do realize my time is limited. I don't have infinite time. as hard as it is I do think I want to delete apex legends
+
+# finding community
+I want to join more communities. meet more people. it's so hard for me... and I can't really do it over online things. I say I don't want to meet software devs. but amazon workers are fine? and the ones showing up to art events generally aren't devs. they're ux designers and business peeps. 

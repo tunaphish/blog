@@ -33,7 +33,12 @@ this informed the design process to give things a sort of space theme.
 # integrating (private) work topics into 
 Constellation exists to link together conceptual ideas to birth unique ideas and insights. the nature of the input and output means that I am only putting in general, conceptual notes in here. Nothing inherent to a project itself. 
 
+# digital constellations for creative work
+
+
+
 --- 
 # References
 1. Digital Gardens, Maggie Appleton
 2. Zettlekestan, Luhhman
+3. How to Write Smart Notes

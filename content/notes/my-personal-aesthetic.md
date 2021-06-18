@@ -2,7 +2,10 @@
 title: My Personal Aesthetic
 ---
 # abg
-I've been seeing this visual trend a lot and I kind of want to emulate a guy version of it. A lot of the aesthetics are really cool. I am also probably misattributing characteristics that don't define an ABG but it's just a general inspiration for me and not necessarilly a 1:1 of what I want to achieve. Writing this out made me realize what aesthetic I want to strive for whereas it was lost on me for a while. Can't wait!
+I've been seeing this visual trend a lot and I kind of want to emulate a male version of it. A lot of the aesthetics are really cool. I am also probably misattributing characteristics that don't define an ABG but it's just a general inspiration for me and not necessarilly a 1:1 of what I want to achieve.
+
+# statement pieces
+This is okay. Not every piece of your wardrobe should be a statement piece. The rest of your outfit is meant to complement that statement piece. 
 
 # list of things I like : )
 1. delicate floral tattoos
@@ -31,3 +34,8 @@ there's [[inherent-value-in-diversity]] and introducing other aesthetics to the 
 
 # otter mode
 if I think about my ideal body types they generally aren't that big. they're straight otter mode. and that involves cutting. god damn rena and her love for food but not eating that much of it. that tiktok about how boyfriends get fat is so true. "babe I'm full" anyways I need to cut calories. no more drinking calories. 
+
+# be like the sun
+I've always told dylan that he is the sun. Just a big bright ball of energy that gives life and energy to everyone around him. I've always admired that about him. I've never had such flowery allegories for myself for others but for him it's just so clear and crystalized in my mind. 
+
+I'm more cold. Demure. Probably we I have an attaction to cooler pale tones that don't stand out. But is that how I want to be? I'm not sure. I feel myself always striving in social situations but what for. 
