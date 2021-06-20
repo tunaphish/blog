@@ -49,7 +49,10 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 ### misc
 
 - [x]  upgrade to MDX
-- [ ]  responsive graph on note page
+- [ ]  typescript
+- [ ]  eslint
+- [ ]  storybook
+- [x]  responsive graph on note page
 - [ ]  algolia search
 - [ ]  make site closed source (onboard to netlify)
 - [ ]  table of contents
@@ -72,7 +75,8 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 - [ ]  interactive visuals
 - [ ]  polls ala catherine
 - [ ]  choose your own adventure
-- [ ]  now that I am thinking about it. data visualizations in my blog would be so fucking cool.
+- [ ]  now that I am thinking about it.
+- [ ]  pantone componenets
 
 ### force graph extras
 

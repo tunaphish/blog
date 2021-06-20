@@ -2,16 +2,22 @@
 title: Inbox
 ---
 
-# abundance mentality | growth mentality | truly believing in myself 
+# abundance mentality and growth mentality
 before getting this job at Amazon I didn't believe in myself. I didn't realize I didn't believe in myself either. I'm not sure how to explain it but I was somewhat resigned to certain tracts in life. I truly thought that some paths in life weren't available to me. Obviously I'm never going to be an NBA player but that doesn't mean I can't achieve what I want to achieve. 
 
+## accepting that you can do anything. but you won't do everything
 Now I do believe in myself. A lot of it is prioritizing what you actually want out of life. Dylan's text reminded me of this. Choosing where you want to spend your limited time. I want to spend it with family and loved ones. I just hate phone calls lol. I need to call my mom. But other then that working on projects I care about. Sharing with the world the messages that I think are truly important. Helping the people around me. I don't really care as much about proving myself at work right now. I've proved myself. Helping others and lifting them up. I want that to be my focus right now. 
+
+## difference between abundance and growth
+I see them both as opportunities existing but abundance is for external opportunities whereas growth is for internal opportunities. 
+
+# hapas and half elves
+racism that hapas experience about not fitting in with either side. something explored pretty frequently in media. however the parental racial aspect is never explored. you generally only see loving half parents... not the other side
 
 # eventually right not always right
 The most misunderstood Amazon leadership principle is "is usually right." At first glance this is the surface level meeting. That they are always right. They come into meetings trying to convince everyone of their way of thinking. Always pushing back. Forcing others to submit by sheer will instead of working together to form a shared vision. 
 
 My interpretation is the saying should be are eventually right. Good leaders arrive at the right answer, maybe not right away but with time. This manifests by meeting everyone's needs. Making little bets (small iteration cycles). Keeping doors open until they truly need to close them. 
-
 
 # clear your mind (inbox zero)
 In the morning I strive to get working on my knowledge work as fast as possible so the actual routine is fairly minimal. Some hygiene for myself and the dogs and coffee then it's a short walk to the office. Then it's a few exercises to clear my mind like [[inbox-zero]] and morning papers. After that I eat the frog and focus on design work if possible. I try to figure out what decisions I need to make throughout the day and make those decisions, this generally  means that design work (the hardest work) is done in the morning. these tasks are generally punctuated using pomodoro's. the break time should be used to address whatever was my biggest distraction from getting into [[flow-state]]. sometimes this is my lower back pain so I'll do a few stretches. other times it's my need to socialize so I'll play with the dog or chat with my coworkers. . sometimes it's just a general lack of focus. of which can usually be cleared with some meditation. 
