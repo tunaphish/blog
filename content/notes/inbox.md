@@ -11,7 +11,7 @@ This is oftentimes why food developed over the years in a culture oftentimes tas
 
 However, the inertia of traditions will cause inoptimal things. And things are made for Arbitrary decisions. The guy who made doctor 24 hour oncalls regularly did cocaine. 
 
-# smart notes (these are literature notes, just turn these into generic concepts irrespective of context...)
+# smart notes (these are literature notes, just turn these into generic concepts irrespective of context...)e
 read to understand
 1. write with pen in hand
 2. write all the relevant facts, your slipbox will sort em out (beware confirmation bias)

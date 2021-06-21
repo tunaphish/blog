@@ -22,6 +22,7 @@ This is okay. Not every piece of your wardrobe should be a statement piece. The 
 12. everlane the cotton crew
 13. asrv
 14. base layers conveying a masculine|athletic frame
+15. chains, earrings, accessories
 
 # diversity in your space 
 one big reason I am drawn so much to this aesthetic is because a lot of it runs counter to normal aesthetics that developers tend to prefer. 
