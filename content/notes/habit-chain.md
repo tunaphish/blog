@@ -4,6 +4,9 @@ title: Habit Chain
 ![](./images/habit-loop.png)
 
 # Daily Habit Chain
+
+should I change these to rituals?
+
 ## 08:00AM - morning routine
 1. Dogs
     1. Potty
@@ -11,7 +14,15 @@ title: Habit Chain
     3. Fetch
 2. Hygiene [[skincare-is-selfcare]]
 3. Coffee and Water
-4. Synthesize Notes (Main, Pocket, Photos)
+4. review
+ 1. clear photos
+ 2. clear synthesizer
+ 3. review projects
+   1. Project Management (Raw Notes)
+   2. General Knowledge (Exocortex)
+   3. Project Notes (Wikis)
+   4. Content Creation
+5. Synthesize Notes (Main, Pocket, Photos)
 
 ## 09:00AM - design work - 4 hours
 [[deep-work-habit-chain]]
@@ -54,15 +65,7 @@ title: Habit Chain
 
 ## 07:00PM - relax, review, research
 1. relax
-2. review
-    1. clear photos
-    2. clear synthesizer
-    3. review projects
-        1. Project Management (Raw Notes)
-        2. General Knowledge (Exocortex)
-        3. Project Notes (Wikis)
-    4. Content Creation
-3. research
+2. research
     1. feedly articles
     2. targeted research and inspo
     3. read

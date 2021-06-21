@@ -2,6 +2,48 @@
 title: Inbox
 ---
 
+"you have to start romanticizing your life"
+
+# Cultures as a form a natural evolution 
+the example I'm reading about right now is japanese bath culture. They have a very rich communal bath culture. They've taken baths for millenia, adding things to this culture that enhance this experience and discarding things that don't. They bathe in natural hot springs rich in minerals. To reuse bath water they shower beforehand. Their onsen clothing is light and airy. Bath accesories are made out of hinoki wood which is naturally rot and water resistant. 
+
+This is oftentimes why food developed over the years in a culture oftentimes taste so much better then fusion food. It's because it's had the opportunity to go through the cycles of iteration to perfect the style of food. 
+
+However, the inertia of traditions will cause inoptimal things. And things are made for Arbitrary decisions. The guy who made doctor 24 hour oncalls regularly did cocaine. 
+
+# smart notes (these are literature notes, just turn these into generic concepts irrespective of context...)
+read to understand
+1. write with pen in hand
+2. write all the relevant facts, your slipbox will sort em out (beware confirmation bias)
+3. get the gist, reading this way is a form of [[deliberate-practice]]
+4. it's a way of teaching others, writing notes irrespective of context that shows the idea
+5. aligns with how people actually learn, forming connections, expanding on the text
+
+
+
+# reconciling effective altruism and friends
+[https://www.reddit.com/r/EffectiveAltruism/comments/jt86sp/effective_altruism_and_retiring_early_reconciling/](https://www.reddit.com/r/EffectiveAltruism/comments/jt86sp/effective_altruism_and_retiring_early_reconciling/)
+
+[[effective-altruism]] and FIRE both acknowledge that the mindless accumulation of wealth and material possessions is pointless. Then what do you do with all your extra money. Do I try to help the world... or help myself.
+
+I want that fuck you money. Not necessarily to do so... just to have the ability to do so. 
+
+# crypto currency
+The reason why I don’t invest in crypto currency in 2021 is because its current price isn’t derived from its intrinsic value as a currency rather its derived from being a speculative tool. People don't find any value in it, they just want to get rich. 
+
+# achieving flow state
+pomodoro's don't work unless you flow state
+
+Forcing pomodoros into hour long increment forces my mentality to think that way. Hours are a human construct. Try 40m increments and organic break times instead of a forced ten minute break.
+
+# minimalism tenets
+1. you should never be able to say "I forgot I had this". What's the point of having it then. Either discard it or place it somewhere where you will be able to get it when you need it. 
+2. your posessions should 'spark joy'
+3. focus on what matters (essentialism)
+
+# mental models for video game development
+the split between client and back end was made somewhat easier in my mind. what is something's responsiblity. where do I draw the lines. in back end everything is just logic based. I only have to think about things on what axis. with front end I struggled a bit more although I didn't know why. With video game development is similar. Learning more about front end dev paradigms is helping with this a bit. It's easier to envision how things are encapsulated (it's components).
+
 # abundance mentality and growth mentality
 before getting this job at Amazon I didn't believe in myself. I didn't realize I didn't believe in myself either. I'm not sure how to explain it but I was somewhat resigned to certain tracts in life. I truly thought that some paths in life weren't available to me. Obviously I'm never going to be an NBA player but that doesn't mean I can't achieve what I want to achieve. 
 
