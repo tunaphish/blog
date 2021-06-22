@@ -5,7 +5,8 @@ title: Habit Chain
 
 habits that follow other habits. allows you to minimize your decisions and focus on things that actually matter. 
 
-# Daily Habit Chain
+# Philosophies supporting my Daily Habit Chain
+In the morning I strive to get working on my knowledge work as fast as possible so the actual routine is fairly minimal. Some hygiene for myself and the dogs and coffee then it's a short walk to the office. Then it's a few exercises to clear my mind like [[inbox-zero]] and morning papers. After that I eat the frog and focus on design work if possible. I try to figure out what decisions I need to make throughout the day and make those decisions, this generally  means that design work (the hardest work) is done in the morning. the break time should be used to address whatever was my biggest distraction from getting into [[flow-state]]. sometimes this is my lower back pain so I'll do a few stretches. other times it's my need to socialize so I'll play with the dog or chat with my coworkers. . sometimes it's just a general lack of focus. of which can usually be cleared with some meditation. 
 
 ## 08:00AM - morning routine
 1. Dogs
@@ -22,7 +23,13 @@ habits that follow other habits. allows you to minimize your decisions and focus
    2. General Knowledge (Exocortex)
    3. Project Notes (Wikis)
    4. Content Creation
-5. Synthesize Notes (Main, Pocket, Photos)
+5. mind dump
+   1. morning papers -> stream of consciousness writing for a while. 
+   2. thoughts from last nights media intake. 
+6. pick a topic to write about or revise in inbox. it's a cornocopia of ideas. if it's empty that means I'm in some kind of rut and should be mixing up my life or input streams somehow. 
+7. create new notes for your [[digital-constellation]]
+
+
 
 ## 09:00AM - design work - 4 hours
 [[deep-work-habit-chain]]

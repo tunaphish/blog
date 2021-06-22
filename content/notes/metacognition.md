@@ -18,7 +18,7 @@ What output it's going to have on your work, thinking, lifestyle
 > Absorb what is useful, reject what is useless, add what is essentially your own. 
 > -- Bruce Lee
 
-## emotions (the enthusiasm from a good professor, a fiction book conveying philosophy through tragic prose about human stories)
+## [[emotions-as-an-affect-heuristic]] (the enthusiasm from a good professor, a fiction book conveying philosophy through tragic prose about human stories)
 ## creative projects and active engagement
 a principle employed by thinking that [[writing-is-the-only-thing-that-matters]]
 

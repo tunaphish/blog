@@ -26,7 +26,6 @@ the second disadvantage is that having notes be easily accessible necessitates a
 6. notes should attempt to connect ideas together
 7. these notes rarely reflect my final or even my actual thoughts. some may be contradictory to what I think. however, to fully empower this method of notetaking I need to be able to link ideas, reconcile conflicting ideas or even discredit some of them. 
 
-
 # [[baushaus]] for my digital constellation
 the graphs and interconnected ideas are what draw me to this style of notetaking moreso then learning in public and tending to ideas over time 
 the graph looks like stars in the sky and the way the interconnect look like constellations. 
@@ -39,6 +38,9 @@ Constellation exists to link together conceptual ideas to birth unique ideas and
 Because your mind tends to always come back to the same subject by following your interest it’s a lot easier to keep up with motivation(something I struggle with). Notes naturally tend to cluster around those interests and because your zettlekesten is permanent you are always contributing and furthering something. 
 
 By forming these clusters you organically [[seek-work-that-energizes-you]]
+
+# art in the constellations
+Gather ideas in one place. Connecting them in novel ways. Let them produce ideas for you. Gather the best ideas from games you played. Stories you read visuals from movies. The coolest scene from moody was stabbing in the background. but it also allows you to develop ideas in parallel. This means you have multiple projects cooking. But like academic work there’s mechanical steps that need to be done. Instead of rearranging ideas and deleting redundant sentences. You are filming shots. Or you are drawing some lines.  Remember the Pareto principal for short films is the strength of the script. It can apply again to mechanical work but it’s like 80 percent of the 20 percent. Numbers may be off but the point is some things are higher Impact. 
 
 
 --- 
