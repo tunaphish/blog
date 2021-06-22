@@ -3,9 +3,9 @@ title: Habit Chain
 ---
 ![](./images/habit-loop.png)
 
-# Daily Habit Chain
+habits that follow other habits. allows you to minimize your decisions and focus on things that actually matter. 
 
-should I change these to rituals?
+# Daily Habit Chain
 
 ## 08:00AM - morning routine
 1. Dogs

@@ -2,64 +2,25 @@
 title: Inbox
 ---
 
-"you have to start romanticizing your life"
-
-# Cultures as a form a natural evolution 
-the example I'm reading about right now is japanese bath culture. They have a very rich communal bath culture. They've taken baths for millenia, adding things to this culture that enhance this experience and discarding things that don't. They bathe in natural hot springs rich in minerals. To reuse bath water they shower beforehand. Their onsen clothing is light and airy. Bath accesories are made out of hinoki wood which is naturally rot and water resistant. 
-
-This is oftentimes why food developed over the years in a culture oftentimes taste so much better then fusion food. It's because it's had the opportunity to go through the cycles of iteration to perfect the style of food. 
-
-However, the inertia of traditions will cause inoptimal things. And things are made for Arbitrary decisions. The guy who made doctor 24 hour oncalls regularly did cocaine. 
-
-# smart notes (these are literature notes, just turn these into generic concepts irrespective of context...)e
-read to understand
-1. write with pen in hand
-2. write all the relevant facts, your slipbox will sort em out (beware confirmation bias)
-3. get the gist, reading this way is a form of [[deliberate-practice]]
-4. it's a way of teaching others, writing notes irrespective of context that shows the idea
-5. aligns with how people actually learn, forming connections, expanding on the text
-
-
-
-# reconciling effective altruism and friends
-[https://www.reddit.com/r/EffectiveAltruism/comments/jt86sp/effective_altruism_and_retiring_early_reconciling/](https://www.reddit.com/r/EffectiveAltruism/comments/jt86sp/effective_altruism_and_retiring_early_reconciling/)
-
-[[effective-altruism]] and FIRE both acknowledge that the mindless accumulation of wealth and material possessions is pointless. Then what do you do with all your extra money. Do I try to help the world... or help myself.
-
-I want that fuck you money. Not necessarily to do so... just to have the ability to do so. 
-
-# crypto currency
-The reason why I don’t invest in crypto currency in 2021 is because its current price isn’t derived from its intrinsic value as a currency rather its derived from being a speculative tool. People don't find any value in it, they just want to get rich. 
-
-# achieving flow state
-pomodoro's don't work unless you flow state
-
-Forcing pomodoros into hour long increment forces my mentality to think that way. Hours are a human construct. Try 40m increments and organic break times instead of a forced ten minute break.
+# life tenets
+1. "you have to start romanticizing your life"
+2. [[keystone-habits]] > Events > Project Work
 
 # minimalism tenets
 1. you should never be able to say "I forgot I had this". What's the point of having it then. Either discard it or place it somewhere where you will be able to get it when you need it. 
 2. your posessions should 'spark joy'
-3. focus on what matters (essentialism)
+3. focus on what matters (essentialism), not having less
 
 # mental models for video game development
 the split between client and back end was made somewhat easier in my mind. what is something's responsiblity. where do I draw the lines. in back end everything is just logic based. I only have to think about things on what axis. with front end I struggled a bit more although I didn't know why. With video game development is similar. Learning more about front end dev paradigms is helping with this a bit. It's easier to envision how things are encapsulated (it's components).
 
-# abundance mentality and growth mentality
-before getting this job at Amazon I didn't believe in myself. I didn't realize I didn't believe in myself either. I'm not sure how to explain it but I was somewhat resigned to certain tracts in life. I truly thought that some paths in life weren't available to me. Obviously I'm never going to be an NBA player but that doesn't mean I can't achieve what I want to achieve. 
+# accepting that you can do anything. but you won't do everything
+every door you open closes another door. as I continue down this corporate path we're seeing others live out our dreams. there's the longing, coffee shop. the potion shop game I thought about. watching them live out their dreams. risking a lively hood. 
 
-## accepting that you can do anything. but you won't do everything
 Now I do believe in myself. A lot of it is prioritizing what you actually want out of life. Dylan's text reminded me of this. Choosing where you want to spend your limited time. I want to spend it with family and loved ones. I just hate phone calls lol. I need to call my mom. But other then that working on projects I care about. Sharing with the world the messages that I think are truly important. Helping the people around me. I don't really care as much about proving myself at work right now. I've proved myself. Helping others and lifting them up. I want that to be my focus right now. 
 
-## difference between abundance and growth
-I see them both as opportunities existing but abundance is for external opportunities whereas growth is for internal opportunities. 
+I have people to take care of. But I'm at the apex of maslow's hierarchy. self actualization. What are you willing to sacrifice in order to move faster? I'm actually pretty efficient at my job. I'm willing to sacrifice some time here in order to keep moving forward in my own projects. I don't have a lot of friends but that's okay? right. and if I combine some of my socializition with routines it's fine right. 
 
-# hapas and half elves
-racism that hapas experience about not fitting in with either side. something explored pretty frequently in media. however the parental racial aspect is never explored. you generally only see loving half parents... not the other side
-
-# eventually right not always right
-The most misunderstood Amazon leadership principle is "is usually right." At first glance this is the surface level meeting. That they are always right. They come into meetings trying to convince everyone of their way of thinking. Always pushing back. Forcing others to submit by sheer will instead of working together to form a shared vision. 
-
-My interpretation is the saying should be are eventually right. Good leaders arrive at the right answer, maybe not right away but with time. This manifests by meeting everyone's needs. Making little bets (small iteration cycles). Keeping doors open until they truly need to close them. 
 
 # clear your mind (inbox zero)
 In the morning I strive to get working on my knowledge work as fast as possible so the actual routine is fairly minimal. Some hygiene for myself and the dogs and coffee then it's a short walk to the office. Then it's a few exercises to clear my mind like [[inbox-zero]] and morning papers. After that I eat the frog and focus on design work if possible. I try to figure out what decisions I need to make throughout the day and make those decisions, this generally  means that design work (the hardest work) is done in the morning. these tasks are generally punctuated using pomodoro's. the break time should be used to address whatever was my biggest distraction from getting into [[flow-state]]. sometimes this is my lower back pain so I'll do a few stretches. other times it's my need to socialize so I'll play with the dog or chat with my coworkers. . sometimes it's just a general lack of focus. of which can usually be cleared with some meditation. 
@@ -69,20 +30,10 @@ In the morning I strive to get working on my knowledge work as fast as possible 
 
 I have lots of stray thoughts throughout the day that I'd like to record. wonder what would be the mechanism for that. Generally I want to use these morning sessions to do so but lightning strikes at odd times. 
 
-# knowledge training fundamentals
-what would be considered fundamentals for knowledge work. when can I do this too. might be a good way of kicking off my mechanical work session. these are the kinds of skills I want to keep fresh in my mind. another video idea. training fundamentals for knowledge work and developing an SRS system from my exocortex (constellations). 
-1. recall
-2. problem decomposition (leetcode? are they fundamentals) TDD : )
-
-
-another reason why reddit sucks. second hand opinions. try to focus on primary sources. not secondary sources. aka take the facts and come to your own observations. stop basing your opinions on other people's opinions. don't let other people tell you how to feel. (for research... not when chatting or things of that nature)
-
-these notes rarely reflect my final or even my actual thoughts. some may be contradictory to what I think. however, to fully empower this method of notetaking I need to be able to link ideas, reconcile conflicting ideas or even discredit some of them. 
 
 videos are good because they emphasize other skills that I lack. like speaking or conveying espression. things of that nature. 
 
-# my priorities
-Meds over events over project work
+
 
 # art in the constellations
 Connecting ideas to make concentrations.  Like Korean fashion reapers... connecting concentrations to other concentrations. Concepts to other concepts. Stories to other stories. Mechanics to other mechanics.  Coffee shop. New wave coffee vs old wave coffee. Conversations in there.  Nihilism vs... not nihilism. Sei breaks their spirit. Eli encourages them to move on. Live a life with no regrets. In comparison the work I’m doing right now feels really dry. How do you exhibit this kind of enthusiasm for bullshit...  I kind of want to cruise right now. 
@@ -95,29 +46,24 @@ Gather ideas in one place. Connecting them in novel ways. Let them produce ideas
 
 Morning papers should last until the stream ends. Then focus on editing your thoughts. This also means your sprint system might go out of date? Then what do you do films on... well it comes as a result of exocortex right? There needs to be something external to the exocortex guiding practical work. He probably talks about this later on actually. 
 
-Line thickness is a practical specific thing. Your exocortex needs to be conceptual and general.
-
-gacha system <-> runescape clone
 
 
 # willpower vs focusing on work that energizes you, grit
-I wonder if it's a folly to try and break my life into sprints and instead put my focus onto things where my focus lies. I should probably read the rest of the book though. reading the book has been really inspiring. having this "slip box" of ideas to dump into. connecting them. letting throw grow and come together gels exactly with how I work. the challenge comes from converting this for `creative pursuits. 
+I wonder if it's a folly to try and break my life into sprints and instead put my focus onto things where my focus lies. I should probably read the rest of the book though. reading the book has been really inspiring. having this "slip box" of ideas to dump into. connecting them. letting grow and come together gels exactly with how I work. the challenge comes from converting this for creative pursuits. 
 
 my take with how this progresses for practical project is there's an external system. but it sounds like you need to be comfortable picking up and dropping things. which makes it a bit difficult as I want to start pumping out projects. maybe projects should be smaller in scope? especially video games? sprints could probably be consolidated down to one week even. let's see what the rest of the book has to say. 
 
 as I read about more and more productivity systems it, I start agreeing with bruce lee's take more. things will naturally jump out at you based on where you are on life and that's okay. 
 
 
-I had all these game ideas over the years that I sort of just forgot about. I attached gameplay and styles together. but what if that isn't necessarily what I wanted to do. what if I just had the random stylistic ideas. then random game ideas. scene ideas. and then craft a game out of all those things later... I'm getting really ambitious again when I don't even draw currently so maybe let's focus on this ideating phase right now. 
-
 # environmental design
 creating a space for your endeavors is so important... 
 recognizing those spaces is important too
 
 
-# flow state
+# flow state as a developer
 
-## flow state as a front end developer
+##front end developer
 atoms → pages system
 identify volatility, identify generality
 encapsulation
@@ -136,28 +82,12 @@ it mimics real life. there are different voices in your head that notices differ
 # curator's job
 a museum curator's job is to craft a narrative to convey the message they are trying to convey they will draft a passage to frame the visitor's thoughts. then they will thoughtfully arrange a variety of pieces, from one or multiple artists that support this story. sometimes a piece will have additional supporting information. if there is still something missing sometimes they will commission artists to supplement the exhibition.
 
-# natural clusters in constellations 
-Because your mind tends to always come back to the same subject by following your interest it’s a lot easier to keep up with motivation(something I struggle with). Notes naturally tend to cluster around those interests and because your zettlekesten is permanent you are always contributing and furthering something. 
-
-By following your interest you are prioritizing work that energizes you. 
-
-Find short iteration and feedback cycles.  
-
-Writing note on your understanding of text
-
-Writing notes on your understanding of your own ideas. How supported they are. If there are any inconsistencies or repetition. 
-
-
-# favor depth over breadth
-everyday I do the same thing over and over. repetition is to be celebrated. it's the only way to achieve depth or anything meaningful in society. 
-
-the common advice for software developers online is around a few years, start looking for a new job. that is because it's the fastest way for you to accelerate your paycheck.
-
 # imposter syndrome
 Imposter syndrome happens for me quite often on things that are fairly open in the public mind. Things like food taste or video skills. In contrast with software engineering where I feel I have a pretty firm grasp on things and it doesn't really exist to the public, I don't have the irrational thought that someone will call me out for my lack of knowledge.
 
 But with things like filmmaking or art where everyone has an opinion on those things, it feels a lot harder to put myself out there. 
 
+# fiction > non fiction 
 This is another way that fiction tends to be greater than non fiction. Is the breadth that it can reach. Although I've argued you should favor depth over breadth many times, it's undeniable that you reach far more people with your philsophical thoughts in a game like Nier Automata vs Thus Spoke Zarathustra. 
 
 Is that actually true though? Nier Automata will stay in the public conscious for maybe a decade but once it's no longer supported it's difficult, the graphics get too bad then the amount of people will generally stop playing it. This is somewhat difficult to judge because video games are a medium in their infancy vs the rich history of written text. 
@@ -223,23 +153,8 @@ artstyle can be a mix like omori. pixel art 2d overworld. hand drawn battle syst
 # jumping in and out of projects
 need low iteration cycles that allow progress that shift with your whims... but also need to reduce the cost of starting up as much as possible as well. clear instructions on how to get started again. 
 
-
-# handling apex
-the days are flying by. I should just play apex during events because there isn't a whole lot going for me right now. unless I get the chance to play with harls and ryon. 
-
-# horror
-I really don't like horror or gratuitious depections of horror. The images from midsommar continue to live in my mind and I can't get them out. Keep thinking about it. But I guess it's really making a lasting impression huh
-
 # building a second brain
 as much as I love the ideas in the lecture I can't really implement them myself. In order to learn something you have to interact with it deeply and just reading someone else's infographic doesn't do it. you have to make the infographic yourself. come to the same conclusions. not only that but the processes seem so overwhelming. it kind of makes me think about my own processes for things and if I am overthinking things. building up these processes and habits over time makes more sense though... I needed my ipad. keep forgetting to grab it for these writing sessions. especially since I want more visuals. 
-
-# keshi's music
-light, relaxing. melancholic. 
-
-# dylan's text
-every door you open closes another door. as I continue down this corporate path we're seeing others live out our dreams. there's the longing, coffee shop. the potion shop game I thought about. watching them live out their dreams. risking a lively hood. 
-
-I have people to take care of. But I'm at the apex of maslow's hierarchy. self actualization. What are you willing to sacrifice in order to move faster? I'm actually pretty efficient at my job. I'm willing to sacrifice some time here in order to keep moving forward in my own projects. I don't have a lot of friends but that's okay? right. and if I combine some of my socializition with routines it's fine right. 
 
 # my dreams
 dream one: working on a creative project with a cool team. being dedicated to a project. throwing my all at it. staying up late. continuing to craft it and love it. 

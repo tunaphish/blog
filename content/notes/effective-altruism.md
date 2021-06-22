@@ -19,3 +19,8 @@ But is it right to help the people who are already doing well? Shouldn't you inv
 The fear is that it won't payoff. In this specific example the company has an up and out mental model. Meaning that you have a limited amount of time to actually help this person before they get the axe anyways. Meanwhile this is taking away time from developing yourself or others. 
 
 It also just sucks... It's so hard teaching people who aren't apt for it. If I am trying to [[seek-work-that-energizes-you]], then it definitely points me towards helping the capable if for the only reason that it feels good to see other people succeed because of you and it sucks to see people you try to help fail. 
+
+# reconciling effective altruism and fire
+[https://www.reddit.com/r/EffectiveAltruism/comments/jt86sp/effective_altruism_and_retiring_early_reconciling/](https://www.reddit.com/r/EffectiveAltruism/comments/jt86sp/effective_altruism_and_retiring_early_reconciling/)
+
+[[effective-altruism]] and FIRE both acknowledge that the mindless accumulation of wealth and material possessions is pointless. Then what do you do with all your extra money. Do I try to help the world... or help myself.

@@ -22,6 +22,8 @@ why reddit is oftentimes pretty shitty and I've blocked it on every single
 3. truth by consensus, a byproduct of the upvote|downvote system.  
 4. bias towards low effort, low substance material (man I'm talking about this a lot)
 5. there is a huge bias against self promotion which stands in contrast with tiktok where it's celebrated. I can see both sides of this argument because it's fairly annoying to wade through a bunch of people trying to sell you something but I like the way that tiktok celebrates putting yourself out there and to [[allow-yourself-to-be-vulnerable]]
+6. second hand opinions. try to focus on primary sources. not secondary sources. aka take the facts and come to your own observations. stop basing your opinions on other people's opinions. don't let other people tell you how to feel. (for research... not when chatting or things of that nature)
+
 
 ## rss feeds
 there are some misc articles I get sent, blogs I want to keep track of that exist in different spheres and just newsletters I want to keep up with like the latest Gatsby news.
