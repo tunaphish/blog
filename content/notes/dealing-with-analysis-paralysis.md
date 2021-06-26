@@ -4,7 +4,8 @@ title: Dealing with Analysis Paralysis
 Something I struggle with a lot. I constantly find new ways to do this. From infinite research to my latest way of creating 'mood boards'. Just put something out there. You will know if it doesn't fit. 
 
 ## remember, it is an arbitrary world
-As I get older the more I realize things aren’t the result of thoughtful designs but arbitrary decisions. Have the audacity to say the world isn't representing me and I will make it happen
+As I get older the more I realize things aren’t the result of thoughtful designs but arbitrary decisions. This and the fact that there's an inertia with tradition that means decisions made arbitrarily will continue to perpetuate by virtue of having existing and persisted up until that time. 
+ Have the audacity to say the world isn't representing me and I will make it happen. 
 
 ## remember, your personal value system is valid
 Basically people often experience social anxiety because they take rejection

@@ -14,6 +14,7 @@ sense of communities due to the way the algorithm tends to group like minded peo
 "organic" exposure to other subjects I am unfamilliar with 
 constant appeals to pathos over logos. contrast with communities that I generally interact or used to interact with. like reddit, blind or other dev communities. 
 creative barrier to entry that is high enough that it filters out a lot of low effort content yet is low enough that people that generally wouldn't generate content for a community like youtube still participate. would say it exists in a space between youtube and instagram.  not a huge fan of instagram stories in general. because of how low low low effort they are and the vapidness of what they communicate. but I think they're good for conversation hooks. letting people ask me about my cute doggo and such.
+Tiktok is king of using filmmaking and aesthetics to convey tone and atmosphere. 
 
 ## Reddit
 why reddit is oftentimes pretty shitty and I've blocked it on every single 
