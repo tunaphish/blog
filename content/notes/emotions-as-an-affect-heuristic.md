@@ -18,3 +18,9 @@ This is another way that fiction tends to be greater than non fiction. Is the br
 
 Is that actually true though? Nier Automata will stay in the public conscious for maybe a decade but once it's no longer supported it's difficult, the graphics get too bad then the amount of people will generally stop playing it. This is somewhat difficult to judge because video games are a medium in their infancy vs the rich history of written text. 
 
+
+# embrace it
+remember to feel things fully. embrace it. and then let it go. 
+
+because your emotions do lie to you. [[illusory-living]] says that emotions were a part of biological evolution as a means to propogate our genes to the next generation. useful when you are outrunning a trex. 
+not useful when you want to punch your boss in t he face. 

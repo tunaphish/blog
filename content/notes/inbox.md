@@ -26,6 +26,27 @@ I should take those things that bianca sent seriously. Plus put more of an effor
 avoid weasal words. assert your opinion
 Survivorship bias
 Restrict volatility on things that don’t matter. This is where experience comes in handy. You can tell what doesn’t matter.
+# Necessary to participate in society and why that doesn’t make you a hypocrite 
+[[your-work-does-not-speak-for-itself]]
+pathos logos ethos 
+Good ideas exist in a vacuum. 
+Separate artist from art. 
+Excerpt it doesn’t. 
+Your work does. It speak for itself.
+
+
+# asian masculinity in america
+why do you want to emulate traditional ideas of masculinity
+way of man
+1. courage
+2. game
+3. craftsmanship
+
+# biases
+survivorship bias
+recency bias
+easily retrievable bias
+abstraction bias
 
 # apologies
 the desire to apologize comes from my desire to be forgiven rather then my desire to find peace in the individual you are apologizing to. 
@@ -36,12 +57,44 @@ Limit arguments to the topic at hand (don't bring up past grievances, you had yo
   you can use them as counter examples. 
 Validate feelings
 
+# social situations
+yesterday I navigated two new social situations for myself. getting reamed out by a friend. and then dropping myself into a new friend group. 
+I'd say I had mixed success with both. 
 
-- your initial point was the team should have more empathy. I think you were referring to getting donunted three days in a row. But from my perspective I did that. I finished my doc. Saw an opportunity to donut you. Realized you took a call in the middle of standup and decided to let it go. And you yelled at me like a child regardless. 
-- you do childish shit all the time and I don't care (you said you are trying to fit in... but in the current social dynamic it's pretty clear that you are an active partcipant), granted this time you were going through something but I wasn't aware of that. 
-- you even agreed that's not how you speak to people from the alexa example  yet you popped off in the same way
-- what you did was worse, you've acknowledged it. But do you really think so. The bulk of our conversation is surrounding the donuting. (this may not be true) he was outlaying his feelings leading up to his pop off which is still about the pop off. Will let t his slide. 
+## cliques and exclusionary behavior as it relates to my team
+the first one I was able to assert myself and still maintain the friendship. We still argued with eachother about some minor nuance. 
+Struggling with how to validate someone's feelings.. when it just doesn't feel like a priority. Something that is not important in my eyes... but it is important in someone else's eyes.
+Pranks wasn't the core issue. The issue is an exclusionary.. uhh clique. 
 
+Clique implies a few things in my mind. Let me look up the definition tho. 
+> a small group of people, with shared interests or other features in common, who spend time together and do not readily allow others to join them.
+
+The important part is do not readily allow others to join them. Which in my mind is absolutely not true. The team is nothing but welcoming. 
+One fear of mine from the second social outing I had yesterday was not being allowed back into the fold if I turned down this offer. 
+1. But that doesn't happen with this group. With one person who didn't engage in shenanigans they were always invited back regardless. 
+2. return rate of interns
+3. counterpoint attrition: but is that due to cultural problems or issues with management at that time period
+
+
+The greater issue with cliques is making others to feel like outsiders. To not be a part of the clique is to suffer. 
+I don't find it to be true either. And I wonder if there's actual empirical envidence of this. There's the obvious shining star of our group who does not participate in shenanigans yet is one of the most respected leaders of the team. 
+
+Where do you draw the line between validating someone's feelings... yet forcing them to take a look in the mirror and have a perspective shift. 
+
+So does one person's experience indicate a trend? No. Should it be treated just as importantly?
+Is there really a cultural issue? That assertion needs to be proven. 
+
+
+# n1 testing
+Group studies don’t tell you much about individuals. N1 testing as my first mentor, Jeff, liked to call it.
+He also said you need to eat shit. 
+
+# nutrition concepts
+
+## favor protein
+most food trend towards carb heavy meals
+
+## favor vegetables
 
 remember to feel things fully. embrace it. and then let it go. 
 
@@ -104,3 +157,4 @@ The better your aim is. The riskier play you can make and come out on top. Lower
 # naming is hard
 
 in development. conveying meaning. aligning mental models. 
+## favor unprocessed foods

@@ -88,7 +88,8 @@ Not the framework. Not the database. Not the delivery system. It should be about
 Testable without knowledge of database or delivery system. 
 
 ## Defining Partial Partial Boundaries
-As an architect you are often going to run into [[you-are-not-going-to-need-it]] But it's your job to think... I might need it. This need evolves overtime and with business needs
+As an architect you are often going to run into [[you-are-not-going-to-need-it]] But it's your job to think... I might need it. This need evolves overtime and with business needs.
+Restrict volatility on things that don’t matter. This is where experience comes in handy. You can tell what doesn’t matter.
 1. Design a service as if they were two. But deploy them in the same package. That way you can easily separate. 
 2. One way boundaries. 
 3. Facades → A client calls a class which just serves to call other classes that the client never has access to. There’s still a transitive dependency however though. The boundary is very weak. 
@@ -144,7 +145,8 @@ Dependency Inversion Principle
 
 ## general tips
 - Emphasize clarity of thought and substance
-- Avoid weasel words and passive action (use active verbs instead)
+- Avoid weasel words and passive action (use active verbs instead) 
+  - [[allow-yourself-to-be-vulnerable]] and assert yourself
 - Lead w/ proposal and then lead through journey
 - Visualizations are great like sequence diagrams
 
@@ -162,6 +164,3 @@ Use Cases → Tech Requirements → Key Tech Decisions → Approaches → Trade 
 4. Recommendation
 5. Implementation Plan
 6. Appendices
-
-
-
