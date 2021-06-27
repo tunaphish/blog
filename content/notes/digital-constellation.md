@@ -9,7 +9,7 @@ title: Digital Constellation
 4. [[writing-is-the-only-thing-that-matters]]
 5. it is beautiful... I love just looking at these graphs 
 6. interconnected information 
-   1. unique ideas and insights
+   1. unique ideas and insights. ideas in isolation aren't that interesting. in fact they are more then likely derivative and already thought of. the way ideas link, contrast and intertwine is what makes them interesting. 
    2. organic spaced repetition. you naturally stumble back onto ideas you've had before via this style of notetaking thus keeping those mental models fresh in your mind
 
 ## difference with traditional note taking

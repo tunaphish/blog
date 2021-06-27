@@ -141,7 +141,11 @@ Dependency Inversion Principle
 
 ---
 
-# writing design documents
+# technical writing design documents
+## the base formula
+1. problems
+2. options
+3. solution
 
 ## general tips
 - Emphasize clarity of thought and substance

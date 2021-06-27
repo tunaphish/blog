@@ -2,7 +2,7 @@
 title: Curate your Input Streams Carefully
 ---
 Because [[there-is-an-overwhelming-amount-of-information-in-the-world]] this practice is very important.
-cal newport talked about this a lot in digital minimalism. his take is oftentimes to delete these things entirely. you don't need them. although his ultimate position was just above (to curate carefully). throwing the baby out with the bathwater imo. stands in juxtaposition with austin's show your work where you [[participate-in-online-communities]] so you can take advantage of social media! the ability to connect with anyone in the world and share your work. so find a balance. curate your input streams carefully. give more then you get. talk with people. show up everyday. 
+cal newport talked about this a lot in digital minimalism. his take is oftentimes to delete these things entirely. you don't need them. although his ultimate position was just above (to curate carefully). throwing the baby out with the bathwater imo. stands in juxtaposition with austin's show your work where you [[participate-in-communities]] so you can take advantage of social media! the ability to connect with anyone in the world and share your work. so find a balance. curate your input streams carefully. give more then you get. talk with people. show up everyday. 
 
 
 # Social Media as Mediums for Gathering Information

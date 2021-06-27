@@ -2,47 +2,9 @@
 title: Inbox
 ---
 
-# what ideas are interesting to actually write about
-Ideas in a vaccuum aren't that interesting to explore. How they connect and contratst with other ideas is what is interesting 
-
-# divorce your ego from your work
-Seperate yourself from your ideas, your work, your legacy. They are not you.
-Does that mean you can't be proud of these things. Feel shame for them?
-Yes and no. They are one part of you. One part of this world. 
-
-# billionaires and space
-need to amass fortune, global opportunities and human invention to move into space. but is that right? earth is being sacrificed. send stuff to mars for a billion dollars vs investing a billion dollars into making the world more habitable. 
-
-# scope of work
-I should probably limit personal projects at work to an hour or two. I still need to succeed at my job and it's a little too much hubris to assume I can just spend half my time doing other stuff. 
-
-I've also done a surprisingly good job of phasing out my mindless internet use... I wonder what happened. Do I feel any different? I have that time period after work for some mindless tiktoks... but other than that. 
-
-As for that tiktok time I'm not feeling particularly inspired by it anymore. Maybe it's the fact that I can't get very invested in such a short format. Is there any off the top of my head that I still think about. 
-
-I should take those things that bianca sent seriously. Plus put more of an effort into my friendships with the people at work.
-
-# random topics
-avoid weasal words. assert your opinion
-Survivorship bias
-Restrict volatility on things that don’t matter. This is where experience comes in handy. You can tell what doesn’t matter.
-# Necessary to participate in society and why that doesn’t make you a hypocrite 
-[[your-work-does-not-speak-for-itself]]
-pathos logos ethos 
-Good ideas exist in a vacuum. 
-Separate artist from art. 
-Excerpt it doesn’t. 
-Your work does. It speak for itself.
-
-
-# asian masculinity in america
-why do you want to emulate traditional ideas of masculinity
-way of man
-1. courage
-2. game
-3. craftsmanship
-
 # biases
+there are many biases to be aware of when you write, ponder, persuade. try to avoid (or abuse) these when going about your intellectual pursuits and knowledge work. 
+
 survivorship bias
 recency bias
 easily retrievable bias
@@ -158,3 +120,19 @@ The better your aim is. The riskier play you can make and come out on top. Lower
 
 in development. conveying meaning. aligning mental models. 
 ## favor unprocessed foods
+
+[[fitness]]
+
+# follow your interests
+Idea proposed by smart notes that discusses organically following your interests and allowing them to build up and dictate your project plan instead of following a rigid plan from the get. 
+
+Similar to how agile works I think? The idea being that you don't know what customers want so you develop the most important thing now, gather feedback and then move onto the next important thing that was dictated by that feedback and the cycle begins anew. 
+
+However, does this contrast with the idea of [[deep-work-habit-chain]] that proposes you spend a long time focusing on one thing at a time. Maybe not. You are performing work deeply. Just over long time periods. You'll drop it and come back to it again. Smart notes proposes that good ideas take time to build up over the course of months or years. And that by steadily growing ideas and coming back to them organically through connections you are able to actually bring them to a satisfying conclusion. Aligns with [[habit-chain]]s as well. 
+
+# loki episode one 
+## illusion of choice
+I didn't really follow the philosophy of the episode. He talks about hurting people. Illusion of choice. How people always make the wrong choice and hurts themselves.
+Has obvious parallels to the TVA itself maintaing an illusion of choice for the universe.
+
+Power levels are jumping based on the stone scene. where they just straight make a joke about the power stones. I generally dislike power level jumps. 
