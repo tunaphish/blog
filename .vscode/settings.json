@@ -3,6 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
+  "editor.tabSize": 2,
   "[markdown]": {
     "editor.quickSuggestions": true
   },

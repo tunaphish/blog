@@ -6,7 +6,8 @@ title: Content Creation
  you are filming and documenting your interesting life and then crafting a narrative around it. 
 - look back on my life
 - try new things, experiment, projects
-- just film my life casually and craft a story in the cutting room
+- romanticize your life [[tenets]]. Filming videos of your life is one way of doing so. By being conscious of how you would like to portray it to other people you find more clarity in your vision.
+
 
 # film [[habit-chain]]
 1. identify purpose (I'm eating good ass food, having good time with rena)
@@ -73,3 +74,13 @@ Passive streams that feed me inspiration and updates. I should be conscious in m
 1. targeted (how does this help my project overall, on my tasks for the next few days)
 2. curated passive consumption (thoughtful.. what do I like. what don't I, what project can this contribute to)
 the science of software engineering often involves the efficient storage and retrieval of data. it makes sense to apply similar principals to personal knowledge management. 
+
+# sense of self
+> Through social media, many people have quickly come to view all new information as a sort of direct commentary on who they are. 
+> - Trick Mirror
+
+This contrasts with tv where there’s a suspension of disbelief. An understanding that what you see isn’t real or authentic. Social media masquerades itself authentically.
+
+---
+# References
+1. Trick Mirror, Jia Tolentino

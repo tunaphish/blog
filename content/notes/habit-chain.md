@@ -81,7 +81,7 @@ In the morning I strive to get working on my knowledge work as fast as possible 
 1. Set Workout Clothes
 2. Dog
 3. Hygiene
-4. Relax: Diffuser and Melatonin
+4. Relax: Lavendar Diffuser and Melatonin
 5. Content Creation
     1. post 
     2. consume
