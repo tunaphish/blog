@@ -6,7 +6,8 @@ title: Fitness
 1. look good naked
 2. health
 3. participate in communities
-4. focus
+4. focus on work
+5. skills (calisthenics)
 
 # fitness concepts
 
@@ -71,3 +72,31 @@ most food trend towards carb heavy meals
 ## favor vegetables
 remember to feel things fully. embrace it. and then let it go. 
 Sometimes you don’t have a passion in life. You go from one interest to another til you die. That’s okay. 
+
+## favor unprocessed foods
+counterpoint is protein powder. one of the most synthetic and processed foods there are. but most weightlifters swear by it, especially since it is extremely difficult to get the necessary amount of protein without it. 
+
+# calisthenics
+As egotistical as it is. You have to establish ethos. Social capitol before stepping out of the lines. That means actually being fit. 
+
+# jeff nippard's framework for achieving body recomposition
+1. Recognize training is the driving force!
+2. Decide on a primary goal (build muscle or lose fat?)
+3. Center calories around MAINTAINENCE
+4. Set up macro targets (start with protein!)
+5. Pay attention to details (OPTIMIZE!)
+
+# sliding model for protein consumption
+High Body Fat (1.2 g/lb) <-----> Low Bodyfat (1.6 g/lb)
+
+# Recomp Supplements
+Ordered according to most useful for resistance training
+1. protein powder | creatine | caffeine
+2. multivitamins | fish oil
+
+# bench tips 
+![](./images/bench-movement.png)
+1. fix your form, push forward to your face then up
+2. grib the bar wider
+3. bench more often
+4. add top heavy sets

@@ -8,11 +8,15 @@ title: Digital Constellation
 3. distilled
 4. [[writing-is-the-only-thing-that-matters]]
 5. it is beautiful... I love just looking at these graphs 
-6. interconnected information 
-   1. unique ideas and insights. ideas in isolation aren't that interesting. in fact they are more then likely derivative and already thought of. the way ideas link, contrast and intertwine is what makes them interesting. 
-   2. organic spaced repetition. you naturally stumble back onto ideas you've had before via this style of notetaking thus keeping those mental models fresh in your mind
+   
+## interconnected information 
+1. unique ideas and insights. ideas in isolation aren't that interesting. in fact they are more then likely derivative and already thought of. the way ideas link, contrast and intertwine is what makes them interesting. 
+2. organic spaced repetition. you naturally stumble back onto ideas you've had before via this style of notetaking thus keeping those mental models fresh in your mind
 
-## difference with traditional note taking
+## tool for thinking 
+Honestly just writing out my thoughts have done wonders in order to reconcile what I am thinking. To think of an argument and to inspect it at the same time is just too much. Just having it written out and reducing how much working memory you have to consume helps streamline my thinking process. I also have multiple conflicting ideologies and tenets for life that this helps to reconcile and prioritize. 
+
+# difference with traditional note taking
 Traditional notetaking has two general disadvantages. It starts with hypothesis first. You research to support this hypothesis instead of letting inspiration, insights guide your theories backed by your already existing body of information. 
 
 the second disadvantage is that having notes be easily accessible necessitates an organization system which is generally a hierarchy system with a taxonomy of folders and classifications. this isolates ideas from each other and prevents one from being able to create unique or novel connections instead forced into already existing classifications of knowledge. 

@@ -22,48 +22,33 @@ Exclusionary behavior oftentimes comes up in my writing because I really like th
 Hereditary bloodlines that pass on leaders to the new rold 
 
 
-# Capitalism : ) 
-Capitalism assumes most efficient means of production is driven my human selfishness. That innovation is driven by that. 
-I don’t believe that’s true. Money is influence and insteads launches wickedness to highest power. Game theory rewards selfish behavior. Selfish individuals get to the top.  Money is influence. Power over the world. Trite statements. 
-Capitalism. Promotes inequality. Which stifles innovation from particular flavor of capitalism. Economics are a moving spectrum. Same with politics. It’s the sliding window of acceptable policy. 
-Efficient means of product was best way to prop rotate humanity. Now it’s not. Fucking the world.
+# capitalism 
+Capitalism assumes most efficient means of production is driven my human selfishness. That innovation is driven by that. I don’t believe that’s true. Money is influence and insteads launches wickedness to highest power. Game theory rewards selfish behavior. Selfish individuals get to the top.  Money is influence. Power over the world. Trite statements. 
 
-# work effort theory
-Why invest yourself so much where you won’t benefit. The office theory of Jim’s and Dwights and Michaels.  
+Capitalism. Promotes inequality. Which stifles innovation from particular flavor of capitalism. Economics are a moving spectrum. Same with politics. It’s the sliding window of acceptable policy. 
+
+Efficient means of product was best way to propogate humanity. Now it’s not. Fucking the world.
+
+# work effort theory in corporations
+This theory applies to office workers where they do not have equity in the company. 
+Why invest yourself so much where you won’t benefit. The idea is work hard get promoted and that is where you see benefit. Is this the way it plays out though? Is it really worth it?
+It is inherently disproportionate the value you generate for a company vs your compensation. Why tip the scales even further but giving more of your time to a company?
+
+The argument for why it's acceptable for a company to take more money is because they take on the risk. But that becomes unacceptable after a certain point. It's not a blank check. It's a sliding scale for more risk that you take on, the more cash you are entitled to. It is also not zero risk. You can lose your job at the whim of your employer.
+
+The argument for software developers a lot of the time is just leave a company after a couple years and use lateral movement to move up. companies seem to reward this behavior as well with expiring bonuses. 
+
+[https://danco.substack.com/p/the-michael-scott-theory-of-social](https://danco.substack.com/p/the-michael-scott-theory-of-social)
 
 # reconciling agile and long term planning
+- have long term goals
+- agile
+  
 I keep going between mapping a year to see where you could place yourself. And then just focusing on what you are going to do this week. 
+The farther out you plan the more ambiguity there is. with literally everything. The things I wanted a year ago aren't the things I want now. 
+Here I realized I don't know what agile actually means. it's just some nebulous term that people throw about to describe... idk it's really vague. 
 
-The farther out you plan the more ambiguity there is.. with literally everything. The things I wanted a year ago aren't the things I want now. 
-
-
-# fitness
-do I have a spot for fitness? 
-I keep going between mapping a year to see where you could place yourself. And then just focusing on what you are going to do this week. 
-As egotistical as it is. You have to establish ethos. Social capitol before stepping out of the lines. That means actually being fit. 
-
-# giving up game development
-I struggle to decide between what I perceive to be two artistic sides of myself. I want to acquire true master. But to do so you need focus. But a little bit of everything a day?  
-Eventually you would be a savant. 
-Each day a narrative. 
-Everyday week a project. 
-Live your life a day at a time. 
-
-I think I can do it all. Including art. If I specifically give up the dream of being an indie dev. I reach base level of competency over time with an hour or so dedicated to each individual activity… except game development. There’s just such breadth of specific skills you need that only apply to game development that require a base level of competency to make something anywhere near decent. I would need to sacrifice everything else. To do truly deep work. And I just can’t do that. But if I think about art. Just art. I can still manage it and live the other life I want to live. And I do want to live that life.  I’ve toyed with the idea for so long. And I know I’ll revisit it again in the future.   But for now. It’s not a path I can pursue. It’s not what makes my life worth living honestly. That’s not me talking myself out of a dream. It’s addressing all the other sides of myself that have their own wants and desires. So I’ll quiet this side of myself. For now. A good time period. I’ll grieve that side of me. And I’ll let it go. For myself. 
-
-Understanding the time required, what I'd need to put into it to succeed. To truly be a solo developer.
-
-# fundamentals
-The better your aim is. The riskier play you can make and come out on top. Lower skill players have to play differently. 
-
-# naming is hard
-
-in development. conveying meaning. aligning mental models. 
-## favor unprocessed foods
-
-[[fitness]]
-
-# follow your interests
+## follow your interests, follow motivation
 Idea proposed by smart notes that discusses organically following your interests and allowing them to build up and dictate your project plan instead of following a rigid plan from the get. 
 
 Similar to how agile works I think? The idea being that you don't know what customers want so you develop the most important thing now, gather feedback and then move onto the next important thing that was dictated by that feedback and the cycle begins anew. 
@@ -72,27 +57,38 @@ However, does this contrast with the idea of [[deep-work-habit-chain]] that prop
 
 
 # random topics
-Mental model. Life is a performance. goffman
+- Mental model. Life is a performance. goffman
+- nofap how porn effects your brain
+- Algorithms reinforcing your interests and likes. Presented as bad. As an echo chamber. Isn’t that different right from real life. If you think about a farmer constantly exposed to same thing over and over. It’s curation. Exposure bias says people tends towards things they see often. But things you see often is often a good indicator that it’s important. The best indicator that you’ll run into some situation is if you’ve run into that situation before. Its sort of like habits in that way. 
+- Virtue signaling. Separate yourself from your work.
 
-nofap how porn effects your brain
-
+# feminism 
 women make a likability trade off more then men be side of the expectation for women to be more submissive and less aggressive. 
+[[naming-is-hard]]. Feminism has misconceptions about the superiority of women over men. Quick google for the definition 
+> the advocacy of women's rights on the basis of the equality of the sexes.
 
-Algorithms reinforcing your interests and likes. Presented as bad. As an echo chamber. Isn’t that different right from real life. If you think about a farmer constantly exposed to same thing over and over. It’s curation. Exposure bias says people tends towards things they see often. But things you see often is often a good indicator that it’s important. The best indicator that you’ll run into some situation is if you’ve run into that situation before. Its sort of like habits in that way. 
+Equality being the key word which I think most people agree with. Issue for most people against feminism is the prospect that there is an inequality to begin with I suppose. 
 
-Virtue signaling. Separate yourself from your work.
 
-# jeff nippard's framework for achieving body recomposition
-1. Recognize training is the driving force!
-2. Decide on a primary goal (build muscle or lose fat?)
-3. Center calories around MAINTAINENCE
-4. Set up macro targets (start with protein!)
-5. Pay attention to details (OPTIMIZE!)
+# random topics
+turn recipes into blueprints
 
-# sliding model for protein consumption
-High Body Fat (1.2 g/lb) <-----> Low Bodyfat (1.6 g/lb)
+the greater the dispersion of power, the better. stops malicious individuals from fucking around. argument for democracy. 
+there's a quote about preventing individuals from gaining too much power
+mankind is stupid. man is smart. natural leaders. (red rising)
 
-# Recomp Supplements
-Ordered according to most useful for resistance training
-1. protein powder | creatine | caffeine
-2. multivitamins | fish oil
+
+Avoid hidden contracts in models, try to be as explicit as possible. counterpoint is logic changes obviously depend on model changes. what is a hidden contract. 
+depends on client to do the right thing.
+
+creating demos for all your work is an organic way of reviewing (retro) your work (content creation)
+
+to reduce my analysis paralysis I want to just listen to experts but it's incompatible with how I am. I have to know why otherwise I can't bring myself to just do something. 
+
+It appears I need 9hrs of sleep. If I sleep early enough to wake up before alarms it ranges from 8-9 hours. 
+
+I should draw for my notes and whatever I am intersested in atm. 
+
+set aside some time for these things.
+
+if it's an issue, it'll come back up again
