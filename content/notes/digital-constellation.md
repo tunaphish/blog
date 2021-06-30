@@ -46,6 +46,16 @@ By forming these clusters you organically [[seek-work-that-energizes-you]]
 # art in the constellations
 Gather ideas in one place. Connecting them in novel ways. Let them produce ideas for you. Gather the best ideas from games you played. Stories you read visuals from movies. The coolest scene from moody was stabbing in the background. but it also allows you to develop ideas in parallel. This means you have multiple projects cooking. But like academic work there’s mechanical steps that need to be done. Instead of rearranging ideas and deleting redundant sentences. You are filming shots. Or you are drawing some lines.  Remember the Pareto principal for short films is the strength of the script. It can apply again to mechanical work but it’s like 80 percent of the 20 percent. Numbers may be off but the point is some things are higher Impact. 
 
+# reconciling following your interests vs discipline
+tl;dr follow your interests while ideating. discipline when executing. 
+
+Idea proposed by smart notes that discusses organically following your interests and allowing them to build up and dictate your project plan instead of following a rigid plan from the get. 
+
+Similar to how agile works I think? The idea being that you don't know what customers want so you develop the most important thing now, gather feedback and then move onto the next important thing that was dictated by that feedback and the cycle begins anew. 
+
+However, does this contrast with the idea of [[deep-work-habit-chain]] that proposes you spend a long time focusing on one thing at a time? Maybe not. You are performing work deeply. Just over long time periods. You'll drop it and come back to it again. Smart notes proposes that good ideas take time to build up over the course of months or years. And that by steadily growing ideas and coming back to them organically through connections you are able to actually bring them to a satisfying conclusion. Aligns with [[habit-chain]]s as well. 
+
+It goes against my gut instinct though to dial down things. The hardest part of your project is the last part. Just finishing it. I think the difference is the ideation stage vs the implementation phase. The mechanical phase. People's ideas exist in a nebulous state more often then not. Because [[writing-is-the-only-thing-that-matters]] it's not until you put pen to paper that you realize that your idea wasn't fully thought out. 
 
 --- 
 # References
