@@ -4,10 +4,12 @@ title: Content Creation
 
 # goals
  you are filming and documenting your interesting life and then crafting a narrative around it. 
-- look back on my life
+- look back on my life, organic way of reviewing and recalling
 - try new things, experiment, projects
 - romanticize your life [[tenets]]. Filming videos of your life is one way of doing so. By being conscious of how you would like to portray it to other people you find more clarity in your vision.
-
+- flex creative muscles
+- practice speaking 
+- new way to [[participate-in-communities]]
 
 # film [[habit-chain]]
 1. identify purpose (I'm eating good ass food, having good time with rena)

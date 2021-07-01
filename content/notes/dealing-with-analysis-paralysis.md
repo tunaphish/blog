@@ -30,4 +30,9 @@ Does that mean you can't be proud of these things. Feel shame for them?
 Yes and no. They are one part of you. One part of this world. [[your-work-does-not-speak-for-itself]] but that is in the context of presenting ideas to other in an attempt at persuasian. 
 When it comes to putting your work out there in the first place. Always remember. You are not your work. 
 
+# surface level understanding
+to reduce my analysis paralysis I want to just listen to experts but it's incompatible with how I am. I have to know why otherwise I can't bring myself to just do something. happened with nutrition, development, strength training. 
+
+experts will say to do something and unless I know why I can't do it. maybe I can get away with surface level understanding of things... but because of this I need to limit how many things I do at once. 
+
 

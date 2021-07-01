@@ -18,3 +18,11 @@ clients need retriers !!!
 
 # exceptions vs status codes
 failure status codes are somewhat pointless if they don't come with an associated message. much prefer throwing exceptions instead which work with messages, metrics, and retriers
+
+# avoid hidden contracts
+Avoid hidden contracts in models, try to be as explicit as possible. 
+
+counterpoint is logic changes obviously depend on model changes. 
+
+so what is a hidden contract. 
+any contract that depends on client to know and to do the right thing.
