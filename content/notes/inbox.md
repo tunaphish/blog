@@ -118,73 +118,6 @@ Generalities play out that way but world is full of nuance and subtlety that it 
 
 Toxoplasma theory
 
-# joji yeah right - day in the life of a software developer who's languishing 
-
-I'mma fuck up my life. I remember I had this idea a while. the song seems like it's talking about just self destructive hedonism. I focused on the fuck up my life part though. 
-
-okay I just read the genius lyrics and he's talking about people who don't really vibe with each other and just hang out because... it's beneficial. the specific situation he was in was having a bunch of money and girls just dancing with him because of that but they don't fuck with him and he though, fuck it who cares. 
-
-kind of like how a lot of people feel about their job. they don't care about the job. the mission. they out here trying to get paid. and in the end they engage with self destructive behavior. it's a pseudo vlog in this way. pseudo documentary. 
-
-the fruitless effort of climbing the social ladder. of making more money. and not being any happier. 
-
-thinly veiled sadness. 
-
-## scripting 
-
-starts off with a conversation and black screen. 
-
-> "yeah... I'm going to take it... we're leaving."
-
-cuts to a music montage with joji's yeah right playing in the background. 
-
-coding and developing. drinking coffee. 
-
-zoom in's on my stock and bank account. 
-
-gaining weight. articles about tech fucking shit up. 
-
-> "yeah I stayed up til 2am last night writing this thing..."
-> "why."
-
-dancing and shit. zooms in on my eyes and I'm fucking crying. 
-
-> "yeah idk man... I'm pretty tired"
-> from what you sit in a fucking chair all Day
-> cuts out to me pushing the button my automous standing desk
-> "actually motherfu-" 
-
-tiktok or youtube format?
-
-scene of me eating the bts meal, mcdonalds. before I moved to the city. I thought why would anyone ever eat fast food when they live in the city. surrounded by all these beautiful options. but this.. tastes like homes. the suburbs. It's not even cheaper. this shit is fucking 12 dollars. 
-
-cuts back to song. vibing. coffee coding. constant head shaking back and forth while I'm doing shit. 
-
-coffee counter
-
-promo scene
-"I got promoted? nice..."
-
-contact scene
-ay do you have a contact from the "blaksjdflashdf blurring" team?
-yeah can you contact smeckledorf?
-nah that dude's gone. 
-he got pipped
-
-BACK TO THE MOTHAFUCKING music
-
-cuts a little bit later. ah sweet he's at apple now. 
-
-days til retirement - 847
-days til you can live your real life 
-
-go to sleep, video starting to end 
-(SEV 2, GET YOUR ASS UP)
-IMMA FUCK UP MY LIFE on the way down the stairs. 
-
-GET THAT MF BAG BAYBE. I'm doing this for a better life and my life sucks. 
-
-for anyone seeing this.. this is a joke
 
 # Strength Goals
 If I am consistent with linear progression I can think about moving off of this program like 10 months out... (current date july 1st 2021) If I am consistent. with deadlift being the biggest laggard. I do see myself stalling on upper body lifts twice causing me to have to switch off for upper body but continue down linear progression for lower body.
@@ -221,3 +154,34 @@ Professional opinion havers. Aka influencers. Changing how you think. Changing y
 I have such a strong vision in my mind for this lifestyle. I'm not sure where it comes from. but a big open space where I live. basically a big ol art studio. there's a lofted bed I sleep at. north facing wall (not actually north but upwards) that is one big window with a ton of plants framing it. a lot of them herbs to be used in cooking. a well used kitchen where I prep most of my meals (rarely going out). on the west wall there's a bathroom that doesn't get much emphasis. on the southwest is where the entertainment area is at with a dipped section, a couch, coffee table and a large tv (maybe projector now).  on the southeast wall is where I mount my bike. it's next to a workstation with a bunch of tools on a pegboard. What I use those tools on besides my bike I don't actually know. in the center is a bunch of open space although I usually imagine some gym rings hanging down for some quick calistenics. 
 
 the vibe is just a well put together man. it's fairly palatable to most people. I envisioned it being dark and moody for the most part. lots of dark wood and black accents and metals. very industrial. palatable for most people that's has a fairly modern masculine slant. I have a pretty regular routine and meet with people regularly but come back to this alcove. a dream from another life maybe. 
+
+# mind dump
+yesterday 
+everytime I buy new clothes I should pose with it and take a pic
+Not paid according to how hard you work. Rather how hard you are to replace. 
+one issue with not planning the night before is I often forget what targeted research I should be doing. 
+
+yesterday was kind of a meh day. didn't really accomplish much. went to a harbor city which rena absolutely loathed : )
+then we went to get some snacks that she was dissapointed by. life sucks and then you die!
+
+> My only experience of the world ahs been one in which personal appeal is paramount and self-exposure is encouraged; this legitimately unfortunate paradigm, inhabited first by women and now generalized to the entire internet, is what trolls loathe and actively repudiate. They destablize an internet built on transparency and likability. They pull us back towards the chaotic and the unknown
+
+# taking weightlifting more seriously
+Actually doing research in it again. There's a lot of concepts I keep close to chest like compound lifting and linear progression but there's is actually a lot of nuance sometimes. 
+Hmm might be digging too far into the weeds though. Remeber pareto principle and to focus on the most important things. In this case, lift heavy, eat protein and sleep a lot. 
+
+There's one addendum to this for me though and that is avoid lower back injury! Squatting and deadlifting have been consistently fucking me up and I need to stay vigilant about it. I think core work is something obvious I am lacking that I need to work on before looking into other things. I should also make sure deep stretching my back after working out is not exacerbating things. 
+
+# ebike vs regular bike
+There are a lot of things that are kind of far to actually walk but make sense to bike for. Even if I just leave this bike at the office : O 
+If I bring the dog backpack I carry pixel on my back and just carry her out to rena's fairly easily. Although it's like a five minute walk either way.
+
+But I won't be as against errands. Or dashing back to the apartment. I wonder if there are people out there who do bike deliveries just for funsies. There's actually not a lot of downside for that. 
+
+ebike 
+- actually travel distances (can I actually handle half an hour commutes on a bike? I'm not sure...)
+
+bike
+- I own it 
+  - I can customize it
+- 
