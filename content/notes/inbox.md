@@ -180,8 +180,12 @@ But I won't be as against errands. Or dashing back to the apartment. I wonder if
 
 ebike 
 - actually travel distances (can I actually handle half an hour commutes on a bike? I'm not sure...)
+- more convenient during actual travel
 
 bike
 - I own it 
   - I can customize it
-- 
+  - no leasing commitment to bike or my company 
+- better exercise
+- more convenient outside actual travel, carrying it for instance
+ 
