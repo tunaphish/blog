@@ -189,3 +189,19 @@ bike
 - better exercise
 - more convenient outside actual travel, carrying it for instance
  
+
+# connections over art 
+bring your art elsewhere, ideally the physical but it's not always
+think deeply and visually about an idea.
+each page an idea
+not every idea will make it to exocortex.. that's fine. 
+create a sketch for it. sometimes just the sketch will be the image. 
+sometimes it's other stuff. a video. a photo. your exocortex evolves over time. 
+No that’s not the way to go
+Because not your exocortex is a means of generating ideas. 
+Published works should go elsewheree
+But sketches can continue to live on in expcortex. Half baked ideas that weren’t good enough for publishing. 
+So to reiterate. Sketching for exocortex is fine because sketching is ideation as well. Save finished works for blogs!
+
+# performative activism builds awareness
+Performative activism isn’t that bad. It builds awareness.
