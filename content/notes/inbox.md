@@ -13,15 +13,6 @@ exposure bias
 tunnel effect
 
 
-# cliques and exclusionary behavior as it relates to my team
-> **clique**: a small group of people, with shared interests or other features in common, who spend time together and do not readily allow others to join them.
-
-The important part is do not readily allow others to join them. 
-The greater issue with cliques is making others to feel like outsiders. To not be a part of the clique is to suffer. 
-Exclusionary behavior oftentimes comes up in my writing because I really like the idea of nobility and noble houses who often practice these sorts of things. 
-Hereditary bloodlines that pass on leaders to the new rold 
-
-
 # capitalism 
 Capitalism assumes most efficient means of production is driven my human selfishness. That innovation is driven by that. I don’t believe that’s true. Money is influence and insteads launches wickedness to highest power. Game theory rewards selfish behavior. Selfish individuals get to the top.  Money is influence. Power over the world. Trite statements. 
 
@@ -48,8 +39,6 @@ I keep going between mapping a year to see where you could place yourself. And t
 The farther out you plan the more ambiguity there is. with literally everything. The things I wanted a year ago aren't the things I want now. 
 Here I realized I don't know what agile actually means. it's just some nebulous term that people throw about to describe... idk it's really vague. 
 
-# random topics
-- Mental model. Life is a performance. goffman
 
 # Virtue signaling
 > the action or practice of publicly expressing opinions or sentiments intended to demonstrate one's good character or the moral correctness of one's position on a particular issue
@@ -116,37 +105,21 @@ When it comes to mental differences. Individuality varies so much that using sex
 
 Generalities play out that way but world is full of nuance and subtlety that it doesn’t fit. It’s the difference between theory and practice. The devil is in the details. 
 
-Toxoplasma theory
-
-
-# Strength Goals
-If I am consistent with linear progression I can think about moving off of this program like 10 months out... (current date july 1st 2021) If I am consistent. with deadlift being the biggest laggard. I do see myself stalling on upper body lifts twice causing me to have to switch off for upper body but continue down linear progression for lower body.
-
-Yesterday I squatted more weight then I've squatted in a long time and my lower back felt FUCKED. Actually thinking about it did I squat 2 plate in college? 
-
 # what I want out of Life
 don't make your entire life about art. front end development kind of leans in that direction but ehhh. 
 
 # thoughts
-yesterday I was just really tired. 
-
 encourages dispassionate feeling. logic. that's not what I want to be all the time even though that's my modus operandi. 
 
 there's a sense of superiority in male dominated spaces (reddit, development) about transcending popular culture. things like not giving a shit about your appearance. how you come across to other people. ignoring feelings. 
 
 I think I've been obsessing over this topic a lot because it was who I am for a while. I didn't go off the deep end... but I could have. Similar to high school me who was a creep (in my dicussion with a fellow peer he related the same things) and how I obsessed with inceldom when it came out. THAT WAS ME. 
 
-how do you make a palatable incel lol. traditionally it's just someone who's an outsider to the dating world who wants to break in. 
-
 money isn't everything. not having it is. for a lot of people sex is a very similar thing.
-
-abg's and gyarus (americancore)
 
 with great power comes great responsibility
 
 Internet provided an outlet for change without meaningfully effecting anything. Before you had to go somewhere and it effected meaningfully because it was local. 
-
-Professional opinion havers. Aka influencers. Changing how you think. Changing your cognitive bias. 
 
 
 
@@ -156,15 +129,8 @@ I have such a strong vision in my mind for this lifestyle. I'm not sure where it
 the vibe is just a well put together man. it's fairly palatable to most people. I envisioned it being dark and moody for the most part. lots of dark wood and black accents and metals. very industrial. palatable for most people that's has a fairly modern masculine slant. I have a pretty regular routine and meet with people regularly but come back to this alcove. a dream from another life maybe. 
 
 # mind dump
-yesterday 
-everytime I buy new clothes I should pose with it and take a pic
-Not paid according to how hard you work. Rather how hard you are to replace. 
-one issue with not planning the night before is I often forget what targeted research I should be doing. 
 
-yesterday was kind of a meh day. didn't really accomplish much. went to a harbor city which rena absolutely loathed : )
-then we went to get some snacks that she was dissapointed by. life sucks and then you die!
-
-> My only experience of the world ahs been one in which personal appeal is paramount and self-exposure is encouraged; this legitimately unfortunate paradigm, inhabited first by women and now generalized to the entire internet, is what trolls loathe and actively repudiate. They destablize an internet built on transparency and likability. They pull us back towards the chaotic and the unknown
+> My only experience of the world has been one in which personal appeal is paramount and self-exposure is encouraged; this legitimately unfortunate paradigm, inhabited first by women and now generalized to the entire internet, is what trolls loathe and actively repudiate. They destablize an internet built on transparency and likability. They pull us back towards the chaotic and the unknown
 
 # taking weightlifting more seriously
 Actually doing research in it again. There's a lot of concepts I keep close to chest like compound lifting and linear progression but there's is actually a lot of nuance sometimes. 
@@ -172,36 +138,47 @@ Hmm might be digging too far into the weeds though. Remeber pareto principle and
 
 There's one addendum to this for me though and that is avoid lower back injury! Squatting and deadlifting have been consistently fucking me up and I need to stay vigilant about it. I think core work is something obvious I am lacking that I need to work on before looking into other things. I should also make sure deep stretching my back after working out is not exacerbating things. 
 
-# ebike vs regular bike
-There are a lot of things that are kind of far to actually walk but make sense to bike for. Even if I just leave this bike at the office : O 
-If I bring the dog backpack I carry pixel on my back and just carry her out to rena's fairly easily. Although it's like a five minute walk either way.
 
-But I won't be as against errands. Or dashing back to the apartment. I wonder if there are people out there who do bike deliveries just for funsies. There's actually not a lot of downside for that. 
+# random updates
+actually consistently working out now so that finally feels good. my lower back is giving me a lot of issues and I've noticed that my interior rotation isn't great. I think finally getting some 
 
-ebike 
-- actually travel distances (can I actually handle half an hour commutes on a bike? I'm not sure...)
-- more convenient during actual travel
+my weaknesses, abs and ass. 
 
-bike
-- I own it 
-  - I can customize it
-  - no leasing commitment to bike or my company 
-- better exercise
-- more convenient outside actual travel, carrying it for instance
- 
+# skin care routine
+### am
+vitamin c
+essence
+moisturizer
+sunscreen
 
-# connections over art 
-bring your art elsewhere, ideally the physical but it's not always
-think deeply and visually about an idea.
-each page an idea
-not every idea will make it to exocortex.. that's fine. 
-create a sketch for it. sometimes just the sketch will be the image. 
-sometimes it's other stuff. a video. a photo. your exocortex evolves over time. 
-No that’s not the way to go
-Because not your exocortex is a means of generating ideas. 
-Published works should go elsewheree
-But sketches can continue to live on in expcortex. Half baked ideas that weren’t good enough for publishing. 
-So to reiterate. Sketching for exocortex is fine because sketching is ideation as well. Save finished works for blogs!
+### pm
+cleanser
+toner
+essence
+moisturizer
+retinol
 
-# performative activism builds awareness
-Performative activism isn’t that bad. It builds awareness.
+### skincare weaknesses
+1. forehead texture
+2. undereye texture
+3. blackheads 
+
+# connecting creative work with each other
+I absolutely love the idea of connecting ideas with eachother and all the benefits it extols. I have lived it for a while now. I really want to apply this idea to connecting sketch ideas, drawings, photography? I am not really sure that's feasible... Not with the current way of thinking. I'll come back to this.
+
+There isn't a lot on my mind right now.. it's fairly blank. If I think about my input streams from the past few days it's been tiktok, targeted research (and passive) on youtube and apex legends.  
+
+Anyways there isn't a lot of deep topics I've been thinking about as a result. 
+
+What does apex do. It makes me feels. Those dubs are an andrenaline rush that is hard to recreate haha. It goes along with the idea that you are only supposed to experience it once in a while and irregularly but once you do. You are hooked. 
+Youtube is targeted research. It aids in mechanical research. Did I learn anything from those though? Have good form. Maybe some cooking concepts like season throughout. From repeated mechanical efforts you can find nuggets of gold. I think that makes sense. 
+
+Last is tiktok that mostly inspries me to be beautiful... Maybe not just me but my life which I really like and think I need. Although effectively I end up standing around just staring at tiktok for an hour so is that really the best way to do that?
+
+There's this idea that social media is bad because it exaggerates the life of those around you. People post their highlight reals having you think it's the real thing. 
+
+Romanticising your life.. Means that you do it too. You feed into that cycle.
+
+I think there is room for both? Avoiding the highlight real but accepting the boringness of life. Romanticize your boring life. Because those are the things that matter. Being in the moment and appreciating each day by day. Each breath. Each moment. I think that's the way to go. 
+
+I had that idea for a combat system before. Trying to recreate that feeling at least. A system for exposing enemy weakness and a system that builds up your strength and timing both systems to align at the right time for a huge multiplier is rare but when it happens you go crazy.

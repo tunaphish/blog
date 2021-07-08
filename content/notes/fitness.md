@@ -9,6 +9,9 @@ title: Fitness
 4. focus on work
 5. skills (calisthenics)
 
+# current strength goal
+progress off Linear Progression model after this year
+
 # fitness concepts
 
 ## compound lifts
