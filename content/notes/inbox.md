@@ -55,14 +55,6 @@ discussed in atomic habits as well. you are what you do. what's that quote.
 (relation to myself and my superiority inferiority paradox) 
 this aligns with my superiority/inferiority complex paradox. I judge others by their actions whereas I judge myself by my potential. My surface level thoughts give me a superiority complex but in my core I know that isn't true and that it's your actions are what matter which is why I still have an inferiority complex. I haven't done anything. 
 
-# "real" art vs digital art
-Before I conclusively said digital art was the way I wanted to go because the hobbies I decided for myself at the time. Game development. Making stickers and shit. 
-
-Recently though I've discovered a tenet for myself regarding balance. Most of my inclinations push me towards online life. My job, video games, gathering information. 
-
-My other hobbies should trend the other direction if possible. Plus I am discovering a lust (weird word choice) for real life. In that other things are taking precedent. Taste, textures, smells. All food related... But basically living life in my flesh isntead of my just my mind which online life exacerbates. 
-
-Eh fuck it I can do both. I did need to write this down though. 
 
 # argument against exposure|recency bias
 Algorithms reinforcing your interests and likes. Presented as bad. As an echo chamber. Isn’t that different right from real life. If you think about a farmer constantly exposed to same thing over and over. It’s curation. Exposure bias says people tends towards things they see often. But things you see often is often a good indicator that it’s important. The best indicator that you’ll run into some situation is if you’ve run into that situation before. Its sort of like habits in that way. 
@@ -98,7 +90,6 @@ Hypergamy. Friendship paradox.
 
 [https://towardsdatascience.com/how-simulating-social-networks-revealed-why-i-have-no-friends-and-also-no-free-time-a61dec4d677a](https://towardsdatascience.com/how-simulating-social-networks-revealed-why-i-have-no-friends-and-also-no-free-time-a61dec4d677a) - incel theory that male sex partner distribution is top heavy
 
-# Intuitive cooking and eating
 
 # racism and statistics
 When it comes to mental differences. Individuality varies so much that using sex or race as any kind of indicator makes no sense. But does it make sense when speaking in generalities and trends. That’s the argument the google manifesto guy was talking about. Cultural factors effect these things. The meme stat about black crime is often brought up outside of the context of increased policing in minority neighborhoods or the correlation between being poor and committing crime. But once we do away with those factors if there was just a difference in mental biology that pre determines behavior in certain ways that only manifests itself as trends and generalities. Do you police against that.  
@@ -117,9 +108,7 @@ I think I've been obsessing over this topic a lot because it was who I am for a 
 
 money isn't everything. not having it is. for a lot of people sex is a very similar thing.
 
-with great power comes great responsibility
 
-Internet provided an outlet for change without meaningfully effecting anything. Before you had to go somewhere and it effected meaningfully because it was local. 
 
 
 
@@ -182,3 +171,24 @@ Romanticising your life.. Means that you do it too. You feed into that cycle.
 I think there is room for both? Avoiding the highlight real but accepting the boringness of life. Romanticize your boring life. Because those are the things that matter. Being in the moment and appreciating each day by day. Each breath. Each moment. I think that's the way to go. 
 
 I had that idea for a combat system before. Trying to recreate that feeling at least. A system for exposing enemy weakness and a system that builds up your strength and timing both systems to align at the right time for a huge multiplier is rare but when it happens you go crazy.
+
+# absolutely wild
+yesterday was launch, which was my focus for the entire day... 
+and then I went home and played apex all day. is that adrenaline rush worth it?
+
+I do bond a bit with harls but I think the multiplayer gaming phase of my life might be over. I think most people stop during transitions in their life. New jobs. Parents. 
+
+I'm listening to the lofi mix for omori right now and it's hitting me in the feels. Inspiring me to do game development despite [[giving-up-game-development]].
+(the fact that foam doesn't work with MDX currently is a bit frustrating)
+
+Anyways I have to develop the core art competency before I can do anything. I guess cool projects aren't enough to motivate me. KV actually did kill my motivation a bit when he said he wouldn't watch it (which obviously wasn't his intention). He wouldn't watch any of the content I'd generate tho. 
+
+I haven't really been thinking too deeply about concepts though. 
+
+Actually for work I did. You need to protect against unknown situations. This case network hops with retries. I think I already mention that in [[handling-client-integration]] though. 
+
+Fuck this omori electro remix slaps. WHEN DO I FIND THE TIME. I AM HAPPY. I AM MORE FIT THEN I'VE BEEN IN A LONG TIME. I HAVE COOL CLOTHES. I'M MAKING FRIENDS. 
+
+I"M JUST SO TIRED AFTER WORK. HOW DO PEOPLE DO IT. WHERE DO I FIND THE TIME. I WANT TO ROMANTICISE MY LIFE. MAKE A GOOD LIFE FOR ME. FOR RENA. 
+
+BUT I... I WANT TO MAKE A GAME. IT WILL TAKE SO MUCH TIME. BUT I WANT IT. I WANT IT ALL. 

@@ -103,3 +103,15 @@ Ordered according to most useful for resistance training
 2. grib the bar wider
 3. bench more often
 4. add top heavy sets
+
+# intuition cooking and eating
+I for the most part don't really like messing around measuring things. Whether it's ingredients into a bowl or calories. 
+
+My thought process is that my habits now maintain a certain calorie bar. And that if I just alter my habits to favor lower cal, higher protein options (swap mayo for yogurt not sure if this is a real example) then I can just alter those things little by little and eventually reach a place where I'm good. One of those is less carbs. Halve your rice. That kind of stuff. 
+
+I can probably still do this indirectly by measuring my weight even though this is how most people do it and the reason why most nutritionists recommend measuring your calories as it's more accurate and you actually know what is going on.
+This contrasts with the thought process that you need to measure your
+
+I haven't really done either yet though so the best I can do is some [[n1-testing]] and see what works for me. 
+
+[[live-with-intention]]. One tenet for cooking is to taste your food and you'll know what you need to add. This contrasts with how most people cook which is blindly (mindlessly) following a recipe. To be engaged with cooking and know what outcome you are seeking then you can cook intuitively
