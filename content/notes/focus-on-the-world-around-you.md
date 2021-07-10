@@ -12,6 +12,11 @@ Local produce tastes better.
 # local elections
 the biggest impact you can have on your life is to just focus on your local elections. specifically your mayor and not your president. 
 
+## democracy
+the greater the dispersion of power, the better. stops malicious individuals from fucking around. argument for democracy. 
+there's a quote about preventing individuals from gaining too much power
+mankind is stupid. man is smart. natural leaders. (red rising, golden son) I cannot find the quote online for the life of me lol
+
 # local art, food
 eating food that is local to you is going to be the most delicious. 
 

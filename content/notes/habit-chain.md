@@ -30,7 +30,6 @@ In the morning I strive to get working on my knowledge work as fast as possible 
 7. create new notes for your [[digital-constellation]]
 
 
-
 ## 09:00AM - design work - 4 hours
 [[deep-work-habit-chain]]
 
@@ -85,3 +84,18 @@ In the morning I strive to get working on my knowledge work as fast as possible 
 5. Content Creation
     1. post 
     2. consume
+
+
+--- 
+# skin care routine
+### am
+vitamin c
+essence
+moisturizer
+sunscreen
+
+### pm
+cleanser
+essence
+moisturizer
+retinol
