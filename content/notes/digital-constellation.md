@@ -57,6 +57,17 @@ However, does this contrast with the idea of [[deep-work-habit-chain]] that prop
 
 It goes against my gut instinct though to dial down things. The hardest part of your project is the last part. Just finishing it. I think the difference is the ideation stage vs the implementation phase. The mechanical phase. People's ideas exist in a nebulous state more often then not. Because [[writing-is-the-only-thing-that-matters]] it's not until you put pen to paper that you realize that your idea wasn't fully thought out. 
 
+# applying smart notes theories for work onto other kinds of work
+luhhman has a lot of theories on how to work that fed into his insane productivity. how can I apply it to non writing pursuits. 
+
+## inspiration driven work for drawing 
+only work on what inspires you. generally I pick a project. draw some roughs. and then force myself to take a rough and bring it through the rest of the stages. maybe that shouldn't be how it is. I can do something similar to my writing. I can spend the morning ideating. just drawing sketches. and then only from my sketches will I actually generate useful ideas and projects. I'm starting from the end and working backwards when I should be ideating and nurturing ideas over time. remember [[writing-is-the-only-thing-that-matters]] and unless that pen hits the paper then nothing you think in your mind matters. 
+
+## evaluating input streams 
+If I'm not inspired to sketch or create that means my input streams aren't good enough. 
+Reevaluate what I am consuming. That isn't just limited to what I'm drawing. You can get stuck in ruts consuming the same thing over and over. Shake things up and see what other worlds have yet to be discovered. (this isn't actually luhhman but another digital garden idea I read but don't remember who's it was)
+
+
 --- 
 # References
 1. Digital Gardens, Maggie Appleton

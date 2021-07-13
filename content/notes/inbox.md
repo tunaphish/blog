@@ -23,16 +23,6 @@ Efficient means of product was best way to propogate humanity. Now it’s not. F
 ## maliciousness rises to the top
 I haven't found a good allegory for this yet. This theory was presented to me by my I think world economics professor in college and for some reason it has always stuck with me. Basically when you get to the higher echelons in the world then everyone around you is an exceptional person. Generally, they are smart, capable, charismatic individuals for them to have made it this far. At that point, there's one pillar left to ascend and that is your willingness to hurt others for personal gain. That's the last one and why evil inviduals always ascend to the top. 
 
-# work effort theory in corporations
-This theory applies to office workers where they do not have equity in the company. 
-Why invest yourself so much where you won’t benefit. The idea is work hard get promoted and that is where you see benefit. Is this the way it plays out though? Is it really worth it?
-It is inherently disproportionate the value you generate for a company vs your compensation. Why tip the scales even further but giving more of your time to a company?
-
-The argument for why it's acceptable for a company to take more money is because they take on the risk. But that becomes unacceptable after a certain point. It's not a blank check. It's a sliding scale for more risk that you take on, the more cash you are entitled to. It is also not zero risk. You can lose your job at the whim of your employer.
-
-The argument for software developers a lot of the time is just leave a company after a couple years and use lateral movement to move up. companies seem to reward this behavior as well with expiring bonuses. 
-
-[https://danco.substack.com/p/the-michael-scott-theory-of-social](https://danco.substack.com/p/the-michael-scott-theory-of-social)
 
 # reconciling agile and long term planning
 - have long term goals
@@ -82,38 +72,25 @@ When it comes to mental differences. Individuality varies so much that using sex
 
 
 # connecting creative work with each other
-Youtube is targeted research. It aids in mechanical research. Did I learn anything from those though? Have good form. Maybe some cooking concepts like season throughout. From repeated mechanical efforts you can find nuggets of gold. I think that makes sense. 
-
 Last is tiktok that mostly inspries me to be beautiful... Maybe not just me but my life which I really like and think I need. Although effectively I end up standing around just staring at tiktok for an hour so is that really the best way to do that?
 
 There's this idea that social media is bad because it exaggerates the life of those around you. People post their highlight reals having you think it's the real thing. Romanticising your life.. Means that you do it too. You feed into that cycle.
 
 I think there is room for both? Avoiding the highlight real but accepting the boringness of life. Romanticize your boring life. Because those are the things that matter. Being in the moment and appreciating each day by day. Each breath. Each moment. I think that's the way to go. 
 
-I had that idea for a combat system before. Trying to recreate that feeling at least. A system for exposing enemy weakness and a system that builds up your strength and timing both systems to align at the right time for a huge multiplier is rare but when it happens you go crazy.
+# yesterday
+- Don't speak to them. You don't know them. 
+- You've never seen it before. Yet. Something about it is familliar. 
+  
 
-# reconciling my relaxation and my addiction to competitive shooters
-yesterday was launch, which was my focus for the entire day... 
-and then I went home and played apex all day. is that adrenaline rush worth it?
+  # what am I doing with my life?
 
-What does apex do. It makes me feel. Probably good inspiration for what others feel in competitive situations. Heart racing, hands trembling, how easy it is to choke. Those dubs are an andrenaline rush that is hard to recreate haha. It goes along with the idea that you are only supposed to experience it once in a while and irregularly but once you do. You are hooked. 
+  launch is going right now and I've just been laser focused on that. And then when I get home I'm pretty mentally drained from work so I just want to full send on apex the entire day.
 
-I do bond a bit with harls but I think the multiplayer gaming phase of my life might be over. I think most people stop during transitions in their life. New jobs. Parents. 
+  Last week I did very pooly on my habits. Didn't work out as much. Didn't do my morning paper sessions. Tiktok all night. I was also a bit frustrated by my partner and her realistic dreams. 
 
-# applying smart notes theories for work onto other kinds of work
-luhhman has a lot of theories on how to work that fed into his insane productivity. how can I apply it to non writing pursuits. 
+  Jia's always be optimizing essay reinforces the slow intentional living that I have gained a better appreciation for. Doing the same things everyday. Being with the same people. Some find that to be a prison. I find it to be incredibly freeing to focus on what matters. Finding the extraordinary in the ordinary. 
 
-## inspiration driven work for drawing 
-only work on what inspires you. generally I pick a project. draw some roughs. and then force myself to take a rough and bring it through the rest of the stages. maybe that shouldn't be how it is. I can do something similar to my writing. I can spend the morning ideating. just drawing sketches. and then only from my sketches will I actually generate useful ideas and projects. I'm starting from the end and working backwards when I should be ideating and nurturing ideas over time. remember [[writing-is-the-only-thing-that-matters]] and unless that pen hits the paper then nothing you think in your mind matters. 
+  I've read passages like these before and they really just fly over your head unless you are in the right headspace for it to really resonate with you. People change over time. The value in reengaging in a piece of media. Like the classic 500 Days of Summer example. Time to process ideas. Passages. How they relate to eachother. 
 
-## evaluating input streams 
-If I'm not inspired to sketch or create that means my input streams aren't good enough. 
-Reevaluate what I am consuming. That isn't just limited to what I'm drawing. You can get stuck in ruts consuming the same thing over and over. Shake things up and see what other worlds have yet to be discovered. (this isn't actually luhhman but another digital garden idea I read but don't remember who's it was)
-
-## digital garden
-learn in plain sight. embrace being an amateur. god this is so hard for me lol.
-
-
-
-
-embrace chaos
+  I was really frustrated with my partner last night and this morning. Still dealing with the fallout of a mistake I made a long time ago. Time heals all wounds? Feels like we should be past this now. The gaps between her bringing this up keep getting longer and longer but this onew as so severe. Granted she's hormonal right now but it's so frustrating to have this be thrown in my face. Granted she has insecurities. Our life is so good now though. Blegh. 

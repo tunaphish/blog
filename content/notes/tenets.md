@@ -6,7 +6,19 @@ tenets need to guide [[decision-making]]. when there's a tradeoff between two co
 # life tenets
 1. "you have to start romanticizing your life"
 ## [[keystone-habits]] > Events > Project Work > Actual Work
-The counterpoint is that your actual work will have the most outsized impact on your life. The effort I gave into leetcoding and succeeding in my job gave me the literal capitol I required in order to get my other affairs in order and help Rena live a better life. 
+> But the 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours (the average office worker gets less than three hours of actual work done in 8 hours) but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work. - **your lifestyle has already been designed**
+
+#### work effort theory in corporations
+This theory applies to office workers where they do not have equity in the company. 
+Why invest yourself so much where you won’t benefit. The idea is work hard get promoted and that is where you see benefit. Is this the way it plays out though? Is it really worth it?
+It is inherently disproportionate the value you generate for a company vs your compensation. Why tip the scales even further but giving more of your time to a company?
+
+The argument for why it's acceptable for a company to take more money is because they take on the risk. But that becomes unacceptable after a certain point. It's not a blank check. It's a sliding scale for more risk that you take on, the more cash you are entitled to. It is also not zero risk. You can lose your job at the whim of your employer.
+
+The argument for software developers a lot of the time is just leave a company after a couple years and use lateral movement to move up. companies seem to reward this behavior as well with expiring bonuses. 
+
+### Counterpoint
+The counterpoint is that your actual work will have the most outsized impact on your life. The effort I gave into leetcoding and succeeding in my job gave me the literal capitol I required in order to get my other affairs in order and help Rena live a better life. I use very premium skincare now which is something I care about. I don't have crazy expensive hobbies but I can go to the hospital whenever I need to for my health. I pay for an expensive ass gym but that's also because I live downtown for my job. I want a personal gym but I can't really do something like that here. 
 
 ## focus on "real life" not just digital life
 ### real art vs digital art
@@ -16,7 +28,7 @@ Recently though I've discovered a tenet for myself regarding balance. Most of my
 
 My other hobbies should trend the other direction if possible. Plus I am discovering a lust (weird word choice) for real life. In that other things are taking precedent. Taste, textures, smells. All food related... But basically living life in my flesh instead of my just my mind which online life exacerbates. 
 
-Eh fuck it I can do both. I did need to write this down though. 
+Eh fuck it I can do both.
 
 ### cons of the internet
 It encourages passivity. It gives an outlet to so many things without actually meaningfully changing anything. In the world. In yourself. This can be countered when you [[participate-in-communities]] but it's not the natural fold of things. 
@@ -26,12 +38,6 @@ It encourages passivity. It gives an outlet to so many things without actually m
 2. your posessions should 'spark joy'
 3. focus on what matters (essentialism), not having less
 
-### real art vs digital art
-Before I conclusively said digital art was the way I wanted to go because the hobbies I decided for myself at the time. Game development. Making stickers and shit. 
-
-Recently though I've discovered a tenet for myself regarding balance. Most of my inclinations push me towards online life. My job, video games, gathering information. 
-
-My other hobbies should trend the other direction if possible. Plus I am discovering a lust (weird word choice) for real life. In that other things are taking precedent. Taste, textures, smells. All food related... But basically living life in my flesh instead of my just my mind which online life exacerbates. 
-
-Eh fuck it I can do both. I did need to write this down though. 
-
+---
+# References
+1. [https://danco.substack.com/p/the-michael-scott-theory-of-social](https://danco.substack.com/p/the-michael-scott-theory-of-social)
