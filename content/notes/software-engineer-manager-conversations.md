@@ -1,6 +1,10 @@
 ---
 title: Software Engineer Manager Conversations
 ---
+
+tenet: tell them what you want - linna villiers
+
+# Frameworks
 - wins, flex, goal progression
 - past, present, future
 

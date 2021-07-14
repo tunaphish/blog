@@ -27,6 +27,11 @@ however, you always have the opportunity to gather more exposure. but once you s
 
 my mentor suggested I work really hard for a few years to get to a career level and just chill out for a bit. I wonder if that is what I should be doing. Feels like [[california-syndrome]] Syndrome where I'm putting off my real life until I can achieve this goal. There's a defined end date but for most people it's a few years. 
 
+# experiencing media over time
+I've read passages like these before and they really just fly over your head unless you are in the right headspace for it to really resonate with you. People change over time. The value in reengaging in a piece of media. Like the classic 500 Days of Summer example. Time to process ideas. Passages. How they relate to eachother. 
+
+There's the classic example of people reading The Alchemist over the years and relating to different characters each time. 
+
 --- 
 # References
 1. The Subtle Art of How Not to Give a Fuck

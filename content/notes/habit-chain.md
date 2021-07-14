@@ -27,7 +27,8 @@ In the morning I strive to get working on my knowledge work as fast as possible 
    1. morning papers -> stream of consciousness writing for a while. 
    2. thoughts from last nights media intake. 
 6. pick a topic to write about or revise in inbox. it's a cornocopia of ideas. if it's empty that means I'm in some kind of rut and should be mixing up my life or input streams somehow. 
-7. create new notes for your [[digital-constellation]]
+7. Look at graph for orphans
+8. create new notes for your [[digital-constellation]]
 
 
 ## 09:00AM - design work - 4 hours

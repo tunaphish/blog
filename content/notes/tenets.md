@@ -4,7 +4,14 @@ title: Tenets
 tenets need to guide [[decision-making]]. when there's a tradeoff between two competing goals then a tenet is required 
 
 # life tenets
-1. "you have to start romanticizing your life"
+
+## "you have to start romanticizing your life"
+There's this idea that social media is bad because it exaggerates the life of those around you. People post their highlight reals having you think it's the real thing. Romanticising your life.. Means that you do it too. You feed into that cycle.
+
+I think there is room for both? Avoiding the highlight real but accepting the boringness of life. Romanticize your boring life. Because those are the things that matter. Being in the moment and appreciating each day by day. Each breath. Each moment. I think that's the way to go. 
+
+Another reason for this is helping others. Mainly Rena live her life as well. She is a natural homebody as well and although I depend on her to force us out of the house I need to emphasize that as well. 
+
 ## [[keystone-habits]] > Events > Project Work > Actual Work
 > But the 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours (the average office worker gets less than three hours of actual work done in 8 hours) but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work. - **your lifestyle has already been designed**
 
@@ -17,7 +24,7 @@ The argument for why it's acceptable for a company to take more money is because
 
 The argument for software developers a lot of the time is just leave a company after a couple years and use lateral movement to move up. companies seem to reward this behavior as well with expiring bonuses. 
 
-### Counterpoint
+### My job finances everything else in my life 
 The counterpoint is that your actual work will have the most outsized impact on your life. The effort I gave into leetcoding and succeeding in my job gave me the literal capitol I required in order to get my other affairs in order and help Rena live a better life. I use very premium skincare now which is something I care about. I don't have crazy expensive hobbies but I can go to the hospital whenever I need to for my health. I pay for an expensive ass gym but that's also because I live downtown for my job. I want a personal gym but I can't really do something like that here. 
 
 ## focus on "real life" not just digital life
