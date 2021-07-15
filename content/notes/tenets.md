@@ -15,7 +15,7 @@ Another reason for this is helping others. Mainly Rena live her life as well. Sh
 ## [[keystone-habits]] > Events > Project Work > Actual Work
 > But the 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours (the average office worker gets less than three hours of actual work done in 8 hours) but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work. - **your lifestyle has already been designed**
 
-#### work effort theory in corporations
+### work effort theory in corporations
 This theory applies to office workers where they do not have equity in the company. 
 Why invest yourself so much where you won’t benefit. The idea is work hard get promoted and that is where you see benefit. Is this the way it plays out though? Is it really worth it?
 It is inherently disproportionate the value you generate for a company vs your compensation. Why tip the scales even further but giving more of your time to a company?
@@ -24,8 +24,17 @@ The argument for why it's acceptable for a company to take more money is because
 
 The argument for software developers a lot of the time is just leave a company after a couple years and use lateral movement to move up. companies seem to reward this behavior as well with expiring bonuses. 
 
-### My job finances everything else in my life 
+#### My job finances everything else in my life 
 The counterpoint is that your actual work will have the most outsized impact on your life. The effort I gave into leetcoding and succeeding in my job gave me the literal capitol I required in order to get my other affairs in order and help Rena live a better life. I use very premium skincare now which is something I care about. I don't have crazy expensive hobbies but I can go to the hospital whenever I need to for my health. I pay for an expensive ass gym but that's also because I live downtown for my job. I want a personal gym but I can't really do something like that here. 
+
+## be present in the moment
+- have long term goals
+- be agile
+  
+I keep going between mapping a year to see where you could place yourself. And then just focusing on what you are going to do this week. 
+The farther out you plan the more ambiguity there is. with literally everything. The things I wanted a year ago aren't the things I want now. 
+
+I think the key here is that the further out things are the less definition and structure I should have. Be in the moment and focus on what you have to do today. On what you have to do right now. 
 
 ## focus on "real life" not just digital life
 ### real art vs digital art
