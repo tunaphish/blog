@@ -49,6 +49,12 @@ Eh fuck it I can do both.
 ### cons of the internet
 It encourages passivity. It gives an outlet to so many things without actually meaningfully changing anything. In the world. In yourself. This can be countered when you [[participate-in-communities]] but it's not the natural fold of things. 
 
+## project timelines and goals as of july 2021
+- focus on personal habits right now (creative works and projects since that's the side of myself I want to develop right now ASSTHETICS)
+    - bring art into the real world somehow
+- after I move focus on environmental design starting with kitchen, workspace and bedroom?
+- finally focus on others, hosting events, hanging with people socially, friends, dogs, rena, family
+
 # minimalism tenets
 1. you should never be able to say "I forgot I had this". What's the point of having it then. Either discard it or place it somewhere where you will be able to get it when you need it. 
 2. your posessions should 'spark joy'

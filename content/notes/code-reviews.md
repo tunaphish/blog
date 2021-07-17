@@ -72,7 +72,6 @@ use this guide to refactor and to review other's code
 - avoid chaining (person.name.last)
 
 ## Exception Handling
-
 - Favor Try with Resources
 - avoid exceptions over conditions (performance)
 - Use Checked Exceptions for Recoverable States and Unchecked for Programming Errors
@@ -84,6 +83,9 @@ use this guide to refactor and to review other's code
   - try early exits
   - try strategy pattern
   - try special case object pattern
+  - consider predicate classes for overly complicated predicates
+    - when will this class change. it changes for one reason. and that one reason is isolated to this one class. 
+
 
 ---
 # Resources
