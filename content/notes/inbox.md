@@ -1,11 +1,6 @@
 ---
 title: Inbox
 ---
-# sketch ideas
-botw link
-abg's and gyaru's
-modern knight
-I just realized, the glitch effects actually swap Aubrey’s color pallet with her dream world counterpart. Not sure if intentional, but really cool for sure
 
 # feminism 
 setting and meeting expectations is incredibly important. in the world of work that manifests itself as the tenet of **underestimate, overdeliver**. A boss would rather the employee who estimates average output and delivers outputs instead of the employee who estimates perfect output and delivers great output. the second employee performed more but did not meet expectations. this is where biases hurt women in the workplace. Because the perceived bias for women is to be likeable, warm, and friendly; women make a likability trade off more then men. this manifests itself as women being forced to couch opinions when the same opinion can be vouched by men more aggressively and with more confidence. 
@@ -32,5 +27,44 @@ The internet gives you options but there's also the argument against having an o
 # discords as community hubs
 it all started with the halo days on those custom servers. I still think that was the epitome because it was so easy to create commmunities by hosting your own servers. people naturally congregated around the same servers and you actually got to know people and join clans. with a game as baseline as halo you even saw people develop playstyles. I remember bigzilla constantly grabbing the sniper, sticky rice doing some sneaky shit and myself gravitating to the banshee. those days were so much fun lol. the custom servers where you'd play zombies. playing with my brother and kevin. they still play together to this day in discords. that was probably the natural evolution of online gaming communities after after years of ranked online play. 
 
-# launch but really apex legends... and then not much else
-I really need to get my shit together. Already spent an hour on tiktok this morning lmao. AH WELL. 
+# deep work
+Don’t complain about having more time do perform focus work if you aren’t effectively using your time at work. 
+
+# LEVEL up YOUR LIFE 
+lifting weights. Upgrade in real life. Similar to clothes. Lol. 
+
+sketch idea: weight lifters as classes. novice, beginner, intermeddiate, advanced. 
+would just draw normal class progressions but with visibly different body types. 
+
+# phases in life 
+You go through phases In life and that’s okay. You’ve taken long breaks from anime and re entered with a gusto. The same will probably happen again and you can still look back with fondness. Right now you are into filmmaking. 
+
+# pantinas
+repeated use. 
+- carbon steel, cast iron
+- leather
+- raw denim
+
+# always be optimizing
+it's funny. I just read jia's essay on arguing maybe not against. but how society rallies individuals to optimize their life. to live with the system and synthesize with it and truly embody it. 
+
+yet, that is exactly what I want to do. I want to be efficient. to be conventionally attractive. fit. well dressed. cultured. smart. funny. 
+
+for others? for rena? my family and friends? random individuals on the internet? myself?
+
+in today's society this inherently means [[optimizing-for-selfishness]] and thus becoming a more selfish individual yourself. 
+
+biggest time wasters
+- apex legends
+- tiktok : )
+
+I do want to add these things back in .... slowly. but I need to figure out my life first.
+there's conceivably 8 hours in a work day in which I am forced in one spot. I can make the most of that. otherwise. 
+
+there was a tiktok about skipping the phase of your life where you dating and figuring life out and going straight into the extravagent sunday brunch part of your life. 
+
+okay so I get home at 5:30 ish. and I plan on getting into bed around 10. I don't wake up til like 8:20ish though... why do I need so much sleep. very inconvenient. but for now I get into bed at 10 and sleep around 10:30 that means I sleep like 10 hours... that's a lot. I use social media for a bit and then go to sleep. 
+
+anyways that is like 4.5 hours I have a night to myself. I spend an hour eating and doing dinner. then another hour working out, showering and taking care of daily hygeine. 
+
+that's 2.5 hours left... that's a movie a day.. hmm. I wonder if arrival is on anything. 
