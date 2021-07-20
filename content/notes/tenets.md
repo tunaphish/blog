@@ -3,6 +3,29 @@ title: Tenets
 ---
 tenets need to guide [[decision-making]]. when there's a tradeoff between two competing goals then a tenet is required 
 
+# Prioritized Time Block List
+## Keystone Habits
+- Meditation
+- Exercise
+- Diet
+- Sleep
+## Hobbies
+- Code 
+- Art
+- Film
+- Design
+  - Environment
+  - Personal
+## Events 
+- Rena
+- Dogs
+- Family
+- Friends
+## Media
+- Films
+- Adventure Games
+- Anime
+
 # life tenets
 
 ## "you have to start romanticizing your life"

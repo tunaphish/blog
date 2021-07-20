@@ -23,6 +23,13 @@ I remember having this discussion with Tucker a while back. About how you should
 
 This flies in the face of [[you-did-not-consent-to-this-life]]. Why should you have these obligations to a life you never asked to be a part of. 
 
+# build connections in your adult life
+To build a rockstar social life filled with opportunities, do the following:
+1. pick 2-3 hobbies you can stick to LONG term
+2. pick hobbies that are truly congruent to you AND grant access to more people
+3. have a LASTING impression
+This is how you make more connections.
+
 ---
 # References
 1. Kleon, Austin - Show your Work

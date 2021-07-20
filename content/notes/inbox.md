@@ -67,4 +67,23 @@ okay so I get home at 5:30 ish. and I plan on getting into bed around 10. I don'
 
 anyways that is like 4.5 hours I have a night to myself. I spend an hour eating and doing dinner. then another hour working out, showering and taking care of daily hygeine. 
 
-that's 2.5 hours left... that's a movie a day.. hmm. I wonder if arrival is on anything. 
+# lack of energy 
+- motivation?
+- pure energy
+- workout in the mornings?
+- I think I sleep a lot
+  - prioritize naps..
+
+- Always do some physical fitness after dinner... aka dynamic stretch, ab work and stretch
+- review my diet, stop eating shit food and focus on veggies, fruits and lean protein
+- drink more fucking water 
+- sleep is good
+- I don't meditate
+- put away my electronics, downstairs. I can only social media while I cook?
+
+so there are definitely things I know I need to do that I am not doing yet... fuck. I am definitely not priotizing keystone habits.
+
+I think my next book should be on this topic instead because I'm always fucking DEAD by the time I get home. : )
+
+
+
