@@ -22,5 +22,5 @@ Is that actually true though? Nier Automata will stay in the public conscious fo
 # embrace it
 remember to feel things fully. embrace it. and then let it go. 
 
-because your emotions do lie to you. [[illusory-living]] says that emotions were a part of biological evolution as a means to propogate our genes to the next generation. useful when you are outrunning a trex. 
+because your emotions do lie to you. [[the-hedonic-treadmill]] says that emotions were a part of biological evolution as a means to propogate our genes to the next generation. useful when you are outrunning a trex. 
 not useful when you want to punch your boss in t he face. 

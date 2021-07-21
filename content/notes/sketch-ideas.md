@@ -4,6 +4,7 @@ title: Sketch Ideas
 - botw link
 - abg's and gyaru's
 - modern knight
+- sketch idea: weight lifters as classes. novice, beginner, intermediate, advanced. would just draw normal class progressions but with visibly different body types. 
 
 ## hands cover bruise
 Intentional with holding of emotion. Pretend like you a robot. But you are a human being. 

@@ -2,18 +2,12 @@
 title: Inbox
 ---
 
-# feminism 
-setting and meeting expectations is incredibly important. in the world of work that manifests itself as the tenet of **underestimate, overdeliver**. A boss would rather the employee who estimates average output and delivers outputs instead of the employee who estimates perfect output and delivers great output. the second employee performed more but did not meet expectations. this is where biases hurt women in the workplace. Because the perceived bias for women is to be likeable, warm, and friendly; women make a likability trade off more then men. this manifests itself as women being forced to couch opinions when the same opinion can be vouched by men more aggressively and with more confidence. 
-
-[[naming-is-hard]]. Feminism has (sometimes intentional on both sides) misconceptions about the superiority of women over men. Quick google for the definition 
-> the advocacy of women's rights on the basis of the equality of the sexes.
-Equality being the key word which I think most people agree with. Issue for most people against feminism is the prospect that there is an inequality to begin with I suppose. 
-
-# feminism and mens rights activists
+# mens rights activists 
 Feminism doesn’t exclude men’s issues per say. It’s about equality. Men are free to join together and voice their issues as well. 
 
 The fact that men do not voice their issues is proof that men have the more beneficial position in life. This is muddied by the fact that one of the issues men deal with is not communicating their issues. Or maybe it’s compounded by increased sympathy for women aka damsel in distress which causes female issues to take more light. 
 
+In any case, one tenet for [[maintaining-personal-relationships]] is to focus on one issue at a time. This means letting feminism focus their voice on women's issues. And creating your own community, events, and hubs for men's rights. 
 
 # Internet's Cultural Impact
 In her essay about the internet it discusses how the internet is degrading culture, community and sense of identity. 
@@ -24,48 +18,15 @@ Stay connected with your friends across the country. [[focus-on-the-world-around
 
 The internet gives you options but there's also the argument against having an overabundance of options. 
 
-# discords as community hubs
-it all started with the halo days on those custom servers. I still think that was the epitome because it was so easy to create commmunities by hosting your own servers. people naturally congregated around the same servers and you actually got to know people and join clans. with a game as baseline as halo you even saw people develop playstyles. I remember bigzilla constantly grabbing the sniper, sticky rice doing some sneaky shit and myself gravitating to the banshee. those days were so much fun lol. the custom servers where you'd play zombies. playing with my brother and kevin. they still play together to this day in discords. that was probably the natural evolution of online gaming communities after after years of ranked online play. 
 
-# deep work
-Don’t complain about having more time do perform focus work if you aren’t effectively using your time at work. 
+# trend towards temporal 
+I am constantly thinking about having lasting things. how to make lasting happiness, lasting changes in my life, my life's work, accumulating skills over time. but I also need to accept that some things are just for a moment in time and that's okay. like the wedding. just a one day event that will come and go. but that's fine. 
 
-# LEVEL up YOUR LIFE 
-lifting weights. Upgrade in real life. Similar to clothes. Lol. 
-
-sketch idea: weight lifters as classes. novice, beginner, intermeddiate, advanced. 
-would just draw normal class progressions but with visibly different body types. 
-
-# phases in life 
-You go through phases In life and that’s okay. You’ve taken long breaks from anime and re entered with a gusto. The same will probably happen again and you can still look back with fondness. Right now you are into filmmaking. 
-
-# pantinas
+# pantinas as social proof for hobbies
 repeated use. 
 - carbon steel, cast iron
 - leather
 - raw denim
-
-# always be optimizing
-it's funny. I just read jia's essay on arguing maybe not against. but how society rallies individuals to optimize their life. to live with the system and synthesize with it and truly embody it. 
-
-yet, that is exactly what I want to do. I want to be efficient. to be conventionally attractive. fit. well dressed. cultured. smart. funny. 
-
-for others? for rena? my family and friends? random individuals on the internet? myself?
-
-in today's society this inherently means [[optimizing-for-selfishness]] and thus becoming a more selfish individual yourself. 
-
-biggest time wasters
-- apex legends
-- tiktok : )
-
-I do want to add these things back in .... slowly. but I need to figure out my life first.
-there's conceivably 8 hours in a work day in which I am forced in one spot. I can make the most of that. otherwise. 
-
-there was a tiktok about skipping the phase of your life where you dating and figuring life out and going straight into the extravagent sunday brunch part of your life. 
-
-okay so I get home at 5:30 ish. and I plan on getting into bed around 10. I don't wake up til like 8:20ish though... why do I need so much sleep. very inconvenient. but for now I get into bed at 10 and sleep around 10:30 that means I sleep like 10 hours... that's a lot. I use social media for a bit and then go to sleep. 
-
-anyways that is like 4.5 hours I have a night to myself. I spend an hour eating and doing dinner. then another hour working out, showering and taking care of daily hygeine. 
 
 # lack of energy 
 - motivation?
@@ -85,5 +46,19 @@ so there are definitely things I know I need to do that I am not doing yet... fu
 
 I think my next book should be on this topic instead because I'm always fucking DEAD by the time I get home. : )
 
+# overengineering 
+finally getting to code again. it hasn't been the most glamourous tasks but I'm getting the job done. struggling through the population orchestrator I'm realizing that overengineering is the greater sin rather then underengineering. you have all these code paths that at the moment do anything and make everyday coding tasks harder as you try to wrap your head around what everything does. it trades making short term code changes a little harder everyday vs the hope that it will make a big change in the future a lot easier. 
 
+as you gain in seniority you generally have an idea of where to make these choices, it's a necessary skill because when you don't make it correctly it's very painful. 
 
+there was also the incident where I felt first hand why immutability was important. there was a piece of state being passed around that kep track of all the running network calls and so some slipped my notice because that state was being amended in other classes. not fun. 
+
+# wedding woes
+rena is so excited for our wedding. I am as well... but not nearly as much as she is. today we got news that some multi million dollar company dropped fat stacks on our venue so we're being booted. nothing is going to change that fact. 
+
+I'm okay but she's taking it pretty hard. 
+
+It is both a blessing and a curse to feel things so deeply. 
+
+# apex ledge ends
+spent hours and hours playing this god forsaken game. and for what. I yell. scream. have fun. in ways that I don't really do in my normal life. I don't get that kind hype and freedom from going to shows. or other real life events haaa. guess I really am just a gamer at heart. it's so hard to reconcile how much time I spend on the game versus all the other things I want to do in my life though. Even now I'm itching to get a few rounds in. it's just apex legends in general though that sucks me in like this. I replayed BoTW and started disco elysium and they just weren't pulling me in the same way. it was my thesis before about making a competitive shooter into a roguelite, two very gamey games that I absolutely love. 
